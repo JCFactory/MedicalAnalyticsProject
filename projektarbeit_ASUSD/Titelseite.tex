@@ -1,0 +1,48 @@
+		\begin{titlepage}
+			\begin{center}
+				\begin{spacing}{2}
+					\includepdf{Image/FOM_Logo.pdf}
+					\textbf{\large FOM - Hochschule für Oekonomie \& Management \\
+						Hamburg \\
+						\ \\
+						Master-Studiengang Big Data \& Business Analytics \\
+						x. Semester \\
+						\ \\
+						Titel\\
+						Titel\\
+						Titel 
+						}
+				\end{spacing}
+
+				\vfill
+				
+				\begin{tabbing}
+					\hspace{2.5cm}\=\kill
+					Betreuer: \>  \\
+					\> Dozent im Fach \glqq \grqq \\
+					\ \\
+					Autor: \> Vorname Nachname \\
+					\> Straße \\
+					\> PLZ Ort \\
+					\> Matrikel-Nr:  \\
+					\> x. Fachsemester \\
+					\ \\
+					Ort, den \today
+				\end{tabbing} 
+			\end{center}
+		\end{titlepage}
+
+%\includepdf{Image/Deckblatt.pdf}
+
+			\setcounter{tocdepth}{3}
+			\setcounter{secnumdepth}{3}		
+			\pagenumbering{Roman}
+			\thispagestyle{empty}
+			\pdfbookmark{\contentsname}{toc}\tableofcontents
+			\newpage
+			\listoffigures
+			\listoftables
+			\printglossary[type=acronym,style=listdotted,title=Abkürzungsverzeichnis,toctitle=Abkürzungsverzeichnis] 
+			\newpage
+			\pagenumbering{arabic}
+			\thispagestyle{empty}

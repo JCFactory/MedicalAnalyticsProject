@@ -1,0 +1,55 @@
+\input{definition}
+\input{Abkuerzung}
+
+
+\begin{document}
+		\input{Titelseite}
+
+		
+\chapter{Einleitung}
+	
+	\section{Problemstellung}
+		
+	\section{Zielsetzung und Aufbau der Arbeit}
+		 
+		
+		
+\chapter{Grundlagen und Definitionen}
+	
+	
+	\section{Unterkapitel 1}
+	
+% Beispiel für Bild
+		\begin{figure}[htbp]
+			\centering
+			\includegraphics[width=1\textwidth]{Image/xxx.pdf}
+			\caption[xxx]{Bildunterschrift}
+			\label{xxx}
+		\end{figure}
+		
+			
+	\section{Unterkapitel 2}
+		
+% Beispiel Zitat		
+		\begin{quote}
+			\textit{Ein Zitat}
+		\end{quote}
+
+	\section{Unterkapitel 3}	\label{Kapitel_xxx} % Beispiel Referenz
+		... ausführliche in Kapitel \ref{Kapitel_xxx}
+
+% Quellenangabe 		\autocite[Seite]{Autor.Jahr}
+				\autocite[20]{Backhaus.2011}
+				
+% Einbindung von Akronymen
+	\gls{tmg}
+
+\chapter{Schlussbetrachtung}
+
+\input{Verzeichnis}
+\newpage
+
+\input{Anhang}
+
+
+\end{document}

@@ -1,0 +1,81 @@
+\documentclass[12pt, a4paper]{scrreprt}
+
+\renewcommand*\familydefault{\sfdefault} 
+%\usepackage[T1]{fontenc}
+
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[onehalfspacing]{setspace}
+\usepackage{geometry, textcomp}
+\newgeometry{right=2cm,left=4cm, top=2.5cm, bottom=2.3cm, footnotesep=0.5cm}
+
+\usepackage[acronym]{glossaries}	% creates a glossary
+\glsenablehyper
+\makeglossaries
+
+\usepackage[automark,headsepline,ilines,komastyle]{scrpage2}
+\usepackage{amsmath,amssymb,amstext}
+\usepackage{blindtext}
+\setlength{\parindent}{0pt}
+\setlength{\headheight}{1.5\baselineskip}
+\renewcommand{\baselinestretch}{1.5}
+
+\pagestyle{scrheadings}
+\clearscrheadfoot
+\ihead[]{}
+\chead[]{}
+\ohead[]{\headmark \hfill \thepage}
+\ifoot[]{}
+\cfoot[]{}
+\ofoot[]{}
+
+\setheadsepline[\textwidth]{1pt}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{hhline}
+\usepackage{array}
+\usepackage{tocloft}
+\usepackage[hidelinks]{hyperref}
+\tocloftpagestyle{scrheadings}
+\renewcommand{\chapterpagestyle}{scrheadings}
+\usepackage[font=footnotesize]{caption}
+
+\usepackage{tikz}
+\usepackage{rotating} 
+
+\newenvironment{packed_item}
+	{\begin{itemize}
+			\setlength{\itemsep}{0pt}
+			\setlength{\topsep}{0pt}
+			\setlength{\parsep}{0pt}
+			\setlength{\parskip}{0pt}}
+		{\end{itemize}}
+	
+\usepackage[style=authoryear, natbib=true, backend=biber]{biblatex}
+
+\renewcommand{\nameyeardelim}{ }
+\usepackage[babel,german=guillemets]{csquotes}
+
+\makeatletter
+
+\newrobustcmd*{\parentexttrack}[1]{%
+	\begingroup
+	\blx@blxinit
+	\blx@setsfcodes
+	\blx@bibopenparen#1\blx@bibcloseparen
+	\endgroup}
+
+\AtEveryCite{%
+	\let\parentext=\parentexttrack%
+	\let\bibopenparen=\bibopenbracket%
+	\let\bibcloseparen=\bibclosebracket}
+
+\makeatother
+
+\usepackage{pstricks}
+\usepackage{pstricks-add}
+
+
+\addbibresource{Lit.bib}
+\usepackage[final]{pdfpages}
