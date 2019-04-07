@@ -1,0 +1,109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{breastcancer}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=11700b6bf0be811c66dda212e7a6441f}{%
+           family={Jurca},
+           familyi={J\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b6953fb64d6ac4976d91df5dad0617e}{%
+           family={Addam},
+           familyi={A\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5f58887cecd1f8a46a4357c46f884de4}{%
+           family={Aksac},
+           familyi={A\bibinitperiod},
+           given={Alper},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5eeddb3ce304dbccf85bda944f61e9c8}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Shang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5138f10b0c5dfc1ecbd1fa21e36ae318}{%
+           family={Özyer},
+           familyi={Ö\bibinitperiod},
+           given={Tansel},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ca17f757359e595dd44262d065131cc}{%
+           family={Demetrick},
+           familyi={D\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=27f1e685b28e4afd07e85c16573578f8}{%
+           family={Alhajj},
+           familyi={A\bibinitperiod},
+           given={Reda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{fullhash}{d92bc8ea8cff02530ec5c69699571edc}
+      \strng{bibnamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authorbibnamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authornamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authorfullhash}{d92bc8ea8cff02530ec5c69699571edc}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1756-0500}
+      \field{journaltitle}{BMC Research Notes}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Integrating text mining, data mining, and network analysis for identifying genetic breast cancer trends}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1186/s13104-016-2023-5
+      \endverb
+      \verb{file}
+      \verb Jurca et al. - 2016 - Integrating text mining, data mining, and network .pdf:files/22/Jurca et al. - 2016 - Integrating text mining, data mining, and network .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-016-2023-5
+      \endverb
+      \verb{url}
+      \verb http://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-016-2023-5
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

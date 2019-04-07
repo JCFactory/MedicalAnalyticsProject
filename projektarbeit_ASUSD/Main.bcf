@@ -1996,7 +1996,7 @@
     <bcf:datasource type="file" datatype="bibtex">Lit.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Backhaus.2011</bcf:citekey>
+    <bcf:citekey order="1">breastcancer</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
