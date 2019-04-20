@@ -1,0 +1,351 @@
+
+Toggle navigation
+
+    Home
+    Lizenzen
+    BLS-Wissen
+
+    Log In (current)
+       
+
+ BLS Hintergrund
+BLS-Aufbau Das Schlüsselsystem Die BLS-Inhaltsstoffe
+ Lebensmittel
+B Brot und Kleingebäck C Cerealien, Getreide, Reis D Backwaren E Eier und Teigwaren F Früchte und Obst G Gemüse H Hülsenfrüchte, Schalenobst und Samen K Kartoffeln, stärkereiche Pflanzenteile, Pilze M Milch und Käse N, P Getränke Q Öle, Fette, Butter, Schmalz R Gewürze, Würzmittel, Hilfsstoffe S Süßwaren, Zucker, Schokolade, Eis T Fisch und Meeresfrüchte U, V Fleisch W Wurst und Fleischwaren  Menükomponenten
+X überwiegend pflanzlich Y vorwiegend tierisch
+Bundeslebensmittelschlüssel
+Was möchten Sie wissen?
+
+Auf der BLS-Webseite haben Sie nicht nur Zugang zu den BLS-Daten, sondern können auch etwas über den Hintergrund und Aufbau des BLS erfahren und zusätzliche Informationen über die im BLS aufgeführten Lebensmittel bekommen.
+Was ist der BLS?
+
+Der Bundeslebensmittelschlüssel (BLS) ist eine Datenbank für den Nährstoffgehalt von Lebensmitteln. Er wurde als Standardinstrument zur Auswertung von ernährungsepidemiologischen Studien und Verzehrserhebungen in der Bundesrepublik Deutschland entwickelt. Im BLS sind die durchschnittlichen Nährstoffwerte von fast 15.000 Lebensmitteln, die auf dem Markt erhältlich sind, weitestgehend erfasst.
+
+Die Grundlage für die Nährstoffdaten des BLS bilden die Untersuchungsergebnisse des Max Rubner-Instituts und der nationalen Kooperationspartner, wie z. B. Bundesinstitute und -ämter, Landesanstalten, Unternehmen der Lebensmittelwirtschaft und Verbände. Ergänzend wird Datenmaterial aus der wissenschaftlichen Literatur und internationalen Nährstoffdatenbanken erfasst und in ihrer Qualität bewertet.
+
+Der BLS ist in seiner neusten Version nun verfügbar.
+
+Die wesentliche Neuerung der BLS-Version 3.02 gegenüber der Version 3.01 besteht darin, dass für die Berechnung der Nahrungsenergie der Energiegehalt von Ballaststoffen berücksichtigt wird. Daneben bleibt die Energieberechnung ohne Einbeziehung der Energie aus Ballaststoffen weiterhin als BLS-Variable bestehen.
+
+Zudem wurden in der BLS-Version 3.02 Anpassungen der Iodidgehalte bei trockenem Tee und Teeaufguss vorgenommen.
+
+Des Weiteren wurden einzelne Nährstoffdaten von Lebensmitteln korrigiert:
+
+    Vitamin D-Gehalte bei alkoholischen Getränken.
+    Phosphorgehalt von Salzlakenkäse aus Ziegenmilch.
+    Laktosegehalt laktosefreier Milchprodukte.
+    Spurenelemente (Eisen-, Zink-, Kupfer- und Mangan) von Glasnudeln.
+
+Mit der Version 3.02 erhalten Sie zudem eine Diskrepanzenliste. In dieser Liste sind die uns bei der Veröffentlichung dieser Version bereits bekannten Fehler und Ungenauigkeiten aufgeführt. Aufgrund der Neuentwicklung der BLS-Berechnungssoftware und deren Anpassung an europäische Standards konnten diese noch nicht behoben werden.
+
+Die Diskrepanzenliste finden Sie hier als pdf-Datei zum Download:
+
+    Kundeninformation_BLS_3.02_Stand_05-07-2017.pdf
+
+Das Bestellformular für die BLS-Version 3.02 finden Sie auf dieser Website www.blsdb.de unter dem Menüpunkt "BLS-Lizenzen" .
+
+
+Der BLS ist so aufgebaut, dass Abweichungen weitestgehend reduziert werden. Um dies zu erreichen, wurde der BLS nach folgenden Gesichtspunkten entworfen:
+
+1. Hierarchische Gliederung der Lebensmittelgruppen
+
+Der BLS ist so strukturiert, dass Lebensmittel mit annähernd gleichen Analysenwerten in Lebensmittelgruppen zusammengefasst werden. Dadurch ergibt eine Detaillierung des Schlüssels bei der Codierung zwar eine exaktere Beschreibung des Lebensmittels, aber meist keine wesentliche Veränderung der Inhaltsstoffe. Mit anderen Worten:
+
+Ein Nullsetzen (Verkürzen) oder ein Spezifizieren (Verlängern) des Schlüssels bei der Codierung der 1. bis 5. Stelle des Schlüssels um jeweils eine Stelle ergibt wesentliche Veränderungen in der Genauigkeit der Beschreibung, aber teilweise nur geringfügige Veränderungen in der Ermittlung der wesentlichen Inhaltsstoffe.
+
+Verwiesen wird auf den Zusammenhang zwischen der Zubereitungsform des Lebensmittels und dessen Bezugsgewicht (Codierung in der 6. und der 7. Stelle des SBLS für die Berechnung, Beurteilung und Anwendung der BLS-Nährwertdaten).
+
+2. Eindeutige und schnelle Verschlüsselung
+
+Jedes Lebensmittel/Lebensmittelerzeugnis hat eine eigene Schlüsselnummer, wodurch eine schnelle, knappe und übersichtliche Codierung möglich ist. Zur schnellen Codierung ist der SBLS als Parallelschlüssel entworfen, weitestgehend sprechend gestaltet sowie kurz und übersichtlich.
+
+Ein Parallelschlüssel besteht aus einem klassifizierenden (sprechenden) und einem identifizierenden (nicht sprechenden) Schlüssel. Zur schnellen Codierung ist parallel zum sprechenden BLS-Schlüssel (Feld SBLS) ein nicht sprechender Zählschlüssel (fortlaufende Datenbankzählnummer) vorhanden.
+
+Für Vergleichszwecke und Auswertungen wird immer der sprechende BLS-Schlüssel verwendet.
+
+Beide Schlüssel sind durch die 1. Stelle eindeutig gekennzeichnet. Der SBLS beginnt mit einem Buchstaben und der Parallelschlüssel mit einer Zahl.
+
+Weitestgehend sprechend ist der SBLS durch den Buchstaben in der 1. Stelle (=Art des Lebensmittels),z. B.
+
+    B: Brot und Kleingebäck
+
+    E: Eier und Eiprodukte
+
+und durch die Codierung der 6. und 7. Stelle der Lebensmittelhauptgruppen B - W (= Garverfahren).
+
+Beispiel:
+
+    6. Stelle = 1 bedeutet handelsüblich
+
+    6. Stelle = 2 bedeutet gegart
+
+    6. Stelle = 3 bedeutet gekocht
+
+7. Stelle Gewichtsbezug
+
+3. Berechnung der "missing values"
+
+Kern des BLS ist die Berechnung fehlender Analysenwerte, die Berechnung zubereiteter Lebensmittel und die Berechnung von verzehrsfertigen Menükomponenten. Um hier mit einfachen Algorithmen arbeiten zu können, ist eine Strukturierung nach biologisch ähnlichen Lebensmittelgruppen vorgenommen worden. Siehe  BLS-Wissen Lebensmittel
+Das Schlüsselsystem
+
+Der BLS-Schlüssel ist 7-stellig aufgebaut, wobei mit jeder Stelle die Genauigkeit der Beschreibung des betreffenden Lebensmittels bzw. Produktes vergrößert wird. Die ersten vier Stellen stellen den Grundschlüssel dar. Sie beschreiben das Einzellebensmittel und die Menükomponenten.
+
+1. Stelle (B-Y): Hauptgruppe --> Art des Lebensmittels,
+
+    z. B. G: Gemüse und Gemüseerzeugnisse,
+
+    X und Y: Menükomponenten aus Haushalt und Gastronomie
+
+2. Stelle (0-9): Untergruppe,
+
+    z. B. G1: Salatgemüse, G3: Kohlgemüse
+
+3. und 4. Stelle (0-9): fortlaufende, klassifizierende Verschlüsselung der
+
+      einzelnen Lebensmittel
+
+5. Stelle (0-9): mehrfache Bedeutung
+
+    a) industrielle Verarbeitung
+
+    b) Fettgehalt bei Milchprodukten
+
+    c) Getränke mit Milch/Zucker/Alkohol etc.
+
+    d) weitere Spezifizierung der Einzellebensmittel,
+
+     z. B. aufgrund von Zusätzen
+
+6. Stelle (0-9): bei den Hauptgruppen B-W: Garverfahren, z. B. 3 = gekocht
+
+        X, Y: Zubereitung
+
+7. Stelle: Gewichtsbezug
+
+   0, 2, 3 = Verzehrsgewicht ohne Küchenabfall
+
+   1, 4 = Verzehrsgewicht mit Küchenabfall
+
+Der BLS-Schlüssel ist hierarchisch aufgebaut, d. h. wird jeweils eine Stelle weggestrichen (=0 gesetzt), so stellt der verbleibende Schlüssel den Gruppenbegriff dar.
+Die BLS-Inhaltsstoffe
+
+Grundlage für die Nährwertdaten des BLS bilden die Untersuchungsergebnisse des Max Rubner-Institutes und der nationalen Kooperationspartner wie z. B. Bundesinstitute und -ämter, Landesanstalten, Unternehmen der Lebensmittelwirtschaft und Verbände. Ergänzend wird Datenmaterial aus der ernährungswissenschaftlichen Literatur und internationalen Nährwertdatenbanken erfasst und in ihrer Qualität bewertet.
+
+Die Angaben dieser Untersuchungen beziehen sich vorwiegend auf unverarbeitete Einzellebensmittel (Basislebensmittel). Kern des BLS ist die Berechnung fehlender Analysenwerte, die Berechnung zubereiteter Lebensmittel und die Berechnung von verzehrsfertigen Menükomponenten. Um hier mit einfachen Algorithmen arbeiten zu können, ist eine Strukturierung nach biologisch ähnlichen Lebensmittelgruppen vorgenommen worden.
+
+Als Basislebensmittel werden die Lebensmittel bezeichnet, die analysierte Werte enthalten. Die Wertefelder der Basislebensmittel bestehen aus gemessenen Werten (Originalwerten), aus von gemessenen Werten abgeleiteten Werten ("missing values"), sowie aus berechneten und indirekt berechneten Werten.
+
+Für Nährstoffe, Vitamine, Mineralstoffe, nicht resorbierbaren Oligosaccharide, Harnsäure, Cholesterin und Portionsgrößen gibt es Originalwerte.
+
+Waren bei den Basislebensmitteln die Messwerte unvollständig, so wurden diese "missing values" aus vorhandenen Werten der gleichen Lebensmittel bzw. der gleichen Inhaltsstoffgruppe abgeleitet.
+
+Als "indirekt berechnet" werden diejenigen Werte bezeichnet, die aus Prozentwerten auf der Basis von Analysenwerten berechnet wurden. Die Notwendigkeit einer indirekten Berechnung liegt in der Tatsache begründet, dass sich die Analysenwerte der Zusammensetzung eines Nährstoffes in der Regel auf einen anderen Gesamtgehalt des Nährstoffes beziehen, als der für den BLS ausgewählte Wert des entsprechenden Nährstoffes.
+
+Im BLS werden Kohlenhydratzusammensetzungen, Ballaststoffzusammensetzungen, Eiweißzusammensetzungen und Fettzusammensetzungen indirekt berechnet, d. h.
+
+a) Die Analysewerte der Zusammensetzung werden entsprechend ihrer Anteile am Gesamtinhaltsstoffgehalt in Prozentwerte umgerechnet.
+
+b) Die Prozentwerte werden so auf- oder abgerundet, dass die Summe 100 % ergibt.
+
+c) Aus diesen Prozentwerten werden dann die absoluten Werte der Zusammensetzung für den BLS berechnet.
+
+Hier finden Sie die im BLS vertretenen Inhaltsstoffe als pdf-Datei zum Download:
+
+    BLS_Variablen_3.02.pdf
+
+Lebensmittel
+
+Hier finden Sie Zusatzinformationen über viele Lebensmittel, die im BLS aufgelistet sind. Dieser Bereich wird kontinuierlich ausgebaut und bringt regelmäßig neue Infos über die Lebensmittel von der Herkunft über die Verarbeitung bis hin zum Verzehr.
+
+Über Anregungen freut sich das BLS-Team!
+Brot und Kleingebäck
+
+Die Lebensmittelgruppe "Brot und Kleingebäck" enthält ca. 580 verschiedene Lebensmittel. Brot zählt in Europa zu den Grundnahrungsmitteln. Vor allem in Deutschland sind über 200 verschiedene Brotsorten bekannt.
+
+Brot wird meist aus Hefe- oder Sauerteig hergestellt. Hefeteig besteht in der Regel aus Weizenmehl, Flüssigkeit sowie ggf. weiteren Zutaten und wird mit Hilfe von Bäckerhefe ( Saccharomyces cerevisiae ) gelockert. Durch die Kohlendioxidbildung der Hefezellen vergrößert sich das Volumen des Hefeteigs.
+
+Sauerteig entsteht durch die Gasentwicklung von Hefe, Milch- und Essigsäurebakterien in einem Gemisch aus Wasser und Mehl. Im Sauerteig kommen hauptsächlich die Milchsäurebakterien Lactobacillus plantarum und Lactobacillus brevis vor, welche Milchsäure, Kohlenstoffdioxid sowie Essigsäuren bilden, die sowohl den Geschmack als auch das Aroma des Sauerteiges liefern.
+Cerealien, Getreide und Getreideprodukte, Reis
+
+Die Lebensmittelgruppe "Cerealien, Getreide und Getreideprodukte, Reis" enthält ca. 300 Lebensmittel.
+In den Untergruppen "Getreide" und "Mehl" sind die in Deutschland wichtigsten Getreidearten wie Weizen, Hafer, Gerste und Roggen und die Mehle aus diesen Getreidearten mit unterschiedlichen Typenzahlen aufgelistet. Die Typenzahl eines Mehles gibt an, wie viel mg Asche, d. h. unbrennbare Mineralstoffe im ausgemahlenen Mehl enthalten sind. Zum Beispiel beinhalten 100 g Weizenmehl der Type 405 demnach 405 mg Mineralstoffe.
+
+Im BLS sind auch die Nährwerte von "Speziellen Getreiden" und "Speziellen Getreidemehlen" vorhanden. Zu diesen Getreidearten gehören: Grünkern, Buchweizen, Hirse, Mais und Reis. Grünkern ist unreif geernteter Dinkel, der anschließend über Buchenfeuer getrocknet wird, damit die Körner hart und mahlfähig werden. Entstanden ist der Grünkern durch Zufall, als früher die Bauern aus Furcht vor einer Missernte den Dinkel unreif ernteten. Der Buchweizen dagegen gehört botanisch gesehen zur Familie der Knöterichgewächse. Da Buchweizen glutenfrei ist, eignet er sich für die Ernährung bei Zöliakie (Glutenunverträglichkeit).
+
+In der Untergruppe "Getreideerzeugnisse" befinden sich verschiedene Sorten von Müsli und Frühstückscerealien. Zusätzlich gibt es noch Untergruppen mit "Fertiggerichten" , die Gerichte auf Getreide-oder Mehlbasis wie z. B. Grießklößchen und Flädle enthalten.
+Dauerbackwaren, Kuchen, Feinbackwaren
+
+Die Gruppe "Dauerbackwaren, Kuchen, Feinbackwaren" enthält ca. 500 Lebensmittel. Feinbackwaren unterscheiden sich von Brot und Brötchen durch ihren Gehalt an Fett und/oder Zucker, der mindestens 10 % betragen muss. Dauerbackwaren sind feine Backwaren, die aufgrund ihres erniedrigten Feuchtigkeitsgehaltes und meist erhöhten Zuckergehaltes länger haltbar sind.
+
+Kuchen und verschiedene Teigarten befinden sich in den Untergruppen "Obstkuchen" , "Obsttorten" , "Torten" und "Kuchen" .
+In den Untergruppen "besondere Teige" sind z. B. Apfelstrudel oder Waffeln in verschiedenen Variationen zu finden.
+Weiterhin gibt es die Untergruppen: "Kleinteile, Plätzchen, Kekse" und "Backwarenerzeugnisse" , wobei letztgenannte z. B. Backmischungen für verschiedene Kuchen enthält.
+Eier und Eierprodukte, Teigwaren
+
+Die Gruppe "Eier und Eierprodukte, Teigwaren" enthält 220 Lebensmittel.
+Die Untergruppe "Eier" beinhaltet neben den Inhaltstoffen des Hühnereis auch die Inhaltstoffe von Enten-, Gänse- und Puteneiern. In den verschiedenen Untergruppen der "Teigwaren" befinden sich z. B. unterschiedlich geformte Varianten wie Spaghetti, Makkaroni und Spätzle, mit oder ohne Ei, aus Vollkorn oder glutenfrei hergestellt.
+
+Als "Nudeln" im ursprünglichen Sinne werden Teigwaren in schmaler oder breiter bandartiger Form bezeichnet.
+Teigwaren werden meist aus Hartweizengrieß, Wasser und teilweise auch aus Eiern hergestellt. Hartweizen zeichnet sich gegenüber anderen Weizensorten durch einen hohen Eiweißgehalt aus. Teigwaren aus Hartweizengrieß besitzen eine hohe Quellfähigkeit beim Kochen, bleiben aber bissfest.
+Glutenfreie Teigwaren werden z. B. aus Reis- oder Maismehl bzw. -grieß hergestellt. Die Herstellung jedoch ist bei allen Sorten gleich - der Teig wird im Rohzustand beliebig geformt und mit Ausnahme frischer Teigwaren getrocknet. Zum Verzehr müssen Teigwaren zunächst in kochendem Salzwasser bissfest ("al dente") gegart werden.
+
+In Deutschland sind Teigwaren, die mit Ei hergestellt werden, sehr beliebt.
+Dabei wird zwischen "Eierteigwaren" (100 g Ei pro kg Grieß), "Eierteigwaren mit hohem Eigehalt" (4 Eier bzw. 200 g Ei pro kg Grieß) und "Eierteigwaren mit besonders hohem Eigehalt" (6 Eier bzw. 300 g Ei pro kg Grieß) unterschieden.
+Zusätzlich gibt es die "Frischei-Teigwaren" , die ausschließlich mit frisch aufgeschlagenen Eiern hergestellt werden dürfen, während zur Herstellung sonstiger Eierteigwaren auch tiefgefrorene oder getrocknete Eier zulässig sind.
+Früchte, Obst und Obsterzeugnisse (Konfitüren, Marmeladen und Fruchtsäfte)
+
+Im BLS sind ca. 1250 verschiedene Früchte, Obst und Obsterzeugnisse wie z. B. Konfitüren, Marmeladen und Fruchtsäfte verzeichnet.
+
+Die Früchte sind in die Gruppen "Wildfrüchte" , "Südfrüchte" und "Zitrusfrüchte" unterteilt.
+Zu den Wildfrüchten gehören Früchte, die nicht züchterisch bearbeitet wurden wie beispielsweise Hagebutte oder Vogelbeere/Eberesche.
+Südfrüchte wie z. B. Ananas, Bananen und Mango werden aus tropischen oder subtropischen Ländern importiert, da sie nicht in nördlichen Klimazonen gedeihen.
+Zitrusfrüchte, z. B. Zitronen, Orangen und Limonen, bestehen aus der äußeren Schale, der inneren weißen Schale und aus dem essbaren Teil, der durch Segmente getrennt ist.
+
+Das Obst wird in die Untergruppen "Kernobst" , "Steinobst" und "Beerenobst" unterteilt.
+Zum Kernobst gehören u. a. Äpfel und Birnen, da sie ein Kerngehäuse mit mehreren kleinen Kernen besitzen.
+Unter Steinobst versteht man alle Obstsorten mit verholztem Kern wie z. B. Pfirsiche, Aprikosen, Mirabellen und Kirschen.
+Zu den echten Beerenfrüchten zählen z. B. Stachelbeeren, Johannisbeeren, Heidelbeeren, aber auch Früchte wie Ananas und Wassermelone.
+Dagegen gehören z. B. Erdbeeren, Himbeeren und Brombeeren zu den Sammel- und Steinfrüchten, werden aber irrtümlich als "Beeren" bezeichnet.
+Gemüse und Gemüseerzeugnisse
+
+In der Gruppe "Gemüse und Gemüseerzeugnisse" sind ca. 1470 Einträge verzeichnet, darunter befinden sich auch Gemüsesäfte.
+Unter Gemüse versteht man einjährige Pflanzen oder Pflanzenteile, die roh oder zubereitet verzehrt werden können.
+Im BLS wird für Gemüse nachfolgende Unterteilung vorgenommen.
+
+Unter "Salatgemüse" und "Blattgemüse" versteht man die essbaren Blätter einer Pflanze wie z. B. Kopfsalat, Mangold oder Spinat, wobei das Salatgemüse in der Regel roh verzehrt wird.
+Zum "Kohlgemüse" zählen alle Kohlarten wie z. B. Rot- und Weißkohl sowie Wirsing.
+Beim "Sprossen - und Lauchgemüse" können die Sprossen oder der Stängel der Pflanze verzehrt werden, darunter sind u. a. Artischocken, Fenchel, Spargel, Lauch und Zwiebeln aufgelistet.
+Unter "Fruchtgemüse" versteht man die essbaren Teile der Pflanze, die sich aus der befruchteten Blüte entwickeln wie z. B. Tomate, Gurke, Paprika, Zucchini und Kürbis.
+Zum "Wurzel - und Knollengemüse" gehört der unterirdisch essbare Teil der Pflanze, der sich zu einer Knolle ausbildet. Dazu zählen beispielsweise Karotten, Radieschen, Meerrettich und Rote Rübe.
+Außerdem gibt es noch das "Hülsenfruchtgemüse unreif" , bei dem die unreifen Hülsen und unreifen Samen verzehrt werden wie z. B. bei Gemüsebohnen und Gemüseerbsen. Bei der Zuckererbse, auch Kaiserschote genannt, wird neben den unreifen Samen auch die zarte Hülse mitverzehrt.
+
+Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen
+
+In dieser Gruppe befinden sich ca. 460 verschiedenen Lebensmittel in unterschiedlicher Verarbeitung.
+
+In der Untergruppe "Nüsse" sind verschiedene Nussarten wie z. B. Haselnüsse, Walnüsse und Kokosnüsse enthalten. Mandeln, Edelkastanien (Maronen) und Pistazien befinden sich in der Untergruppe "Anderes Schalenobst" , da sie im botanischen Sinne nicht zu den Nüssen zählen.
+
+Die Untergruppe "Kerne" beinhaltet Kürbiskerne und Pinienkerne in unterschiedlichen Verarbeitungsweisen. Außerdem gibt es die Untergruppen "Ölsamen" , "Ölfrüchte" und "Sprossen, Keime" .
+
+"Hülsenfrüchte" bezeichnet man auch als Leguminosen, zu dieser Untergruppe gehören die trockenen, ausgereiften und lagerfähigen Samen verschiedener Bohnensorten sowie Erbsen und Linsen.
+
+Gesalzene Erdnüsse und Studentenfutter befinden sich in der Untergruppe "Nuss- und Ölsamenerzeugnisse" .
+
+In der Untergruppe "Hülsenfruchtgerichte" sind Gerichte wie z. B. Bohnensuppe enthalten.
+Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze
+
+Die Gruppe "Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze" enthält ca. 320 verschiedene Lebensmittel.
+Es gibt u. a. die Untergruppen "Kartoffeln" , "Kartoffelerzeugnisse" und "Fertiggerichte auf Kartoffelbasis" . Die Kartoffel wird in einigen Regionen auch Erdapfel genannt.
+Der essbare Anteil ist die unterirdische Sprossknolle der Kartoffelpflanze. Die Kartoffel stammt ursprünglich aus Südamerika und wurde dort schon seit ca. 200 n. Chr. kultiviert.
+Es gibt je nach Verwendungszweck etwa 200 unterschiedliche Sorten. In den oberirdischen Pflanzenteilen und in den grünen Stellen der Kartoffel ist das giftige Solanin enthalten, welches die Kartoffelpflanze vor Fressfeinden schützt.
+
+In der Gruppe der "Stärkereichen Pflanzenteile" findet man z. B. Maniok, Batate und Yamswurzel.
+Maniok (auch bekannt unter dem Name Cassava) wird zur Stärkegewinnung weltweit in tropischen und subtropischen Gebieten angebaut. Die bis zu 1 m langen Wurzelknollen haben einen Kohlenhydratanteil von ca. 32 % und enthalten somit mehr Stärke als Kartoffeln, Reis und Mais. Batate wird auch Süßkartoffel genannt, da die stärkereiche Wurzel viel Zucker enthält und daher süßlich schmeckt. Die Knollen der Yamswurzel können bis zu 2 m Länge erreichen. Auch die Yamswurzel ist in den Tropen und Subtropen ein wichtiger Stärkelieferant.
+
+Weiterhin gibt es noch die Untergruppen "Zuchtpilze, Wildpilze" , "Pilzerzeugnisse" und "Fertiggerichte auf Pilzbasis" . Darin sind die verschiedenen Pilzsorten in unterschiedlicher Verarbeitung aufgeführt.
+Milch, Milcherzeugnisse und Käse
+
+In der Gruppe "Milch, Milcherzeugnisse und Käse" sind ca. 850 Lebensmittel verzeichnet. In den Untergruppen "Milch und Sauermilch" und "Milchmischerzeugnisse" befinden sich verschiedene Milchsorten, gesäuerte Milchprodukte (z. B. Buttermilch, Joghurt) sowie ungesäuerte Milchprodukte (z. B. Süßmolke). Des Weiteren sind die Käsesorten in verschiedene Untergruppen z. B. "Hart-" , "Schnitt-" und "Weichkäse" eingeteilt.
+Milcherzeugnisse wie z. B. Kaffeeweißer oder Sahnepulver sind in der Untergruppe "Milch- und Käseerzeugnisse" zu finden.
+
+Käse wird in die zwei großen Gruppen Sauermilchkäse und Süßmilch- bzw. Labkäse aufgeteilt.
+Beim Sauermilchkäse wird die Magermilch durch Milchsäurebakterien gesäuert und im Anschluss der Bruch von der Molke getrennt. Dadurch entsteht Sauermilchquark, welcher gesalzen und in Form gebracht wird. Anschließend muss dieser ca. 1 ? 2 Wochen reifen.
+Da Sauermilchkäse immer einen Fettgehalt von unter 10 % aufweist, wird er zu den Käsesorten der Magerstufe gezählt.
+Bekannte Sorten sind Harzer Käse, Handkäse, Quargel und Mainzer.
+Süßmilchkäse ist ein mit Lab erzeugter Käse. Lab ist ein Enzymgemisch aus dem Magen von Wiederkäuern im milchtrinkenden Alter. Die Enzyme können das Milcheiweiß Kasein so spalten, dass die Milch nicht sauer wird. Deshalb wird dieser Käse auch Süßmilchkäse genannt.
+Nichtalkoholische und alkoholische Getränke
+
+Die Gruppe der Getränke ist in "Nichtalkoholische Getränke (Kaffee, Tee, Erfrischungsgetränke)" und "Alkoholische Getränke (Bier, Wein, Spirituosen)" aufgeteilt.
+Zur Gruppe der nichtalkoholischen Getränke gehören die Untergruppen "Mineralwasser, Trinkwasser" , "Fruchtsaftgetränke" , "Brausen, Limonaden" , "Kaffee" , "Kaffee-Ersatz" , "Tee" und "Früchtetee, Kräutertee" .
+Kaffee ist eines der beliebtesten Getränke in Deutschland. Der durchschnittliche Jahreskonsum beträgt ca. 149 Liter pro Kopf.
+
+Die alkoholischen Getränke sind in folgende Gruppen aufgeteilt: "Bier" , "Weißwein, Rotwein, Roséwein" , "Weinähnliche Getränke, Schaumwein" , "Likörwein (süß oder trocken)" , "Likör" , "Branntwein aus Wein" , "Spirituosen" , "Alkoholische Erzeugnisse" und "Cocktails" .
+Öle, Fette, Butter, Schmalz
+
+Die Gruppe der "Öle, Fette, Butter, Schmalz" enthält etwa 100 Lebensmittel.
+
+Die pflanzlichen Öle sind in drei Untergruppen unterteilt.
+
+Zu den "Pflanzlichen Ölen, < 30 % Linolsäuregehalt" zählen z. B. Olivenöl, Haselnussöl und Palmöl.
+Weizenkeimöl, Sesamöl, Kürbiskernöl und Sojaöl gehören u. a. zu den "Pflanzlichen Ölen, 30 ? 60 % Linolsäuregehalt" .
+Dagegen befinden sich Sonnenblumenöl, Walnussöl und Distelöl in der Untergruppe "Pflanzliche Öle, > 60 % Linolsäuregehalt" .
+
+Des Weiteren gibt es die Untergruppen "Margarine" , "Pflanzliche Fette" , "Butter" , "Tierische Öle" , "Tierische Fette" und "Ölsoßen, Mayonnaisen, Fettzubereitungen" .
+Gewürze, Würzmittel, Hilfsstoffe
+
+In der Gruppe "Gewürze, Würzmittel, Hilfsstoffe" sind ca. 250 Lebensmittel enthalten.
+Darunter befinden sich verschiedene "Würzmittel" wie z. B. Salz, Essig, Senf und Ketchup.
+In der Untergruppe "Gewürze" sind verschiedene getrocknete Kräuter wie z. B. Basilikum, Oregano und Thymian zu finden.
+
+Außerdem gibt es die Untergruppe "Essenzen, Aromastoffe" .
+Unter Essenz versteht man die konzentrierte Lösung einer Substanz. Das Wort Essenz ist demzufolge gleichbedeutend mit Konzentrat.
+Das Aroma eines Stoffes entsteht durch bestimmte chemische Verbindungen (Aromate). Natürliche Aromen kommen in der Natur vor und werden aus natürlichen Stoffen isoliert. Naturidentische Aromen sind chemisch mit den natürlichen Aromen identisch, werden jedoch synthetisch hergestellt. Künstliche Aromen werden im Labor entwickelt und kommen in der Natur nicht vor.
+
+Weitere Untergruppen sind "Hilfsmittel, Backtrieb-, Gelier- und Dickungsmittel" , "Organische Säuren" , "Konservierungsstoffe" , "Vitaminpräparate, Mineralstoffpräparate" , "Brühwürfel, Fleischextrakt" und die Gruppe "Rezeptzutaten, Erzeugnisse" , in der hauptsächlich Salatdressings zu finden sind.
+Süßwaren, Zucker, Schokolade, Eis
+
+Die Gruppe "Süßwaren, Zucker, Schokolade, Eis" verzeichnet 450 Lebensmitteleinträge.
+
+In der Untergruppe "Zucker, Honig, Brotaufstrich süß" befinden sich u. a. verschiedene Zuckerarten wie z. B. Milchzucker, Fruchtzucker und Invertzucker.
+Invertzucker ist ein Gemisch aus gleichen Teilen Trauben- und Fruchtzucker und entsteht bei der Spaltung von Saccharose (Haushaltszucker). In der Natur kommt Invertzucker auch in Honig vor. Künstlich hergestellter Invertzucker wird z. B. für die Herstellung von Invertzuckercreme verwendet.
+Des Weiteren enthält diese Gruppe verschiedene Arten von Konfitüren, Marmeladen und Honig.
+
+Zur Gruppe "Speiseeis" gehören verschiedene Eissorten wie z. B. Fruchteis, Milchspeiseeis oder Sorbet. Sorbet enthält im Gegensatz zu üblichem Speiseeis weder Milch noch Milchbestandteile.
+
+In der Untergruppe "Zuckerwaren, Bonbons" sind verschiedene Bonbonsorten, Marshmallows und Kaugummis verzeichnet.
+
+Ferner gibt es die Untergruppe "Marzipan, Lakritze, Krokant, Nougat" .Marzipanrohmasse besteht aus süßen Mandeln und Zucker und kann mit Puderzucker und verschiedenen Farb- und Geschmackstoffen weiterverarbeitet werden. Lakritze ist der eingedickte Sirup aus den Wurzeln verschiedener Süßholzarten. Unter Krokant versteht man ein Gemisch aus karamellisiertem Zucker und mindestens 20 % zerkleinerten, gerösteten Nusskernen. Nougatmasse wird in der Regel aus gerösteten Nüssen unter Zusatz von Zucker und meist Kakaoerzeugnissen hergestellt.
+
+In den Gruppen "Schokolade" und "Schokoladenwaren, Pralinen" sind Schokoladensorten wie z. B. Milch- oder Zartbitterschokolade, aber auch verschiedene Pralinensorten aufgeführt.
+
+Weiterhin gibt es die Gruppen "Kakao, Kakaogetränk" und "Süßwarenerzeugnisse" .
+Tiefseefisch, Süßwasserfisch, Krusten-, Schalen- und Weichtiere
+
+In der Lebensmittelgruppe "Tiefseefisch, Süßwasserfisch, Krusten-, Schalen- und Weichtiere" befinden sich ca. 1270 verschiedene Arten von Fischen, Meeresfrüchten und Fischerzeugnissen.
+
+Es gibt die Untergruppen "Heringsfische, Makrelen, Thunfische" , "Dorschartige Fische, Kabeljau, Schellfisch, Seelachs, Goldbarsch" , "Plattfische, Butt, Scholle, Seezunge" , "Lachsfische" , "Karpfenfische" , "Barschartige Fische" und "Krebstiere, Muscheltiere" .
+
+Ferner gibt es die Gruppe "Fischerzeugnisse" in der sich unter anderem Fischkonserven befinden und die Gruppe "Fertiggerichte auf Fischbasis" , die überwiegend tiefgefrorenen Fisch und Erzeugnisse daraus enthält.
+Fleisch
+
+Im BLS gibt es zwei Lebensmittelgruppen, die Fleisch verschiedener Tierarten in unterschiedlicher Verarbeitung enthalten.
+
+Dies ist zum einen die Gruppe "U Rind-, Kalb-, Schweine-, Hammel- und Lammfleisch" mit ca. 1590 Einträgen und zum anderen die Gruppe "V Wild, Geflügel, Federwild, Innereien" mit ca. 510 Einträgen.
+Wurst und Fleischwaren
+
+In der Gruppe "Wurst und Fleischwaren" sind ca. 450 verschiedene Arten von Wurst- und Fleischwaren in unterschiedlicher Verarbeitung verzeichnet.
+
+Wurst wird im Allgemeinen aus zerkleinertem Fleisch, Speck, Salz und Gewürzen hergestellt. Je nach Wurstsorte können noch Innereien und Blut von Schlachttieren, Zusatzstoffe wie Kutterhilfsmittel und Zutaten wie z. B. Gemüse, Pilze und Pistazien zugesetzt werden. Diese Masse, auch Brät genannt, bleibt entweder roh oder wird erhitzt und z. T. zusätzlich noch geräuchert. Das Wurstbrät wird in natürliche oder künstliche Därme, aber auch in Gläser oder Dosen abgefüllt.
+
+Generell kann Wurst in drei große Gruppen eingeteilt werden:
+
+Zu den "Rohwürsten" gehören schnittfeste Sorten wie z. B. Salami und Landjäger, aber auch streichfähige Sorten wie Tee- und Mettwurst. Rohwürste bestehen aus rohem Muskelfleisch und Speck sowie Starterkulturen (Milchsäurebakterien), Salz, Salpeter/Nitrit, Zucker und Gewürzen.
+Rohwurst wird entweder roh, getrocknet und/oder geräuchert verzehrt.
+
+"Brühwürste" werden aus rohem Fleisch, Speck, Salz bzw. Nitritpökelsalz, Gewürzen, Fett von Schlachttieren unter Zusatz von Trinkwasser oder Eis und ggf. Kutterhilfsmitteln hergestellt. Das Brät wird gebrüht, gebacken, gebraten oder anders hitzebehandelt, so dass das Muskeleiweiß gerinnt und die Brühwursterzeugnisse selbst bei nochmaliger Erhitzung schnittfest bleiben. Beispiele für Brühwürste sind Bierschinken, Mortadella und Wiener Würstchen.
+
+"Kochwürste" bestehen in der Regel aus vorgegartem Fleisch, Innereien, Speck, Salz, Gewürzen und z. T. aus Blut sowie gelierenden Teilen (z. B. Schwarten, Schweineköpfe). Nach dem Einfüllen in den Darm werden die Würste nochmals erhitzt und ggf. geräuchert. Zu den Kochwürsten zählen verschiedene Blutwürste, Leberwurst-, aber auch Sülzwurstsorten wie z. B. Presskopf und Schwartenmagen.
+
+Weiterhin sind im BLS die Untergruppen "Speck, Schinken" und "Fleischwaren" wie z. B. Corned Beef, Kasseler und Rauchfleisch verzeichnet sowie "Pökelwaren" und "Fleischwarenerzeugnisse" , die verschiedene Füllungen z. B. für Rouladen und Konserven enthält.
+
+Zudem gibt es noch die Gruppe "Fertiggerichte auf Fleischbasis" .
+Menükomponenten überwiegend pflanzlich
+
+In der Lebensmittelgruppe "X Menükomponenten überwiegend pflanzlich" befinden sich 2360 Menükomponenten, die überwiegend aus pflanzlichen Zutaten bestehen.
+Die Gruppe ist in weitere 10 Untergruppen aufgeteilt, abhängig davon, welche Lebensmittel das jeweilige Rezept beinhaltet.
+
+Die Untergruppe "Belegte Brote, Toasts, Frühstückscerealien" enthält z. B. Vollkornbrot mit Butter und Marmelade, Käsetoast, Müsli mit Joghurt und Banane.
+
+Salzkartoffeln und Kartoffelbrei sind beispielsweise in der Untergruppe "Kartoffelgerichte" aufgeführt.
+
+Außerdem gibt es noch die Untergruppen "Salate gegart" , "Salate roh" , "Soßen" , "Suppen" , "Gemüsebeilagen" , "Nudel-/Teigwarengerichte" , "Reisgerichte" und "Getreide-, Mehl- und Milchspeisen" .
+Menükomponenten vorwiegend tierisch
+
+Die Lebensmittelgruppe "Y Menükomponente vorwiegend tierisch" weist 1510 Menükomponenten mit vorwiegend tierischen Bestandteilen auf, die in 10 Untergruppen unterteilt werden.
+
+Dazu zählen zum einen die "Würstchen, Hackfleischgerichte" und zum anderen die Fleischgerichte, die nach ihrer Herkunft in "Fleischgerichte vom Rind" , "vom Kalb" , "vom Schwein" , "von Hammel/Lamm" sowie "von Wild und Geflügel" eingeteilt sind.
+
+Des Weiteren gibt es die Untergruppen "Fischgerichte" und "Eier-, Quark- und Käsegerichte" .
+Apfelstrudel und Schokoladenpudding befinden sich in der Untergruppe "Süßspeisen, Desserts" , während die Untergruppe "Schnellgerichte, Eis" u. a. Pommes frites mit Ketchup, Hamburger und Vanilleeis mit heißen Himbeeren enthält.
+Copyright © 2005-2017 MRI, Standort Karlsruhe. Alle Rechte vorbehalten.
+Der Betreiber dieser Seiten übernimmt keine Haftung für den Inhalt verlinkter externer Internetseiten.  Kontakt   Impressum
