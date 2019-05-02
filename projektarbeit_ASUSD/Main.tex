@@ -3,25 +3,40 @@
 
 
 \begin{document}
-		\input{Titelseite}
+\input{Titelseite}
 
 		
-\chapter{Einleitung}
-	
-\section{Problemstellung}
-	
-		
-	\section{Zielsetzung und Aufbau der Arbeit}
-		 
-Eine Idee für die Analyse:
-.Anwendung und Implementierung des LDA Algorithmus anhand des Vergleichs 5-10 Gene (von Ensembl) 
-		
-\chapter{Grundlagen und Definitionen}
-	
-	
-	\section{Verwandte Arbeiten}
-	Analyse von genetischen Mutationen die zu Brustkrebs führen.	
-	\cite{breastcancer}
+\chapter{Abstract}\label{abstract}
+\ref{abstract}
+
+\chapter{Introduction}\label{introduction}
+
+\chapter{Related work}\label{related}
+analysis of genetic mutations which cause breastcancer \autocite{breastcancer}
+
+\chapter{\gls{lda}}\label{lda}
+\section{General description}\label{lda_description}
+\gls{lda} was developed by David Blei et. al in the year 2003 and is a clustering algorithm for text mining.
+\section{Examples and possible uses cases}\label{lda_examples}
+images and schemes
+\section{Python package 'Gensim'}\label{gensim}
+              
+\chapter{Acute Lymphoblastic Leukemia}\label{all}
+\section{Types of Leukemia and its causes}\label{leukemia_types}
+\section{Examples for Genome Analysis: \gls{ngs}}\label{genome_analysis}
+\section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
+
+\chapter{Development of a solution for genetic analysis of \gls{all} genomes by implementing \gls{lda}}\label{development}
+\section{Problems and challenges of genetic analysis}\label{problems_challenges}
+\section{First steps: Draft of developed solution}\label{draft}
+diagrams, schemes
+\section{Proposed solution}\label{proposed_solution}
+\section{Results}\label{results}
+
+\chapter{Conclusion and Outlook}\label{conclusion_outlook}
+\section{Lessons learned}\label{lessons_learned}
+\section{Conclusion}\label{conclusion}
+\section{Outlook}\label{outlook}	
 	
 % Beispiel für Bild
 		\begin{figure}[htbp]
@@ -31,24 +46,15 @@ Eine Idee für die Analyse:
 			\label{xxx}
 		\end{figure}
 		
-			
-	\section{Unterkapitel 2}
 		
 % Beispiel Zitat		
 		\begin{quote}
 			\textit{Ein Zitat}
 		\end{quote}
 
-	\section{Unterkapitel 3}	\label{Kapitel_xxx} % Beispiel Referenz
-		... ausführliche in Kapitel \ref{Kapitel_xxx}
 
 % Quellenangabe 		\autocite[Seite]{Autor.Jahr}
 				\autocite[20]{}
-				
-% Einbindung von Akronymen
-	\gls{tmg}
-
-\chapter{Schlussbetrachtung}
 
 \input{Verzeichnis}
 \newpage
