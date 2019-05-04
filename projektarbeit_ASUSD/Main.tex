@@ -1,11 +1,9 @@
 \input{preamble}
 \input{Abkuerzung}
 
-
 \begin{document}
 \input{Titelseite}
 
-		
 \chapter{Abstract}\label{abstract}
 \ref{abstract}
 
@@ -29,6 +27,10 @@ images and schemes
 \section{Types of Leukemia and its causes}\label{leukemia_types}
 \section{Examples for Genome Analysis: \gls{ngs}}\label{genome_analysis}
 \gls{ngs} refers to post-Sanger sequencing methods \autocite{zhao_2016}. Furthermore, since \gls{ngs} produces large volumes of sequence data it might be very useful to use topic modelling techniques to maintain the flexibility for the level of resolution required for given experiments.  
+The step before analyzing two or more (multiple) genomes is called alignment which includes a comparison of two genomes. There are many different types of alignments, but Zhao et al. refer to the \gls{msa} by describing \gls{muscle} and \gls{clustal}.
+
+But there is not only the \gls{ngs} technique to analyze, but also many other methods to analyze genomes as described by \autocite{zhao_2016}. 
+Before analy
 
 \section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
 
@@ -38,7 +40,7 @@ images and schemes
 
 To get useful data, the \autocite{ncbi} was used to get all currently detected mutations of genomes which may cause \gls{lda}.
 
-The first idea was to build a parsing application, which iterates over the found 582 genomes
+The first idea was to build a parsing application, which iterates over the found 582 genomes. After the iteration, it compares the oncogenes with the healthy genomes.
 Eine spontane Idee, die mir gerade einfiel, wäre, eine Art Parser zu bauen, der über die 582 Gene iteriert und diese mit den gesunden Genen (ebenfalls aus einer Suchanfrage aus NCBI entnommen) zu vergleichen und somit die Unterschiede herauszufinden (und evt. in einem Diagramm darzustellen). Ggf. lassen sich die Unterschiede auch clustern und mit dem LDA-Verfahren kombinieren.
 diagrams, schemes
 \section{Proposed solution}\label{proposed_solution}
