@@ -22,12 +22,15 @@ Jurca et al. describe a process to use large-scale text analysis of biomedical a
 \section{General description}\label{lda_description}
 According to Jurca et al. \autocite{jurca_2016} the text mining process can be divided into four steps: First, the information has to be retrieved by user queries (\gls{ir}). Second, different vocabularies and ontologies have to be integrated (\gls{ner}). Third, during \gls{ie}, relationships between biological entities in the texts are extracted by either use co-occurence processing or \gls{nlp}. Last, there has to be gained biologically meaningful knowledge about how biological entities are related by using \gls{kd} methods.
 
+Moreover, there can be distinguished between three types of clustering: hard clustering, hierarchical clustering and soft clusternig. Hard clustering describes the process of separating items into distinct groups where each item is exactly in one cluster. Hierarchical clustering implicates single-link (how similar the items are to one another) and complete-link (how dissimilar the items are). Soft clustering means that items cannot be distinctly separated into clusters and partly are member of two or more clusters at a time \autocite{jurca_2016}.  
+
+
 \gls{lda} was developed by David Blei et. al in the year 2003 and is a clustering algorithm for text mining. It counts to the most popular topic modelling algorithms \autocite{zhao_2016}.
 According to \autocite{zhao_2016}, topic modelling requires of a number documents which represent each of them a mixture of latent topics. Moreover, each topic is expressed by a distribution of words. During \gls{lda}, two relationships are analyzed: First, the relationship between documents and words, also called 'per-document topic distributions'. Second, the relationship between words and topics ('per-topic word distributions'). To measure the relationships exactly and to make inference about topics and documents for text mining, probability matrices are calculated.
  
-\section{Examples and possible uses cases}\label{lda_examples}
+\section{Examples and possible use cases}\label{lda_examples}
 
-Zhao et al. describe the process of analyzing genomes as follows: First, each document corresponds to one of the total number of \gls{dna} straints. Furthermore, all documents had the same number of words. Third, the distribution of words for topics as well as the distribution of topics in documents were described by random variables obeying Dirichlet distributions with parameters \alpha and \beta. After that, nucleotides and their orders in \gls{ngs} sequences coudl be treated as words and the genetic information in sequences was translated and exhibited as a 'bag of words' \autocite{zhao_2016}. By using the strain-topic matrix derived from topic modelling, relationships or similarities between the strains serotypes can be found out. 
+Zhao et al. describe the process of analyzing genomes as follows: First, each document corresponds to one of the total number of \gls{dna} straints. Second, all documents had the same number of words. Third, the distribution of words for topics as well as the distribution of topics in documents were described by random variables obeying Dirichlet distributions with parameters \alpha and \beta. After that, nucleotides and their orders in \gls{ngs} sequences coudl be treated as words and the genetic information in sequences was translated and exhibited as a 'bag of words' \autocite{zhao_2016}. By using the strain-topic matrix derived from topic modelling, relationships or similarities between the strains serotypes can be found out. 
  
 images and schemes
 \section{Python package 'Gensim'}\label{gensim}
@@ -43,7 +46,7 @@ Furthermore, some genes can be up-regulated (which means that they are transcrib
 The step before analyzing two or more (multiple) genomes is called alignment which includes a comparison of two genomes. There are many different types of alignments, but Zhao et al. refer to the \gls{msa} by describing \gls{muscle} and \gls{clustal}.
 
 But there is not only the \gls{ngs} technique to analyze, but also many other methods to analyze genomes as described by \autocite{zhao_2016}. 
-Before analy
+
 
 \section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
 
