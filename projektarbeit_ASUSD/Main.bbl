@@ -19,7 +19,69 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{breastcancer}{article}{}
+    \entry{djatna_2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3be2409d3bc577d08fd5be109f0b22b3}{%
+           family={Djatna},
+           familyi={D\bibinitperiod},
+           given={Taufik},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c1f1cad720342629556521160be50af}{%
+           family={Hardhienata},
+           familyi={H\bibinitperiod},
+           given={Medria\bibnamedelimb Kusuma\bibnamedelima Dewi},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b37531280ea3a26ebf20dfbf25edca6}{%
+           family={Masruriyah},
+           familyi={M\bibinitperiod},
+           given={Anis\bibnamedelimb Fitri\bibnamedelima Nur},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{fullhash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{bibnamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authorbibnamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authornamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authorfullhash}{5bc3e301bda0547d816023394ef4be7e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2196-1115}
+      \field{journaltitle}{Journal of Big Data}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{An intuitionistic fuzzy diagnosis analytics for stroke disease}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{35}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40537-018-0142-7
+      \endverb
+      \verb{file}
+      \verb Djatna et al. - 2018 - An intuitionistic fuzzy diagnosis analytics for st.pdf:files/36/Djatna et al. - 2018 - An intuitionistic fuzzy diagnosis analytics for st.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0142-7
+      \endverb
+      \verb{url}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0142-7
+      \endverb
+    \endentry
+    \entry{jurca_2016}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=11700b6bf0be811c66dda212e7a6441f}{%
            family={Jurca},
@@ -103,7 +165,242 @@
       \verb http://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-016-2023-5
       \endverb
     \endentry
+    \entry{lloret_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=418fce18bd6663f79ac4cbb1a2ff219c}{%
+           family={Lloret},
+           familyi={L\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=274a8dd019339ca527665960b5d2e411}{%
+           family={Palomar},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{fullhash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{bibnamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authorbibnamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authornamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authorfullhash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-7462}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Text summarisation in progress: a literature review}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1007/s10462-011-9216-z
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10462-011-9216-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10462-011-9216-z
+      \endverb
+    \endentry
+    \entry{xu_2013}{article}{}
+      \name{author}{12}{}{%
+        {{uniquename=0,uniquepart=base,hash=27881cf4f0fb4ed11222985c8ac6c5da}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yahong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c4ed5d7aba26f8e3022034cb128ebc63}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Shunwen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2bb35bf59aaca26e59bbdb0d0192f3b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82ecbae219cd3e89336a57aaa4226294}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=320f71263e21adfdacf80be5e651586c}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Zhigang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=899cf7e23586d60be71451538fdad412}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Qihua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=924394fd0d9f89fee540a70c2f670441}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoping},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eed4591cc87fd0f424637f308dd29cdf}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Minghui},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ba51490fdfee4e053d199f28e82dad4f}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f9d052e32540c1d8008e05e55c129e63}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7ab947d5412a3e2fb932e67fcdb67505}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{fullhash}{d47c6078a5d880a6876ed8e1ae03cd32}
+      \strng{bibnamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authorbibnamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authornamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authorfullhash}{d47c6078a5d880a6876ed8e1ae03cd32}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2047-783X}
+      \field{journaltitle}{European Journal of Medical Research}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{{RETRACTED} {ARTICLE}: {Integrated} gene network analysis and text mining revealing {PIK}3R1 regulated by {miR}-127 in human bladder cancer}
+      \field{volume}{18}
+      \field{year}{2013}
+      \field{pages}{29}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/2047-783X-18-29
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/2047-783X-18-29
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/2047-783X-18-29
+      \endverb
+    \endentry
+    \entry{zhao_2016}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=33cdf7934d6b53d1582891422c9c283a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Weizhong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dd2e90b4b79136c2c03cc40b26908c2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=93a6b9064c4ba4ae360171f4dba83592}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c78503aaa49a656724e2cb1160afaf62}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f922be4dedcfd34ce26fa1152c6e061a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhichao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=035a7520204dc2ab480a6835f5a68b0f}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Huixiao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=50b19a795924bc4d7edf515869228fdb}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Weida},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b0426e1b927ce3063ffb8c1afb11885d}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{fullhash}{0e66dc5df5515dae5b6c7eebc669ee10}
+      \strng{bibnamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authorbibnamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authornamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authorfullhash}{0e66dc5df5515dae5b6c7eebc669ee10}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{A novel procedure on next generation sequencing data analysis using text mining algorithm}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{213}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12859-016-1075-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12859-016-1075-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12859-016-1075-9
+      \endverb
+    \endentry
   \enddatalist
+  \missing{ncbi}
 \endrefsection
 \endinput
 

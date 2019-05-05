@@ -14,8 +14,13 @@
 \glsenablehyper
 \makeglossaries
 
-\usepackage[automark,headsepline,ilines,komastyle]{scrpage2}
+\usepackage{savesym}
 \usepackage{amsmath,amssymb,amstext}
+\savesymbol{iint}
+\usepackage{txfonts}
+
+\restoresymbol{TXF}{iint}
+\usepackage[automark,headsepline,ilines,komastyle]{scrpage2}
 \usepackage{blindtext}
 \setlength{\parindent}{0pt}
 \setlength{\headheight}{1.5\baselineskip}

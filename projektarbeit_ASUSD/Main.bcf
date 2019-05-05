@@ -1996,7 +1996,25 @@
     <bcf:datasource type="file" datatype="bibtex">Lit.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">breastcancer</bcf:citekey>
+    <bcf:citekey order="1">zhao_2016</bcf:citekey>
+    <bcf:citekey order="2">zhao_2016</bcf:citekey>
+    <bcf:citekey order="3">jurca_2016</bcf:citekey>
+    <bcf:citekey order="4">jurca_2016</bcf:citekey>
+    <bcf:citekey order="5">xu_2013</bcf:citekey>
+    <bcf:citekey order="6">djatna_2018</bcf:citekey>
+    <bcf:citekey order="7">lloret_2012</bcf:citekey>
+    <bcf:citekey order="8">lloret_2012</bcf:citekey>
+    <bcf:citekey order="9">jurca_2016</bcf:citekey>
+    <bcf:citekey order="10">jurca_2016</bcf:citekey>
+    <bcf:citekey order="11">djatna_2018</bcf:citekey>
+    <bcf:citekey order="12">zhao_2016</bcf:citekey>
+    <bcf:citekey order="13">zhao_2016</bcf:citekey>
+    <bcf:citekey order="14">zhao_2016</bcf:citekey>
+    <bcf:citekey order="15">jurca_2016</bcf:citekey>
+    <bcf:citekey order="16">jurca_2016</bcf:citekey>
+    <bcf:citekey order="17">zhao_2016</bcf:citekey>
+    <bcf:citekey order="18">zhao_2016</bcf:citekey>
+    <bcf:citekey order="19">ncbi</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
