@@ -10,7 +10,6 @@
 \chapter{Introduction}\label{introduction}
 
 \chapter{Related work}\label{related}
-analysis of genetic mutations which cause breastcancer \autocite{breastcancer}
 
 Zhao et al. \autocite{zhao_2016} describe how topic modeling can be used to analyze \gls{ngs}. By implementing topic modelling, text corpus are generated \autocite{zhao_2016}.
 
@@ -18,12 +17,19 @@ In the beginning of every genome analysis, there are several important questions
 
 Jurca et al. describe a process to use large-scale text analysis of biomedical abstracts in order to generate new hypothesis about cancer biomarkers \autocite{jurca_2016}. The target is to develop a data minng methodology that patterns in genes associated with cancer. By analyzing disease-specific gene expression data, experimental data is being checked whether a gene has indeed been upregulated or downregulated with respect to a disease.
 
+According to Xu et al. \autocite{xu_2013}, \gls{mirna}s build a class of 17-27 nucleotides single-stranded \gls{rna} molecules that regulate gen expression post-transcriptionally. In the described text-mining process, Xu et al. identified nine \gls{mirna}s in bladder cancer and adopted protein-protein interaction sites between these miRNAs and target genes. The results of the analyzation process lead to two relationship types between bladder cancer and its \gls{mirna}: casual and unspecified. 
+
+Topic modelling is not only used to analyze relationships between genomes but also to improve diagnoses for stroke disease. Djatna et al. \autocite{djatna_2018} describe an 'Intuitionistic Fuzzy Based Decision Tree' to diagnose different types of stroke disease. To be precise, the different types of stroke diseases can be calculated by Hamming distance. The term 'Fuzzy logic' means logic that underlies the reasoning of data by way of precise estimates. It is the fastest way to map input space into output space using a degree of membership.
+
+Lloret et al. \autocite{lloret_2012} built an automatic summarization algorithm for literature. It can includes three steps: First, topic identification, second topic interpretation and third summary generation. While describing the process of textual analyzation, Lloret et al. mention a specific term: \gls{tfidf} which is important for topic modelling. In addition to topic-based approaches, there are graph-based approaches and discourse-based approaches. Graph-based approaches implicate nodes that represent text elements and the edges/links refer to synonymy \autocite{lloret_2012}. Discourse-based approaches include \gls{rst}, \gls{hmm}, \gls{rst} or \gls{bm}. 
+ 
 \chapter{\gls{lda}}\label{lda}
 \section{General description}\label{lda_description}
 According to Jurca et al. \autocite{jurca_2016} the text mining process can be divided into four steps: First, the information has to be retrieved by user queries (\gls{ir}). Second, different vocabularies and ontologies have to be integrated (\gls{ner}). Third, during \gls{ie}, relationships between biological entities in the texts are extracted by either use co-occurence processing or \gls{nlp}. Last, there has to be gained biologically meaningful knowledge about how biological entities are related by using \gls{kd} methods.
 
 Moreover, there can be distinguished between three types of clustering: hard clustering, hierarchical clustering and soft clusternig. Hard clustering describes the process of separating items into distinct groups where each item is exactly in one cluster. Hierarchical clustering implicates single-link (how similar the items are to one another) and complete-link (how dissimilar the items are). Soft clustering means that items cannot be distinctly separated into clusters and partly are member of two or more clusters at a time \autocite{jurca_2016}.  
 
+Besides, Djatna et al. \autocite{djatna_2018} mention data mining techniques, such as \gls{cart}, \gls{idb}, \gls{dt} and two classification techniques: \gls{pca} and \gls{lda}. 
 
 \gls{lda} was developed by David Blei et. al in the year 2003 and is a clustering algorithm for text mining. It counts to the most popular topic modelling algorithms \autocite{zhao_2016}.
 According to \autocite{zhao_2016}, topic modelling requires of a number documents which represent each of them a mixture of latent topics. Moreover, each topic is expressed by a distribution of words. During \gls{lda}, two relationships are analyzed: First, the relationship between documents and words, also called 'per-document topic distributions'. Second, the relationship between words and topics ('per-topic word distributions'). To measure the relationships exactly and to make inference about topics and documents for text mining, probability matrices are calculated.
