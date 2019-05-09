@@ -81,6 +81,115 @@
       \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0142-7
       \endverb
     \endentry
+    \entry{gasperskaja_2017}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=9cba6a2a09413a129c343dc04903e448}{%
+           family={Gasperskaja},
+           familyi={G\bibinitperiod},
+           given={Evelina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc0a19bcaf9652384198d68012ef7bbd}{%
+           family={Kučinskas},
+           familyi={K\bibinitperiod},
+           given={Vaidutis},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{fullhash}{2232fce351538684c1da5f0b3885463b}
+      \strng{bibnamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authorbibnamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authornamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authorfullhash}{2232fce351538684c1da5f0b3885463b}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1392-0138}
+      \field{journaltitle}{Acta Medica Lituanica}
+      \field{number}{1}
+      \field{title}{The most common technologies and tools for functional genome analysis}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.6001/actamedica.v24i1.3457
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:files/141/Gasperskaja und Kučinskas - 2017 - The most common technologies and tools for functio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467957/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467957/
+      \endverb
+    \endentry
+    \entry{ncbi}{misc}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=5bec014e1f0866aed539797169c5ee32}{%
+           family={Information},
+           familyi={I\bibinitperiod},
+           given={National\bibnamedelimb Center\bibnamedelimb for\bibnamedelima Biotechnology},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=072488cd4d1cab5b0b253556e9a927cc}{%
+           family={Pike},
+           familyi={P\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi National\bibnamedelimb Library\bibnamedelimb of\bibnamedelimb Medicine\bibnamedelimb 8600\bibnamedelima Rockville},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim 8\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6c02fd0cfc886e34a062f3ee81cd7c41}{%
+           family={MD},
+           familyi={M\bibinitperiod},
+           given={Bethesda},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=07adb8570e66b102b69304608381d0e7}{%
+           family={Usa},
+           familyi={U\bibinitperiod},
+           given={20894},
+           giveni={2\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b4d605491d2cde5c6ce586b59c455742}
+      \strng{fullhash}{1bcfa81b5175cfb5ef4af97e90fb2d1b}
+      \strng{bibnamehash}{b4d605491d2cde5c6ce586b59c455742}
+      \strng{authorbibnamehash}{b4d605491d2cde5c6ce586b59c455742}
+      \strng{authornamehash}{b4d605491d2cde5c6ce586b59c455742}
+      \strng{authorfullhash}{1bcfa81b5175cfb5ef4af97e90fb2d1b}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National {Center} for {Biotechnology} {Information}}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:files/143/www.ncbi.nlm.nih.gov.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+    \endentry
     \entry{jurca_2016}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=11700b6bf0be811c66dda212e7a6441f}{%
@@ -211,6 +320,27 @@
       \verb https://doi.org/10.1007/s10462-011-9216-z
       \endverb
     \endentry
+    \entry{nltk}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural {Language} {Toolkit} — {NLTK} 3.4.1 documentation}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Natural Language Toolkit — NLTK 3.4.1 documentation:files/138/www.nltk.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nltk.org/
+      \endverb
+      \verb{url}
+      \verb https://www.nltk.org/
+      \endverb
+    \endentry
     \entry{xu_2013}{article}{}
       \name{author}{12}{}{%
         {{uniquename=0,uniquepart=base,hash=27881cf4f0fb4ed11222985c8ac6c5da}{%
@@ -317,6 +447,98 @@
       \verb https://doi.org/10.1186/2047-783X-18-29
       \endverb
     \endentry
+    \entry{yang_2018}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=388210b5341a1256162dbdd3fed49ec6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a9a52a3a988b9721f21b78c1ad99e560}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Zhuo},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe8b578a9152270342d3fad212b31bb6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chengkun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44ab898a95bd6d4e8803389ae23b2650}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6c0d0e6d84c5dc5b9451de034bad06d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lingqian},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=995aa5b4f682c2824764d670d6f068d0}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{fullhash}{8560aaca10b8ae65b2c0061e16f90e27}
+      \strng{bibnamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authorbibnamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authornamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authorfullhash}{8560aaca10b8ae65b2c0061e16f90e27}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{12}
+      \field{number}{S19}
+      \field{title}{Constructing a database for the relations between {CNV} and human genetic diseases via systematic text mining}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{528}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12859-018-2526-2
+      \endverb
+      \verb{file}
+      \verb Yang et al. - 2018 - Constructing a database for the relations between .pdf:files/39/Yang et al. - 2018 - Constructing a database for the relations between .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2526-2
+      \endverb
+      \verb{url}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2526-2
+      \endverb
+    \endentry
     \entry{zhao_2016}{article}{}
       \name{author}{8}{}{%
         {{uniquename=0,uniquepart=base,hash=33cdf7934d6b53d1582891422c9c283a}{%
@@ -400,7 +622,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{ncbi}
 \endrefsection
 \endinput
 
