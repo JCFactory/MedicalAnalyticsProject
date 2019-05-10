@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  9 MAY 2019 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  10 MAY 2019 20:34
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2486,6 +2486,12 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 ]
 chapter 3.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 14.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2529,7 +2535,7 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 57.
+(hyperref)                removing `\gls' on input line 58.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
@@ -2540,7 +2546,7 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 70.
+(hyperref)                removing `\gls' on input line 71.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
@@ -2550,11 +2556,11 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 chapter 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 72.
+(hyperref)                removing `\gls' on input line 73.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 72.
+(hyperref)                removing `\gls' on input line 73.
 
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
@@ -2564,8 +2570,6 @@ Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 ]
 chapter 7.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 92.
 (Verzeichnis.tex
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2596,19 +2600,19 @@ een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.107 \newpage
+l.108 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.107 \newpage
+l.108 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.107 \newpage
+l.108 \newpage
               ] (Anhang.tex
 Overfull \hbox (34.02832pt too wide) in paragraph at lines 6--7
 \OT1/txss/m/n/12 dass die Ar-beit in gle-icher oder []ahn-licher Form noch kein
@@ -2630,11 +2634,11 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2646,13 +2650,13 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52819 strings out of 492945
- 1011371 string characters out of 3126253
- 1622699 words of memory out of 3000000
- 55853 multiletter control sequences out of 15000+200000
- 561899 words of font info for 86 fonts, out of 3000000 for 9000
+ 52897 strings out of 492945
+ 1012483 string characters out of 3126253
+ 1622727 words of memory out of 3000000
+ 55923 multiletter control sequences out of 15000+200000
+ 576766 words of font info for 125 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,10n,100p,9102b,2885s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 74i,11n,100p,9102b,2874s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:cdna} has been referenced but does not exist,
  replaced by a fixed one
 
@@ -2681,6 +2685,9 @@ pdfTeX warning (dest): name{glo:muscle} has been referenced but does not exist,
  replaced by a fixed one
 
 pdfTeX warning (dest): name{glo:msa} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:car} has been referenced but does not exist, re
 placed by a fixed one
 
 pdfTeX warning (dest): name{glo:dna} has been referenced but does not exist, re
@@ -2760,9 +2767,9 @@ public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Main.pdf (18 pages, 121050 bytes).
+Output written on Main.pdf (18 pages, 124238 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
+ 429 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -320,6 +320,79 @@
       \verb https://doi.org/10.1007/s10462-011-9216-z
       \endverb
     \endentry
+    \entry{montano_2018}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=ed780fefad653979464c35cb942d2653}{%
+           family={Montaño},
+           familyi={M\bibinitperiod},
+           given={Adrián},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e4d8b6536ae895f81d9c4cd6d226be8}{%
+           family={Forero-Castro},
+           familyi={F\bibinithyphendelim C\bibinitperiod},
+           given={Maribel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9682f0b95f55b258e0a781de0e1ec87b}{%
+           family={Hernández-Rivas},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Jesús-María},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=515e704fad23b06849218ad27d86177a}{%
+           family={García-Tuñón},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a7d2285719df15261e2be025181d189}{%
+           family={Benito},
+           familyi={B\bibinitperiod},
+           given={Rocío},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{fullhash}{bc9433f7a9812474dc6c03ec47dad070}
+      \strng{bibnamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authorbibnamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authornamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authorfullhash}{bc9433f7a9812474dc6c03ec47dad070}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Genome editing technologies offers new opportunities for tackling diseases such as acute lymphoblastic leukemia (ALL) that have been beyond the reach of previous therapies.}
+      \field{issn}{1472-6750}
+      \field{journaltitle}{BMC Biotechnology}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shorttitle}{Targeted genome editing in acute lymphoblastic leukemia}
+      \field{title}{Targeted genome editing in acute lymphoblastic leukemia: a review}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{45}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12896-018-0455-9
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:files/98/Montaño et al. - 2018 - Targeted genome editing in acute lymphoblastic leu.pdf:application/pdf;Snapshot:files/99/s12896-018-0455-9.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12896-018-0455-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12896-018-0455-9
+      \endverb
+    \endentry
     \entry{nltk}{misc}{}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
