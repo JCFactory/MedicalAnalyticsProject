@@ -19,6 +19,66 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{ncbi}{misc}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=ef3a3b48b388565b80dcf2b732954569}{%
+           family={Biotechnology},
+           familyi={B\bibinitperiod},
+           given={National\bibnamedelima Center},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=072488cd4d1cab5b0b253556e9a927cc}{%
+           family={Pike},
+           familyi={P\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi National\bibnamedelimb Library\bibnamedelimb of\bibnamedelimb Medicine\bibnamedelimb 8600\bibnamedelima Rockville},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim 8\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6c02fd0cfc886e34a062f3ee81cd7c41}{%
+           family={MD},
+           familyi={M\bibinitperiod},
+           given={Bethesda},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=07adb8570e66b102b69304608381d0e7}{%
+           family={Usa},
+           familyi={U\bibinitperiod},
+           given={20894},
+           giveni={2\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{fullhash}{d4049440dfb2986d1eac8433abfdea60}
+      \strng{bibnamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authorbibnamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authornamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authorfullhash}{d4049440dfb2986d1eac8433abfdea60}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National {Center} for {Biotechnology} {Information}}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:files/143/www.ncbi.nlm.nih.gov.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+    \endentry
     \entry{djatna_2018}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=3be2409d3bc577d08fd5be109f0b22b3}{%
@@ -133,61 +193,89 @@
       \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467957/
       \endverb
     \endentry
-    \entry{ncbi}{misc}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=5bec014e1f0866aed539797169c5ee32}{%
-           family={Information},
-           familyi={I\bibinitperiod},
-           given={National\bibnamedelimb Center\bibnamedelimb for\bibnamedelima Biotechnology},
-           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim B\bibinitperiod},
+    \entry{hoffmann_2010}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=1ae5610884b2c4a6066ea29d027a23df}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=072488cd4d1cab5b0b253556e9a927cc}{%
-           family={Pike},
-           familyi={P\bibinitperiod},
-           given={U.\bibnamedelimi S.\bibnamedelimi National\bibnamedelimb Library\bibnamedelimb of\bibnamedelimb Medicine\bibnamedelimb 8600\bibnamedelima Rockville},
-           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim 8\bibinitperiod\bibinitdelim R\bibinitperiod},
+        {{uniquename=0,uniquepart=base,hash=d6be1fa8111c82d0958228204b1c3b70}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Francis\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=6c02fd0cfc886e34a062f3ee81cd7c41}{%
-           family={MD},
-           familyi={M\bibinitperiod},
-           given={Bethesda},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=07adb8570e66b102b69304608381d0e7}{%
-           family={Usa},
-           familyi={U\bibinitperiod},
-           given={20894},
-           giveni={2\bibinitperiod},
+        {{uniquename=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {en}%
+      \name{editor}{5}{}{%
+        {{hash=c2a9c45c49d2ccde0875ffbd30fb26af}{%
+           family={Lafferty},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=03fe732f745576c10e0c06a73741997b}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi K.\bibnamedelimi I.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=17d84f13777dc856d4bd59366a03c33c}{%
+           family={Shawe-Taylor},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d64a2b7de381af23255ca681b0d73a8b}{%
+           family={Zemel},
+           familyi={Z\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8ee7803367fd1973cadc48f464f97a8c}{%
+           family={Culotta},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{b4d605491d2cde5c6ce586b59c455742}
-      \strng{fullhash}{1bcfa81b5175cfb5ef4af97e90fb2d1b}
-      \strng{bibnamehash}{b4d605491d2cde5c6ce586b59c455742}
-      \strng{authorbibnamehash}{b4d605491d2cde5c6ce586b59c455742}
-      \strng{authornamehash}{b4d605491d2cde5c6ce586b59c455742}
-      \strng{authorfullhash}{1bcfa81b5175cfb5ef4af97e90fb2d1b}
-      \field{sortinit}{I}
-      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{fullhash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{bibnamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authorbibnamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authornamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authorfullhash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{editorbibnamehash}{fa7e44e909b04f54e90bdfa4f99d2404}
+      \strng{editornamehash}{fa7e44e909b04f54e90bdfa4f99d2404}
+      \strng{editorfullhash}{be80ce50c6592bd126a18b3b440d5880}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{National {Center} for {Biotechnology} {Information}}
-      \field{urlday}{9}
-      \field{urlmonth}{5}
+      \field{booktitle}{Advances in {Neural} {Information} {Processing} {Systems} 23}
+      \field{title}{Online {Learning} for {Latent} {Dirichlet} {Allocation}}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
       \field{urlyear}{2019}
+      \field{year}{2010}
       \field{urldateera}{ce}
+      \field{pages}{856\bibrangedash 864}
+      \range{pages}{9}
       \verb{file}
-      \verb Snapshot:files/143/www.ncbi.nlm.nih.gov.html:text/html
+      \verb NIPS Snapshot:files/101/3902-online-learning-for-latentdirichlet-allocation!.html:text/html
       \endverb
       \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/
+      \verb http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf
       \endverb
       \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/
+      \verb http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf
       \endverb
     \endentry
     \entry{jurca_2016}{article}{}
@@ -412,6 +500,150 @@
       \endverb
       \verb{url}
       \verb https://www.nltk.org/
+      \endverb
+    \endentry
+    \entry{park_2009}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=86084ac8caf5f18b13cd932bd6aa8dff}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Laurence\bibnamedelimb A.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b6fb14c7c121144249fdc97049b51169}{%
+           family={Ramamohanarao},
+           familyi={R\bibinitperiod},
+           given={Kotagiri},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=97f723cbded90372d0c37e035b53bd9e}{%
+           family={Buntine},
+           familyi={B\bibinitperiod},
+           given={Wray},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3bd5bf87c9e390a1d8f33dd98ef52b98}{%
+           family={Grobelnik},
+           familyi={G\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e31d3ba50be295f54b22a7fc6b55f32}{%
+           family={Mladenić},
+           familyi={M\bibinitperiod},
+           given={Dunja},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8feae4ec394a5f6905c74b1a7abff875}{%
+           family={Shawe-Taylor},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{fullhash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{bibnamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authorbibnamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authornamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authorfullhash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{editorbibnamehash}{f024438baa783f0f0efdae3680a221df}
+      \strng{editornamehash}{f024438baa783f0f0efdae3680a221df}
+      \strng{editorfullhash}{abe8cb321e1d889585f940417cb7ecd6}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Machine {Learning} and {Knowledge} {Discovery} in {Databases}}
+      \field{isbn}{978-3-642-04174-7}
+      \field{series}{Lecture {Notes} in {Computer} {Science}}
+      \field{title}{The {Sensitivity} of {Latent} {Dirichlet} {Allocation} for {Information} {Retrieval}}
+      \field{year}{2009}
+      \field{pages}{176\bibrangedash 188}
+      \range{pages}{13}
+      \verb{file}
+      \verb Springer Full Text PDF:files/96/Park und Ramamohanarao - 2009 - The Sensitivity of Latent Dirichlet Allocation for.pdf:application/pdf
+      \endverb
+      \keyw{latent Dirichlet allocation,probabilistic latent semantic analysis,query expansion,thesaurus}
+    \endentry
+    \entry{wang_2008}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e88500bd6ca50746707a22554761b61a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25662894963cd252a7cecdd053456dad}{%
+           family={Grimson},
+           familyi={G\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=544ae8100f35e3afea8c1d8178268645}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0ffc3f404f0baef79d60dfb5034ff37a}{%
+           family={Koller},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0c73d830a66b0ad6defa1ca64e93b608}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=248cd9051ff7ab38f634f928961993e6}{%
+           family={Roweis},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{fullhash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{bibnamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authorbibnamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authornamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authorfullhash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{editorbibnamehash}{5e34a34e9e4af6316851ebd6bfeab3b4}
+      \strng{editornamehash}{5e34a34e9e4af6316851ebd6bfeab3b4}
+      \strng{editorfullhash}{017244b65e8723a0f1c31e9ae2b35c2c}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in {Neural} {Information} {Processing} {Systems} 20}
+      \field{title}{Spatial {Latent} {Dirichlet} {Allocation}}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{1577\bibrangedash 1584}
+      \range{pages}{8}
+      \verb{file}
+      \verb NIPS Full Text PDF:files/103/Wang und Grimson - 2008 - Spatial Latent Dirichlet Allocation.pdf:application/pdf;NIPS Snapshot:files/104/3278-spatial-latent-dirichlet-allocation.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
+      \endverb
+      \verb{url}
+      \verb http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
       \endverb
     \endentry
     \entry{xu_2013}{article}{}

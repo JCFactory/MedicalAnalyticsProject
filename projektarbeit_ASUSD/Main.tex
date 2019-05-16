@@ -49,7 +49,7 @@ What is more, every term has a probabilistic relationship to every document. The
 
 \paragraph{Process of \gls{lda}}
 
-The process of \gls{lda} can be briefly described with the following steps \footnote{\autocite{wang_2008}}: First, there are M documents in the corpus. Second, each document j has N_j words. In the next step, the observed value w_j_i describes the appearance of a word i in a document j. In addition to that, all words will be clustered into K topics which are defined as object classes. Finally, each topic k is modelled as a multinomial distribution over the codebook.
+The process of \gls{lda} can be briefly described with the following steps \footnote{\autocite{wang_2008}}: First, there are M documents in the corpus. Second, each document j has \(N_{j}\) words. In the next step, the observed value \(w_{ji}\) describes the appearance of a word i in a document j. In addition to that, all words will be clustered into K topics which are defined as object classes. Finally, each topic k is modelled as a multinomial distribution over the codebook.
 
 As reported by Wang et al. \footnote{\autocite{wang_2008}}, \gls{lda} is a language model which clusters co-occuring words into topics. Moreover, documents are described as 'bag of words'. In order to analyze documents, users need to define the meaning of documents in vision problems. 
 Wang et al. \footnote{\autocite{wang_2008}} describe a special form of \gls{lda}: Spatial \gls{lda}. It encodes spatial structure among visual words, assuming the partition of words into documents is known a priori. 
@@ -94,7 +94,7 @@ By using \gls{cdna} microarray assays important genome-wide information about ch
 
 As claimed by Montano et al. \footnote{\autocite{montano_2018}}, the development of \gls{ngs} techniques implicates vast amount of data which need to be translated. One important question is to find out how the genotype (the genetic expression of a biological attribute)influences the phenotype. By integrating genome editing systems into their research process, investigators are able to manipulate virtually any gene in a diverse range of cell types and organisms.
 To give an example, Gasperskaja et al. \footnote{\autocite{gasperskaja_2017}} and Montano et al. \footnote{\autocite{montano_2018}} describe \gls{crispr-cas9}. In fact, this genome analysis includes generating a direct cut in the double strand of \gls{dna} by Cas9 nuclease. Cas9 is driven by a single 20-nucleotide \gls{rna} strand which marks the direct breakpoint. After cutting the \gls{dna}, the repair machinery of the host cell repairs errors and promotes a modification of the original sequence by a mutation (e.g. insertion, deletion, inversion).
-But why should be used such a complicate process or why should we change the shape of \{dna}?
+But why should be used such a complicate process or why should we change the shape of \gls{dna}?
 In the opinion of Montano et al. \footnote{\autocite{montano_2018}}, the use of genetically modified cell lines and animal models help us to better understand the functions of genes and their pathogenesis in diseases, such as cancer.
    
 
@@ -106,13 +106,11 @@ In the opinion of Montano et al. \footnote{\autocite{montano_2018}}, the use of 
 Quality of data 
 Is the data complete, which includes that it contains all required genomes which can cause \gls{all}.
 
-
-
 our assumptions can lead to false content or solutions 
 
 \section{First steps: Draft of developed solution}\label{draft}
 
-To get useful data, the \footnote{\autocite{ncbi}} was used to get all currently detected mutations of genomes which may cause \gls{lda}.
+To get useful data, the \gls{ncbi} \footnote{\autocite{ncbi}} was used to get all currently detected mutations of genomes which may cause \gls{lda}.
 
 The first idea was to build a parsing application, which iterates over the found 582 genomes. After the iteration, it compares the oncogenes with the healthy genomes and to figure out where the differences are. The results might be displayed in a diagram. It might be possible to create clusters from the differences between the two groups or practice \gls{lda} on the differences.
 
