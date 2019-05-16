@@ -9,6 +9,8 @@
 
 \chapter{Introduction}\label{introduction}
 
+\gls{lda} provides many advantages, such as that it is suitable for large data and that it performs very well in extracting topics for Indonesian text documents \footnote{\autocite{{twinandilla_2018}}.
+
 \chapter{Related work}\label{related}
 
 Zhao et al. \footnote{\autocite{zhao_2016}} describe how topic modeling can be used to analyze \gls{ngs}. By implementing topic modelling, text corpus are generated \footnote{\autocite{zhao_2016}}.
@@ -29,6 +31,8 @@ To be more precise, there can \gls{cnv} can lead to two types of autosomal varia
 According to their article, Yang et al. used \gls{cnv} database which linked the \gls{cnv} information to the \gls{ncbi} Gene and Ontology database. In their article, Yang et al.\footnote{\autocite{yang_2018}} mention three steps in the text mining process. First, during the pre-processing step, unstructured fields are split into separated sentences by using \gls{nltk}, a python package \footnote{\autocite{nltk}}. After that, in the \gls{ner} step, all disease mentions within DNorm system, such as MeSH IDs are recognized. In the third step, \gls{re}, the positions in sentences and entities are compared to generate instances that constist of two candidate entities within one single sentence.
 
 Yang et al. mention two more processing methods: Parallel Processing and Post Processing which includes data cleaning and statistics \footnote{\autocite{yang_2018}}. The term 'data cleaning' is explained as 'de-duplicating data after each step of the process to reduce repetitive operations and prevent statistical errors'. This is a very useful step in biomedicine since as a common problem, biomedical databases contain errors. For that reason, users can give feedback through a feedback mechanism to improve the quality of the databases.
+
+
  
 \chapter{\gls{lda}}\label{lda}
 \section{General description}\label{lda_description}
@@ -47,6 +51,8 @@ Park et al. \footnote{\autocite{park_2009}} define topic models as follows: Docu
 
 What is more, every term has a probabilistic relationship to every document. The topic model probabilities are stored as term relationships in thesaurus. The term frequencies are stored in the document index.
 
+Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} mention three variables to be defined before the \gls{lda} process: $\alpha$ (the diversity of sentence distribution), $\beta$ (the diversity of topic distribution) and $\gamma$ (the similarity between sentences and titles).
+
 \paragraph{Process of \gls{lda}}
 
 The process of \gls{lda} can be briefly described with the following steps \footnote{\autocite{wang_2008}}: First, there are M documents in the corpus. Second, each document j has \(N_{j}\) words. In the next step, the observed value \(w_{ji}\) describes the appearance of a word i in a document j. In addition to that, all words will be clustered into K topics which are defined as object classes. Finally, each topic k is modelled as a multinomial distribution over the codebook.
@@ -55,10 +61,6 @@ As reported by Wang et al. \footnote{\autocite{wang_2008}}, \gls{lda} is a langu
 Wang et al. \footnote{\autocite{wang_2008}} describe a special form of \gls{lda}: Spatial \gls{lda}. It encodes spatial structure among visual words, assuming the partition of words into documents is known a priori. 
 
 Extension of \gls{lda} are author-topic model, dynamic-topic model and correlated topic model. Wang et al. refer to the dynamic-topic model while describing how visual words are clustered into topics which correspond to object classes.
-
-\paragraph{Sensitivity of \gls{lda} for information retrieval}
-
-
  
 \section{Examples and possible use cases}\label{lda_examples}
 
@@ -69,6 +71,7 @@ To be more precise, Bayesian models provide a natural way to encode assumptions 
 There can be distinguished between two approaches: First, sampling approaches are based on \gls{mcmc} sampling. Here, a Markov chain defines the stationary distribution.
 Second, there are optimization approaches which are usually based on variational inference \gls{mcmc}. In this case, variational Bayes optimizes the simplified parametric distribution.
 
+Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} developed a 'multi-document summarization using k-means and \gls{lda}-significant sentences' on yellow journalism. Twinadilla explains this kind of journalism as 'redundant news documents' which makes it difficult to distinguish documents containing fact or opinionated information. After defining the corpus, Twinadilla et al. describe two different summarization processes: Abstractive summarization means summarizing documents by creating new sentences (with the same information as the original document). Extractive summarization suggests summarizing a document by selecting a part of a sentence in that document.
  
 images and schemes
 \section{Python package 'Gensim'}\label{gensim}
