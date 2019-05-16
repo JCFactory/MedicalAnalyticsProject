@@ -41,7 +41,24 @@ Besides, Djatna et al. \footnote{\autocite{djatna_2018}} mention data mining tec
 \gls{lda} was developed by David Blei et. al in the year 2003 and is a clustering algorithm for text mining. It counts to the most popular topic modelling algorithms \footnote{\autocite{zhao_2016}}.
 According to \footnote{\autocite{zhao_2016}}, topic modelling requires of a number documents which represent each of them a mixture of latent topics. Moreover, each topic is expressed by a distribution of words. During \gls{lda}, two relationships are analyzed: First, the relationship between documents and words, also called 'per-document topic distributions'. Second, the relationship between words and topics ('per-topic word distributions'). To measure the relationships exactly and to make inference about topics and documents for text mining, probability matrices are calculated.
 
-\gls{lda} is a probabilistic (Bayesian) model of text documents \footnote{\autocite{hoffmann_2010}}. The idea of \gls{lda} is to define a document as a collection of k topics. Each topic definces a multinominal distribution over a vocabulary which is drawn from a dirichlet. 
+\gls{lda} is a probabilistic (Bayesian) model of text documents \footnote{\autocite{hoffmann_2010}}. The idea of \gls{lda} is to define a document as a collection of k topics. Each topic definces a multinominal distribution over a vocabulary which is drawn from a dirichlet.
+
+Park et al. \footnote{\autocite{park_2009}} define topic models as follows: Documents are no longer a collection of words, but a collection of topics. Furthermore, \gls{lda} is a generative topic model which uses a dirichlet parameter (also called dirichlet prior) to model documents. By changing the dirichlet prior, the number of topics that the model assigns to each word and document can be controlled. To be more precisely, a small dirichlet prior means a small number of topics assigned to each word. By increasing the dirichlet prior, the distribution of topics to each word rises. Moreover, the dirichlet parameter is obtained for each document and can be fitted using a maximum or estimated likelihood. If the dirichlet parameter does not fit, the gain in computational efficiency is obtained. Otherwise, there is no advantage (when dirichlet parameter fits well). 
+
+What is more, every term has a probabilistic relationship to every document. The topic model probabilities are stored as term relationships in thesaurus. The term frequencies are stored in the document index.
+
+\paragraph{Process of \gls{lda}}
+
+The process of \gls{lda} can be briefly described with the following steps \footnote{\autocite{wang_2008}}: First, there are M documents in the corpus. Second, each document j has N_j words. In the next step, the observed value w_j_i describes the appearance of a word i in a document j. In addition to that, all words will be clustered into K topics which are defined as object classes. Finally, each topic k is modelled as a multinomial distribution over the codebook.
+
+As reported by Wang et al. \footnote{\autocite{wang_2008}}, \gls{lda} is a language model which clusters co-occuring words into topics. Moreover, documents are described as 'bag of words'. In order to analyze documents, users need to define the meaning of documents in vision problems. 
+Wang et al. \footnote{\autocite{wang_2008}} describe a special form of \gls{lda}: Spatial \gls{lda}. It encodes spatial structure among visual words, assuming the partition of words into documents is known a priori. 
+
+Extension of \gls{lda} are author-topic model, dynamic-topic model and correlated topic model. Wang et al. refer to the dynamic-topic model while describing how visual words are clustered into topics which correspond to object classes.
+
+\paragraph{Sensitivity of \gls{lda} for information retrieval}
+
+
  
 \section{Examples and possible use cases}\label{lda_examples}
 
@@ -50,7 +67,7 @@ Zhao et al. describe the process of analyzing genomes as follows: First, each do
 Hoffmann et al. \footnote{\autocite{hoffmann_2010}} describe the development of an online variational Bayes algorithm for \gls{lda} which is based on stochastic optimization with a natural gradient step. This step converges to a local optimum of the variational Bayes objective function.
 To be more precise, Bayesian models provide a natural way to encode assumptions about observed data.
 There can be distinguished between two approaches: First, sampling approaches are based on \gls{mcmc} sampling. Here, a Markov chain defines the stationary distribution.
-Second, there are optimization approaches which are usually based on variational inference \gls{mcmc}. In this case, variational Bayes optimizes the simplified parametric distribution.     
+Second, there are optimization approaches which are usually based on variational inference \gls{mcmc}. In this case, variational Bayes optimizes the simplified parametric distribution.
 
  
 images and schemes
