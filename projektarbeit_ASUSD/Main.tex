@@ -32,7 +32,7 @@ According to their article, Yang et al. used \gls{cnv} database which linked the
 
 Yang et al. mention two more processing methods: Parallel Processing and Post Processing which includes data cleaning and statistics \footnote{\autocite{yang_2018}}. The term 'data cleaning' is explained as 'de-duplicating data after each step of the process to reduce repetitive operations and prevent statistical errors'. This is a very useful step in biomedicine since as a common problem, biomedical databases contain errors. For that reason, users can give feedback through a feedback mechanism to improve the quality of the databases.
 
-Lu et al. \footnote{\autocite{lu_2016}} used multi-channel \gls{lda} to model healthcare data. In fact, by creating a learned latent variable model, the likelihood of a set of diagnosis, medications, contextual information in a patient's record can be evaluated. This can help to identify outliers and improve medical data quality. Furthermore, disease groups can be identified. Missing medication or diagnosis can be predicted. Lu et al. used \gls{arm} and supervised learning to predict missing medications. 
+Lu et al. \footnote{\autocite{lu_2016}} used multi-channel \gls{lda} to model healthcare data. In fact, by creating a learned latent variable model, the likelihood of a set of diagnosis, medications, contextual information in a patient's record can be evaluated. This can help to identify outliers and improve medical data quality. Furthermore, disease groups can be identified. Missing medication or diagnosis can be predicted. Lu et al. used \gls{arm} and supervised learning to predict missing medications. The topic model defines how words in a document are generated through the control of latent topics.
 
 \chapter{\gls{lda}}\label{lda}
 \section{General description}\label{lda_description}
@@ -44,6 +44,9 @@ Besides, Djatna et al. \footnote{\autocite{djatna_2018}} mention data mining tec
 
 \gls{lda} was developed by David Blei et. al in the year 2003 and is a clustering algorithm for text mining. It counts to the most popular topic modelling algorithms \footnote{\autocite{zhao_2016}}.
 According to \footnote{\autocite{zhao_2016}}, topic modelling requires of a number documents which represent each of them a mixture of latent topics. Moreover, each topic is expressed by a distribution of words. During \gls{lda}, two relationships are analyzed: First, the relationship between documents and words, also called 'per-document topic distributions'. Second, the relationship between words and topics ('per-topic word distributions'). To measure the relationships exactly and to make inference about topics and documents for text mining, probability matrices are calculated.
+
+Lu et al. \footnote{\autocite{lu_2016}} define topic models as a text mining approach that assumes observed word co-occurences which are governed by latent variables. \gls{lda} includes the identification of latent topics from a set of documents, analyzing long-term topic trends and modelling words and references in documents.   
+
 
 \gls{lda} is a probabilistic (Bayesian) model of text documents \footnote{\autocite{hoffmann_2010}}. The idea of \gls{lda} is to define a document as a collection of k topics. Each topic definces a multinominal distribution over a vocabulary which is drawn from a dirichlet.
 
@@ -95,9 +98,9 @@ Second, there are optimization approaches which are usually based on variational
 
 Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} developed a 'multi-document summarization using k-means and \gls{lda}-significant sentences' on yellow journalism. Twinadilla explains this kind of journalism as 'redundant news documents' which makes it difficult to distinguish documents containing fact or opinionated information. After defining the corpus, Twinadilla et al. describe two different summarization processes: Abstractive summarization means summarizing documents by creating new sentences (with the same information as the original document). Extractive summarization suggests summarizing a document by selecting a part of a sentence in that document.
 
-As described in \ref{related} on page \pageref{related}, Lu et al. \footnote{\autocite{lu_2016}} used \gls{mclda} to estimate latent health status groups. \gls{mclda} constructs latent relations among diagnoses, medications, contextual variables in different status groups. To be more precise, it is a dimensional reduction method of that summarizes each record using a probability vector over a latent health status group. During the topic modelling process, Lu et al. refer to two associations among the data: diagnosis-medication associations to identify the clinical use of medications and diagnosis-diagnosis associations to create a network structure among the diseases.
+As described in \ref{related} on page \pageref{related}, Lu et al. \footnote{\autocite{lu_2016}} used \gls{mclda} to estimate latent health status groups. \gls{mclda} constructs latent relations among diagnoses, medications, contextual variables in different status groups. To be more precise, it is a dimensional reduction method of that summarizes each record using a probability vector over a latent health status group. The prediction tasks were performed by using a \gls{cgs}-based  inference model and inferred methods. 
+During the topic modelling process, Lu et al. refer to two associations among the data: diagnosis-medication associations to identify the clinical use of medications and diagnosis-diagnosis associations to create a network structure among the diseases.
  
-images and schemes
 \section{Python package 'Gensim'}\label{gensim}
               
 \chapter{Acute Lymphoblastic Leukemia}\label{all}
