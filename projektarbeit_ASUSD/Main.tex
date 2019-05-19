@@ -32,8 +32,6 @@ According to their article, Yang et al. used \gls{cnv} database which linked the
 
 Yang et al. mention two more processing methods: Parallel Processing and Post Processing which includes data cleaning and statistics \footnote{\autocite{yang_2018}}. The term 'data cleaning' is explained as 'de-duplicating data after each step of the process to reduce repetitive operations and prevent statistical errors'. This is a very useful step in biomedicine since as a common problem, biomedical databases contain errors. For that reason, users can give feedback through a feedback mechanism to improve the quality of the databases.
 
-
- 
 \chapter{\gls{lda}}\label{lda}
 \section{General description}\label{lda_description}
 According to Jurca et al. \footnote{\autocite{jurca_2016}} the text mining process can be divided into four steps: First, the information has to be retrieved by user queries (\gls{ir}). Second, different vocabularies and ontologies have to be integrated (\gls{ner}). Third, during \gls{ie}, relationships between biological entities in the texts are extracted by either use co-occurence processing or \gls{nlp}. Last, there has to be gained biologically meaningful knowledge about how biological entities are related by using \gls{kd} methods.
@@ -52,6 +50,29 @@ Park et al. \footnote{\autocite{park_2009}} define topic models as follows: Docu
 What is more, every term has a probabilistic relationship to every document. The topic model probabilities are stored as term relationships in thesaurus. The term frequencies are stored in the document index.
 
 Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} mention three variables to be defined before the \gls{lda} process: $\alpha$ (the diversity of sentence distribution), $\beta$ (the diversity of topic distribution) and $\gamma$ (the similarity between sentences and titles).
+
+In their article 'Multi-document summarization using k-means and \gls{lda}-significant sentences, Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} describe the research process by implementing the following six steps.
+
+\begin{description}
+\item[1.step: Preprocessing]\hfill \\
+First, all words and sentences need to be simplified by using a bag of words as well a bag of sentences. In detail, this step includes case folding (putting all words into lower case), tokenization (cutting a document into an array of words or sentences and eleminating punctuation), stopword removal (deleting words that appear often without a particular meaning) and stemming (changing words in a document that appear often wothout a particular meaning).
+
+\item[2.step: Calculate the number of clusters]\hfill \\
+Second, the number of clusters needs to be calculated by using k-means clustering. 
+
+\item[3.step: \gls{lda}]\hfill \\
+In this step, Twinadilla et al. distinguish between generative and inference \gls{lda}. Generative \gls{lda} forms a document from a collection of words whereas inference \gls{lda} only retrieves information from documents.
+
+\item[4.step: Sentence \gls{lda}]\hfill \\
+Fourth, during sentence \gls{lda}, documents are represented as topic representation. Each topic is a sentence distribution that represents a sentence. This sentence has significant weight on a multi-document summarization.
+
+\item[5.step: Summary formation]\hfill \\
+In this step, each document is sorted by a decreasing value of the final sentence weight. After that, the p percent of sentences with the highest value has to be chosen from each document. The p value is subsequently called 'summarization level'.
+
+\item[6.step: Arrange selected sentences in a sequence]\hfill \\
+The last step includes the arrangement of all selected sentences in a sequence. This means putting them into a useful order to summarize all documents.
+
+\end{description}
 
 \paragraph{Process of \gls{lda}}
 
@@ -100,8 +121,6 @@ To give an example, Gasperskaja et al. \footnote{\autocite{gasperskaja_2017}} an
 But why should be used such a complicate process or why should we change the shape of \gls{dna}?
 In the opinion of Montano et al. \footnote{\autocite{montano_2018}}, the use of genetically modified cell lines and animal models help us to better understand the functions of genes and their pathogenesis in diseases, such as cancer.
    
-
-
 \section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
 
 \chapter{Development of a solution for genetic analysis of \gls{all} genomes by implementing \gls{lda}}\label{development}
