@@ -5,20 +5,20 @@
 \contentsline {chapter}{\numberline {3}Related work}{3}{chapter.3}% 
 \contentsline {chapter}{\numberline {4}\gls {lda}}{6}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}General description}{6}{section.4.1}% 
-\contentsline {paragraph}{\nonumberline Process of \gls {lda}}{7}{section*.1}% 
-\contentsline {paragraph}{\nonumberline Sensitivity of \gls {lda} for information retrieval}{8}{section*.2}% 
-\contentsline {section}{\numberline {4.2}Examples and possible use cases}{8}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Python package 'Gensim'}{9}{section.4.3}% 
-\contentsline {chapter}{\numberline {5}Acute Lymphoblastic Leukemia}{10}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Types of Leukemia and its causes}{10}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Examples for Genome Analysis: \gls {ngs}}{10}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Data sources: \gls {ncbi} and Ensembl genome browser 96}{12}{section.5.3}% 
-\contentsline {chapter}{\numberline {6}Development of a solution for genetic analysis of \gls {all} genomes by implementing \gls {lda}}{13}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Problems and challenges of genetic analysis}{13}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{13}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Proposed solution}{13}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Results}{13}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{14}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Lessons learned}{14}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Conclusion}{14}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Outlook}{14}{section.7.3}% 
+\contentsline {paragraph}{\nonumberline \gls {tf-idf}}{9}{section*.1}% 
+\contentsline {paragraph}{\nonumberline Process of \gls {lda}}{9}{section*.2}% 
+\contentsline {section}{\numberline {4.2}Examples and possible use cases}{10}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Python package 'Gensim'}{11}{section.4.3}% 
+\contentsline {chapter}{\numberline {5}Acute Lymphoblastic Leukemia}{12}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Types of Leukemia and its causes}{12}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Examples for Genome Analysis: \gls {ngs}}{12}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Data sources: \gls {ncbi} and Ensembl genome browser 96}{14}{section.5.3}% 
+\contentsline {chapter}{\numberline {6}Development of a solution for genetic analysis of \gls {all} genomes by implementing \gls {lda}}{15}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Problems and challenges of genetic analysis}{15}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{15}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Proposed solution}{15}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Results}{15}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{16}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Lessons learned}{16}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Conclusion}{16}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Outlook}{16}{section.7.3}% 

@@ -9,7 +9,7 @@
 
 \chapter{Introduction}\label{introduction}
 
-\gls{lda} provides many advantages, such as that it is suitable for large data and that it performs very well in extracting topics for Indonesian text documents \footnote{\autocite{{twinandilla_2018}}.
+\gls{lda} provides many advantages, such as that it is suitable for large data and that it performs very well in extracting topics for Indonesian text documents \footnote{\autocite{twinandilla_2018}}.
 
 \chapter{Related work}\label{related}
 
@@ -23,7 +23,7 @@ According to Xu et al. \footnote{\autocite{xu_2013}}, \gls{mirna}s build a class
 
 Topic modelling is not only used to analyze relationships between genomes but also to improve diagnoses for stroke disease. Djatna et al. \footnote{\autocite{djatna_2018}} describe an 'Intuitionistic Fuzzy Based Decision Tree' to diagnose different types of stroke disease. To be precise, the different types of stroke diseases can be calculated by Hamming distance. The term 'Fuzzy logic' means logic that underlies the reasoning of data by way of precise estimates. It is the fastest way to map input space into output space using a degree of membership.
 
-Lloret et al. \footnote{\autocite{lloret_2012}} built an automatic summarization algorithm for literature. It can includes three steps: First, topic identification, second topic interpretation and third summary generation. While describing the process of textual analyzation, Lloret et al. mention a specific term: \gls{tfidf} which is important for topic modelling. In addition to topic-based approaches, there are graph-based approaches and discourse-based approaches. Graph-based approaches implicate nodes that represent text elements and the edges/links refer to synonymy \footnote{\autocite{lloret_2012}}. Discourse-based approaches include \gls{rst}, \gls{hmm}, \gls{rst} or \gls{bm}. 
+Lloret et al. \footnote{\autocite{lloret_2012}} built an automatic summarization algorithm for literature. It can includes three steps: First, topic identification, second topic interpretation and third summary generation. While describing the process of textual analyzation, Lloret et al. mention a specific term: \gls{tf-idf} which is important for topic modelling. In addition to topic-based approaches, there are graph-based approaches and discourse-based approaches. Graph-based approaches implicate nodes that represent text elements and the edges/links refer to synonymy \footnote{\autocite{lloret_2012}}. Discourse-based approaches include \gls{rst}, \gls{hmm}, \gls{rst} or \gls{bm}. 
 
 Yang et al. \footnote{\autocite{yang_2018}} describe a process of 'constructing a database for relations between human \gls{cnv}s and human genetic disease via systematic text mining'. In general, \gls{cnv} can cause disease by gene dosage, disruption, fusion or other genetic position effects. 
 To be more precise, there can \gls{cnv} can lead to two types of autosomal variants: They can either cause deletion or amplification of the long or broken arm region of chromosomes 1-22 or can build multiples of chromosomes 1-21 (e.g. as in disease trisomy 21). 
@@ -47,16 +47,15 @@ According to \footnote{\autocite{zhao_2016}}, topic modelling requires of a numb
 
 Lu et al. \footnote{\autocite{lu_2016}} define topic models as a text mining approach that assumes observed word co-occurences which are governed by latent variables. \gls{lda} includes the identification of latent topics from a set of documents, analyzing long-term topic trends and modelling words and references in documents.   
 
-
-\gls{lda} is a probabilistic (Bayesian) model of text documents \footnote{\autocite{hoffmann_2010}}. The idea of \gls{lda} is to define a document as a collection of k topics. Each topic definces a multinominal distribution over a vocabulary which is drawn from a dirichlet.
+\gls{lda} is a probabilistic (Bayesian) model of text documents \footnote{\autocite{hoffman_2010}}. The idea of \gls{lda} is to define a document as a collection of k topics. Each topic definces a multinominal distribution over a vocabulary which is drawn from a dirichlet.
 
 Park et al. \footnote{\autocite{park_2009}} define topic models as follows: Documents are no longer a collection of words, but a collection of topics. Furthermore, \gls{lda} is a generative topic model which uses a dirichlet parameter (also called dirichlet prior) to model documents. By changing the dirichlet prior, the number of topics that the model assigns to each word and document can be controlled. To be more precisely, a small dirichlet prior means a small number of topics assigned to each word. By increasing the dirichlet prior, the distribution of topics to each word rises. Moreover, the dirichlet parameter is obtained for each document and can be fitted using a maximum or estimated likelihood. If the dirichlet parameter does not fit, the gain in computational efficiency is obtained. Otherwise, there is no advantage (when dirichlet parameter fits well). 
 
 What is more, every term has a probabilistic relationship to every document. The topic model probabilities are stored as term relationships in thesaurus. The term frequencies are stored in the document index.
 
-Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} mention three variables to be defined before the \gls{lda} process: $\alpha$ (the diversity of sentence distribution), $\beta$ (the diversity of topic distribution) and $\gamma$ (the similarity between sentences and titles).
+Twinadilla et al. \footnote{\autocite{twinandilla_2018}} mention three variables to be defined before the \gls{lda} process: $\alpha$ (the diversity of sentence distribution), $\beta$ (the diversity of topic distribution) and $\gamma$ (the similarity between sentences and titles).
 
-In their article 'Multi-document summarization using k-means and \gls{lda}-significant sentences, Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} describe the research process by implementing the following six steps.
+In their article 'Multi-document summarization using k-means and \gls{lda}-significant sentences, Twinandilla et al. \footnote{\autocite{twinandilla_2018}} describe the research process by implementing the following six steps.
 
 \begin{description}
 \item[1.step: Preprocessing]\hfill \\
@@ -66,7 +65,7 @@ First, all words and sentences need to be simplified by using a bag of words as 
 Second, the number of clusters needs to be calculated by using k-means clustering. 
 
 \item[3.step: \gls{lda}]\hfill \\
-In this step, Twinadilla et al. distinguish between generative and inference \gls{lda}. Generative \gls{lda} forms a document from a collection of words whereas inference \gls{lda} only retrieves information from documents.
+In this step, Twinandilla et al. distinguish between generative and inference \gls{lda}. Generative \gls{lda} forms a document from a collection of words whereas inference \gls{lda} only retrieves information from documents.
 
 \item[4.step: Sentence \gls{lda}]\hfill \\
 Fourth, during sentence \gls{lda}, documents are represented as topic representation. Each topic is a sentence distribution that represents a sentence. This sentence has significant weight on a multi-document summarization.
@@ -77,6 +76,15 @@ In this step, each document is sorted by a decreasing value of the final sentenc
 \item[6.step: Arrange selected sentences in a sequence]\hfill \\
 The last step includes the arrangement of all selected sentences in a sequence. This means putting them into a useful order to summarize all documents.
 \end{description}
+
+As reported by Blei et al. \footnote{\autocite{blei_2003}}, \gls{lda} is a generative probabilistic model for collections of discrete data such as text corpora. In addition to that, \gls{lda} is represented as three level hierarchical Bayesian model in which each item of a collection is a finite mixture over an underlying set of topics. What is more, each topic is modeled as an infinite mixture ofver an underlying set of probabilities. Blei et al. \footnote{\autocite{blei_2003}} define topic probabilities as an explicit representation of a document.
+
+\paragraph{\gls{tf-idf}}
+
+\gls{tf-idf} is a scheme through which a basic vocabulary of words or terms is chosen. For each document in the corpus a count (which represents the number of occurences for each word) is formed \footnote{\autocite{blei_2003}}. 
+There are three terms to be distinguished: First, a word is a basic unit of descrete data, defined to be an item from the vocabulary indexed by {1 ... V}. Second, a document is a sequence of N words. Third, a corpus is a collection of M documents.
+After a suitable normalization process, the term frequency count is compared to an inverse document frequency count. This leads to the total number of occurences of a word in the entire corpus.
+The result is a term-by-document matrix X whose columns contain \gls{tf-idf} valuesfor each document in the corpus. 
 
 \paragraph{Process of \gls{lda}}
 
@@ -91,12 +99,12 @@ Extension of \gls{lda} are author-topic model, dynamic-topic model and correlate
 
 Zhao et al. describe the process of analyzing genomes as follows: First, each document corresponds to one of the total number of \gls{dna} straints. Second, all documents had the same number of words. Third, the distribution of words for topics as well as the distribution of topics in documents were described by random variables obeying Dirichlet distributions with parameters $\alpha$ and $\beta$. After that, nucleotides and their orders in \gls{ngs} sequences coudl be treated as words and the genetic information in sequences was translated and exhibited as a 'bag of words'  \footnote{\autocite{zhao_2016}}. By using the strain-topic matrix derived from topic modelling, relationships or similarities between the strains serotypes can be found out. 
 
-Hoffmann et al. \footnote{\autocite{hoffmann_2010}} describe the development of an online variational Bayes algorithm for \gls{lda} which is based on stochastic optimization with a natural gradient step. This step converges to a local optimum of the variational Bayes objective function.
+Hoffman et al. \footnote{\autocite{hoffman_2010}} describe the development of an online variational Bayes algorithm for \gls{lda} which is based on stochastic optimization with a natural gradient step. This step converges to a local optimum of the variational Bayes objective function.
 To be more precise, Bayesian models provide a natural way to encode assumptions about observed data.
 There can be distinguished between two approaches: First, sampling approaches are based on \gls{mcmc} sampling. Here, a Markov chain defines the stationary distribution.
 Second, there are optimization approaches which are usually based on variational inference \gls{mcmc}. In this case, variational Bayes optimizes the simplified parametric distribution.
 
-Twinadilla et al. \footnote{\autocite{{twinandilla_2018}} developed a 'multi-document summarization using k-means and \gls{lda}-significant sentences' on yellow journalism. Twinadilla explains this kind of journalism as 'redundant news documents' which makes it difficult to distinguish documents containing fact or opinionated information. After defining the corpus, Twinadilla et al. describe two different summarization processes: Abstractive summarization means summarizing documents by creating new sentences (with the same information as the original document). Extractive summarization suggests summarizing a document by selecting a part of a sentence in that document.
+Twinandilla et al. \footnote{\autocite{twinandilla_2018}} developed a 'multi-document summarization using k-means and \gls{lda}-significant sentences' on yellow journalism. Twinadilla explains this kind of journalism as 'redundant news documents' which makes it difficult to distinguish documents containing fact or opinionated information. After defining the corpus, Twinandilla et al. describe two different summarization processes: Abstractive summarization means summarizing documents by creating new sentences (with the same information as the original document). Extractive summarization suggests summarizing a document by selecting a part of a sentence in that document.
 
 As described in \ref{related} on page \pageref{related}, Lu et al. \footnote{\autocite{lu_2016}} used \gls{mclda} to estimate latent health status groups. \gls{mclda} constructs latent relations among diagnoses, medications, contextual variables in different status groups. To be more precise, it is a dimensional reduction method of that summarizes each record using a probability vector over a latent health status group. The prediction tasks were performed by using a \gls{cgs}-based  inference model and inferred methods. 
 During the topic modelling process, Lu et al. refer to two associations among the data: diagnosis-medication associations to identify the clinical use of medications and diagnosis-diagnosis associations to create a network structure among the diseases.

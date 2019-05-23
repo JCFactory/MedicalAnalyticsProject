@@ -79,6 +79,61 @@
       \verb https://www.ncbi.nlm.nih.gov/
       \endverb
     \endentry
+    \entry{blei_2003}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=49e889356ff39df159461bc2895c7e16}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a36116840c7ee55901618c95fd08a58}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{fullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{bibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorbibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authornamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorfullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{ISSN 1533-7928}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{Jan}
+      \field{title}{Latent {Dirichlet} {Allocation}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{993\bibrangedash 1022}
+      \range{pages}{30}
+      \verb{file}
+      \verb Full Text PDF:files/116/Blei et al. - 2003 - Latent Dirichlet Allocation.pdf:application/pdf;Snapshot:files/117/blei03a.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jmlr.org/papers/v3/blei03a.html
+      \endverb
+      \verb{url}
+      \verb http://www.jmlr.org/papers/v3/blei03a.html
+      \endverb
+    \endentry
     \entry{djatna_2018}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=3be2409d3bc577d08fd5be109f0b22b3}{%
@@ -408,6 +463,65 @@
       \verb https://doi.org/10.1007/s10462-011-9216-z
       \endverb
     \endentry
+    \entry{lu_2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e438c9ec3d923b867c73d072ecb6152}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hsin-Min},
+           giveni={H\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=542e9c3668d05980aca3efe03f8d7cc5}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Chih-Ping},
+           giveni={C\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18c8a7db043054a1b6fec23be19c5351}{%
+           family={Hsiao},
+           familyi={H\bibinitperiod},
+           given={Fei-Yuan},
+           giveni={F\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{fullhash}{9155a961d6b957362bfff317e06f263e}
+      \strng{bibnamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authorbibnamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authornamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authorfullhash}{9155a961d6b957362bfff317e06f263e}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-0464}
+      \field{journaltitle}{Journal of Biomedical Informatics}
+      \field{month}{4}
+      \field{title}{Modeling healthcare data using multiple-channel latent {Dirichlet} allocation}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{60}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{210\bibrangedash 223}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jbi.2016.02.003
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:files/114/Lu et al. - 2016 - Modeling healthcare data using multiple-channel la.pdf:application/pdf;ScienceDirect Snapshot:files/113/S1532046416000253.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1532046416000253
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1532046416000253
+      \endverb
+      \keyw{Diagnosis prediction,Diagnosis–medication associations,Health informatics,Healthcare data mining,Medication prediction,Multiple-channel latent Dirichlet allocation}
+    \endentry
     \entry{montano_2018}{article}{}
       \name{author}{5}{}{%
         {{uniquename=0,uniquepart=base,hash=ed780fefad653979464c35cb942d2653}{%
@@ -571,6 +685,72 @@
       \verb Springer Full Text PDF:files/96/Park und Ramamohanarao - 2009 - The Sensitivity of Latent Dirichlet Allocation for.pdf:application/pdf
       \endverb
       \keyw{latent Dirichlet allocation,probabilistic latent semantic analysis,query expansion,thesaurus}
+    \endentry
+    \entry{twinandilla_2018}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=775ced445f58d934abc4d6bd9ffcf9bb}{%
+           family={Twinandilla},
+           familyi={T\bibinitperiod},
+           given={Shiva},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=64f0ebb158bc8a369dc0c4b35b658b95}{%
+           family={Adhy},
+           familyi={A\bibinitperiod},
+           given={Satriyo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=274ec0e8ba5caf2559099f7efb7efe5f}{%
+           family={Surarso},
+           familyi={S\bibinitperiod},
+           given={Bayu},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=af1082ae6cc67e00fffb8ddd85dcd07f}{%
+           family={Kusumaningrum},
+           familyi={K\bibinitperiod},
+           given={Retno},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{fullhash}{87eeed92b9de9b4c69750ec996ca255a}
+      \strng{bibnamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authorbibnamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authornamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authorfullhash}{87eeed92b9de9b4c69750ec996ca255a}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{The 3rd {International} {Conference} on {Computer} {Science} and {Computational} {Intelligence} ({ICCSCI} 2018) : {Empowering} {Smart} {Technology} in {Digital} {Era} for a {Better} {Life}}
+      \field{title}{Multi-{Document} {Summarization} {Using} {K}-{Means} and {Latent} {Dirichlet} {Allocation} ({LDA}) – {Significance} {Sentences}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{663\bibrangedash 670}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2018.08.220
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:files/110/Twinandilla et al. - 2018 - Multi-Document Summarization Using K-Means and Lat.pdf:application/pdf;ScienceDirect Snapshot:files/109/S1877050918315138.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1877050918315138
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1877050918315138
+      \endverb
+      \keyw{K-Means,Latent Dirichlet Allocation,Multi-Document Summarization,Online News,ROUGE-1,Significance Sentences,Yellow Journalism}
     \endentry
     \entry{wang_2008}{incollection}{}
       \name{author}{2}{}{%
