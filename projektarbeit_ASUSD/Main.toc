@@ -6,7 +6,8 @@
 \contentsline {chapter}{\numberline {4}\gls {lda}}{6}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}General description}{6}{section.4.1}% 
 \contentsline {paragraph}{\nonumberline \gls {tf-idf}}{9}{section*.1}% 
-\contentsline {paragraph}{\nonumberline Process of \gls {lda}}{9}{section*.2}% 
+\contentsline {paragraph}{\nonumberline \gls {lda} process}{9}{section*.2}% 
+\contentsline {paragraph}{\nonumberline \gls {lda} extensions}{10}{section*.3}% 
 \contentsline {section}{\numberline {4.2}Examples and possible use cases}{10}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}Python package 'Gensim'}{11}{section.4.3}% 
 \contentsline {chapter}{\numberline {5}Acute Lymphoblastic Leukemia}{12}{chapter.5}% 

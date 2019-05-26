@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  23 MAY 2019 12:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  26 MAY 2019 20:46
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2500,9 +2500,9 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10> not available
-(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 31.
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 31.
+(Font)              scaled to size 9.49997pt on input line 32.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2528,14 +2528,6 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 [6
 
 ]
-
-LaTeX Warning: Citation 'hoffman_2010' on page 7 undefined on input line 50.
-
-LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <10> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 50.
-LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 50.
-
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
@@ -2548,10 +2540,6 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [9]
-
-LaTeX Warning: Citation 'hoffman_2010' on page 10 undefined on input line 102.
-
-
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
@@ -2563,7 +2551,7 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 121.
+(hyperref)                removing `\gls' on input line 122.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
@@ -2690,28 +2678,20 @@ Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Main
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'Main.run.xml'.
 \openout1 = `Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53119 strings out of 492945
- 1016467 string characters out of 3126253
+ 53154 strings out of 492945
+ 1016895 string characters out of 3126253
  1625729 words of memory out of 3000000
- 56077 multiletter control sequences out of 15000+200000
- 582264 words of font info for 133 fonts, out of 3000000 for 9000
+ 56125 multiletter control sequences out of 15000+200000
+ 580325 words of font info for 130 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,11n,100p,9102b,2887s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 74i,11n,100p,9102b,2886s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:crispr-cas9} has been referenced but does not
  exist, replaced by a fixed one
 
@@ -2835,9 +2815,9 @@ public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
 9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (24 pages, 177118 bytes).
+Output written on Main.pdf (24 pages, 171051 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
