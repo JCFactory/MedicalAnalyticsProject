@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{15}{section.6.2}% 
 \contentsline {section}{\numberline {6.3}Proposed solution}{15}{section.6.3}% 
 \contentsline {section}{\numberline {6.4}Results}{15}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{16}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Lessons learned}{16}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Conclusion}{16}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Outlook}{16}{section.7.3}% 
+\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{17}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Lessons learned}{17}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Conclusion}{17}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Outlook}{17}{section.7.3}% 

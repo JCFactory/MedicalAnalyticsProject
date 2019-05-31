@@ -11,6 +11,9 @@
 
 \gls{lda} provides many advantages, such as that it is suitable for large data and that it performs very well in extracting topics for Indonesian text documents \footnote{\autocite{twinandilla_2018}}.
 
+This article is ordered as follows: section 1 \ref{related} will explore ...
+section 2 \ref{lda} presents ... and section 3 \ref{all}. Section 4 \ref{development} focusses on the developed implementation and classification algorithm.
+
 \chapter{Related work}\label{related}
 
 In this section, some examples of using text mining techniques in biology or medicine are described.
@@ -151,6 +154,15 @@ To get useful data, the \gls{ncbi} \footnote{\autocite{ncbi}} was used to get al
 The first idea was to build a parsing application, which iterates over the found 582 genomes. After the iteration, it compares the oncogenes with the healthy genomes and to figure out where the differences are. The results might be displayed in a diagram. It might be possible to create clusters from the differences between the two groups or practice \gls{lda} on the differences.
 
 \section{Proposed solution}\label{proposed_solution}
+
+% algorithm to create topics
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth]{Image/creating_topics_algorithm.png}
+	\caption{Diagram of developed algorithm to create basic topics among given gene sequences}
+	\label{algorithm_figure}
+\end{figure}
+
 \section{Results}\label{results}
 
 
@@ -159,13 +171,6 @@ The first idea was to build a parsing application, which iterates over the found
 \section{Conclusion}\label{conclusion}
 \section{Outlook}\label{outlook}	
 	
-% Beispiel für Bild
-		\begin{figure}[htbp]
-			\centering
-			%\includegraphics[width=1\textwidth]{Image/xxx.pdf}
-			\caption[xxx]{Bildunterschrift}
-			\label{xxx}
-		\end{figure}
 		
 		
 % Beispiel Zitat		
