@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  31 MAY 2019 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  31 MAY 2019 16:02
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2250,7 +2250,7 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
 tor-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
-)
+) (Main.glsdefs)
 
 Package scrpage2 Warning: seems you are using a very small headheight.
 (scrpage2)                If you get overfull \vbox warnings at almost every
@@ -2582,7 +2582,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\gls' on input line 143.
 
-<Image/creating_topics_algorithm.png, id=412, 693.59125pt x 1205.50375pt>
+<Image/creating_topics_algorithm.png, id=421, 693.59125pt x 1205.50375pt>
 File: Image/creating_topics_algorithm.png Graphic file (type png)
 <use Image/creating_topics_algorithm.png>
 Package pdftex.def Info: Image/creating_topics_algorithm.png  used on input lin
@@ -2637,7 +2637,11 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[20])
+[20]) (Abkuerzung.tex
+\@gls@deffile=\write12
+\openout12 = `Main.glsdefs'.
+
+)
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
@@ -2648,19 +2652,19 @@ een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.186 \newpage
+l.187 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.186 \newpage
+l.187 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.186 \newpage
+l.187 \newpage
               ] (Anhang.tex
 Overfull \hbox (34.02832pt too wide) in paragraph at lines 6--7
 \OT1/txss/m/n/12 dass die Ar-beit in gle-icher oder []ahn-licher Form noch kein
@@ -2682,11 +2686,11 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2702,10 +2706,10 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53163 strings out of 492945
- 1017118 string characters out of 3126253
+ 53165 strings out of 492945
+ 1017287 string characters out of 3126253
  1625729 words of memory out of 3000000
- 56130 multiletter control sequences out of 15000+200000
+ 56129 multiletter control sequences out of 15000+200000
  580325 words of font info for 130 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,100p,9102b,2886s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2832,9 +2836,9 @@ public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
 9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (25 pages, 203220 bytes).
+Output written on Main.pdf (25 pages, 204906 bytes).
 PDF statistics:
- 620 PDF objects out of 1000 (max. 8388607)
- 141 named destinations out of 1000 (max. 500000)
+ 629 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
  186 words of extra memory for PDF output out of 10000 (max. 10000000)
 

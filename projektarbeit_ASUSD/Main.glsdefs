@@ -1,0 +1,1170 @@
+\ifglsentryexists{lda}{}%
+{%
+\gls@defglossaryentry{lda}%
+{%
+name={LDA},%
+sort={LDA},%
+type={acronym},%
+first={Latent Dirichlet Allocation\glsspace (LDA)},%
+firstplural={Latent Dirichlet Allocation\acrpluralsuffix \glsspace (LDA\acrpluralsuffix )},%
+text={LDA},%
+plural={LDA\acrpluralsuffix },%
+description={Latent Dirichlet Allocation},%
+descriptionplural={Latent Dirichlet Allocation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Latent Dirichlet Allocation},%
+longplural={Latent Dirichlet Allocations},%
+short={LDA},%
+shortplural={LDAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ncbi}{}%
+{%
+\gls@defglossaryentry{ncbi}%
+{%
+name={NCBI},%
+sort={NCBI},%
+type={acronym},%
+first={National Center for Biotechnology Information\glsspace (NCBI)},%
+firstplural={National Center for Biotechnology Information\acrpluralsuffix \glsspace (NCBI\acrpluralsuffix )},%
+text={NCBI},%
+plural={NCBI\acrpluralsuffix },%
+description={National Center for Biotechnology Information},%
+descriptionplural={National Center for Biotechnology Information\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={National Center for Biotechnology Information},%
+longplural={National Center for Biotechnology Informations},%
+short={NCBI},%
+shortplural={NCBIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{all}{}%
+{%
+\gls@defglossaryentry{all}%
+{%
+name={ALL},%
+sort={ALL},%
+type={acronym},%
+first={Acute Lymphoblastic Leukemia\glsspace (ALL)},%
+firstplural={Acute Lymphoblastic Leukemia\acrpluralsuffix \glsspace (ALL\acrpluralsuffix )},%
+text={ALL},%
+plural={ALL\acrpluralsuffix },%
+description={Acute Lymphoblastic Leukemia},%
+descriptionplural={Acute Lymphoblastic Leukemia\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Acute Lymphoblastic Leukemia},%
+longplural={Acute Lymphoblastic Leukemias},%
+short={ALL},%
+shortplural={ALLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{msa}{}%
+{%
+\gls@defglossaryentry{msa}%
+{%
+name={MSA},%
+sort={MSA},%
+type={acronym},%
+first={Multiple Sequence Alignment\glsspace (MSA)},%
+firstplural={Multiple Sequence Alignment\acrpluralsuffix \glsspace (MSA\acrpluralsuffix )},%
+text={MSA},%
+plural={MSA\acrpluralsuffix },%
+description={Multiple Sequence Alignment},%
+descriptionplural={Multiple Sequence Alignment\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multiple Sequence Alignment},%
+longplural={Multiple Sequence Alignments},%
+short={MSA},%
+shortplural={MSAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{muscle}{}%
+{%
+\gls@defglossaryentry{muscle}%
+{%
+name={MUSCLE},%
+sort={MUSCLE},%
+type={acronym},%
+first={Multiple Sequence Comparison by Log- Expectation\glsspace (MUSCLE)},%
+firstplural={Multiple Sequence Comparison by Log- Expectation\acrpluralsuffix \glsspace (MUSCLE\acrpluralsuffix )},%
+text={MUSCLE},%
+plural={MUSCLE\acrpluralsuffix },%
+description={Multiple Sequence Comparison by Log- Expectation},%
+descriptionplural={Multiple Sequence Comparison by Log- Expectation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multiple Sequence Comparison by Log- Expectation},%
+longplural={Multiple Sequence Comparison by Log- Expectations},%
+short={MUSCLE},%
+shortplural={MUSCLEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dna}{}%
+{%
+\gls@defglossaryentry{dna}%
+{%
+name={DNA},%
+sort={DNA},%
+type={acronym},%
+first={Desoxyribonucleic acid\glsspace (DNA)},%
+firstplural={Desoxyribonucleic acid\acrpluralsuffix \glsspace (DNA\acrpluralsuffix )},%
+text={DNA},%
+plural={DNA\acrpluralsuffix },%
+description={Desoxyribonucleic acid},%
+descriptionplural={Desoxyribonucleic acid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Desoxyribonucleic acid},%
+longplural={Desoxyribonucleic acids},%
+short={DNA},%
+shortplural={DNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ngs}{}%
+{%
+\gls@defglossaryentry{ngs}%
+{%
+name={NGS},%
+sort={NGS},%
+type={acronym},%
+first={Next-Generation Sequencing\glsspace (NGS)},%
+firstplural={Next-Generation Sequencing\acrpluralsuffix \glsspace (NGS\acrpluralsuffix )},%
+text={NGS},%
+plural={NGS\acrpluralsuffix },%
+description={Next-Generation Sequencing},%
+descriptionplural={Next-Generation Sequencing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Next-Generation Sequencing},%
+longplural={Next-Generation Sequencings},%
+short={NGS},%
+shortplural={NGSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cdna}{}%
+{%
+\gls@defglossaryentry{cdna}%
+{%
+name={CDNA},%
+sort={CDNA},%
+type={acronym},%
+first={complementary Desoxyribonucleic acid\glsspace (CDNA)},%
+firstplural={complementary Desoxyribonucleic acid\acrpluralsuffix \glsspace (CDNA\acrpluralsuffix )},%
+text={CDNA},%
+plural={CDNA\acrpluralsuffix },%
+description={complementary Desoxyribonucleic acid},%
+descriptionplural={complementary Desoxyribonucleic acid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={complementary Desoxyribonucleic acid},%
+longplural={complementary Desoxyribonucleic acids},%
+short={CDNA},%
+shortplural={CDNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ir}{}%
+{%
+\gls@defglossaryentry{ir}%
+{%
+name={IR},%
+sort={IR},%
+type={acronym},%
+first={Information Retrieval\glsspace (IR)},%
+firstplural={Information Retrieval\acrpluralsuffix \glsspace (IR\acrpluralsuffix )},%
+text={IR},%
+plural={IR\acrpluralsuffix },%
+description={Information Retrieval},%
+descriptionplural={Information Retrieval\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Retrieval},%
+longplural={Information Retrievals},%
+short={IR},%
+shortplural={IRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ner}{}%
+{%
+\gls@defglossaryentry{ner}%
+{%
+name={NER},%
+sort={NER},%
+type={acronym},%
+first={named entity recognition\glsspace (NER)},%
+firstplural={named entity recognition\acrpluralsuffix \glsspace (NER\acrpluralsuffix )},%
+text={NER},%
+plural={NER\acrpluralsuffix },%
+description={named entity recognition},%
+descriptionplural={named entity recognition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={named entity recognition},%
+longplural={named entity recognitions},%
+short={NER},%
+shortplural={NERs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ie}{}%
+{%
+\gls@defglossaryentry{ie}%
+{%
+name={IE},%
+sort={IE},%
+type={acronym},%
+first={Information extraction\glsspace (IE)},%
+firstplural={Information extraction\acrpluralsuffix \glsspace (IE\acrpluralsuffix )},%
+text={IE},%
+plural={IE\acrpluralsuffix },%
+description={Information extraction},%
+descriptionplural={Information extraction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information extraction},%
+longplural={Information extractions},%
+short={IE},%
+shortplural={IEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{kd}{}%
+{%
+\gls@defglossaryentry{kd}%
+{%
+name={KD},%
+sort={KD},%
+type={acronym},%
+first={Knowledge Discovery\glsspace (KD)},%
+firstplural={Knowledge Discovery\acrpluralsuffix \glsspace (KD\acrpluralsuffix )},%
+text={KD},%
+plural={KD\acrpluralsuffix },%
+description={Knowledge Discovery},%
+descriptionplural={Knowledge Discovery\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Knowledge Discovery},%
+longplural={Knowledge Discoverys},%
+short={KD},%
+shortplural={KDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nlp}{}%
+{%
+\gls@defglossaryentry{nlp}%
+{%
+name={NLP},%
+sort={NLP},%
+type={acronym},%
+first={Natural Language Processing\glsspace (NLP)},%
+firstplural={Natural Language Processing\acrpluralsuffix \glsspace (NLP\acrpluralsuffix )},%
+text={NLP},%
+plural={NLP\acrpluralsuffix },%
+description={Natural Language Processing},%
+descriptionplural={Natural Language Processing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Natural Language Processing},%
+longplural={Natural Language Processings},%
+short={NLP},%
+shortplural={NLPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rna}{}%
+{%
+\gls@defglossaryentry{rna}%
+{%
+name={RNA},%
+sort={RNA},%
+type={acronym},%
+first={Ribonucleic Acid\glsspace (RNA)},%
+firstplural={Ribonucleic Acid\acrpluralsuffix \glsspace (RNA\acrpluralsuffix )},%
+text={RNA},%
+plural={RNA\acrpluralsuffix },%
+description={Ribonucleic Acid},%
+descriptionplural={Ribonucleic Acid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ribonucleic Acid},%
+longplural={Ribonucleic Acids},%
+short={RNA},%
+shortplural={RNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{crna}{}%
+{%
+\gls@defglossaryentry{crna}%
+{%
+name={CRNA},%
+sort={CRNA},%
+type={acronym},%
+first={complementary Ribonucleic Acid\glsspace (CRNA)},%
+firstplural={complementary Ribonucleic Acid\acrpluralsuffix \glsspace (CRNA\acrpluralsuffix )},%
+text={CRNA},%
+plural={CRNA\acrpluralsuffix },%
+description={complementary Ribonucleic Acid},%
+descriptionplural={complementary Ribonucleic Acid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={complementary Ribonucleic Acid},%
+longplural={complementary Ribonucleic Acids},%
+short={CRNA},%
+shortplural={CRNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cart}{}%
+{%
+\gls@defglossaryentry{cart}%
+{%
+name={CART},%
+sort={CART},%
+type={acronym},%
+first={Classification and Regression Tree\glsspace (CART)},%
+firstplural={Classification and Regression Tree\acrpluralsuffix \glsspace (CART\acrpluralsuffix )},%
+text={CART},%
+plural={CART\acrpluralsuffix },%
+description={Classification and Regression Tree},%
+descriptionplural={Classification and Regression Tree\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Classification and Regression Tree},%
+longplural={Classification and Regression Trees},%
+short={CART},%
+shortplural={CARTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{id3}{}%
+{%
+\gls@defglossaryentry{id3}%
+{%
+name={ID3},%
+sort={ID3},%
+type={acronym},%
+first={Iterative Dichotomized 3\glsspace (ID3)},%
+firstplural={Iterative Dichotomized 3\acrpluralsuffix \glsspace (ID3\acrpluralsuffix )},%
+text={ID3},%
+plural={ID3\acrpluralsuffix },%
+description={Iterative Dichotomized 3},%
+descriptionplural={Iterative Dichotomized 3\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Iterative Dichotomized 3},%
+longplural={Iterative Dichotomized 3s},%
+short={ID3},%
+shortplural={ID3s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dt}{}%
+{%
+\gls@defglossaryentry{dt}%
+{%
+name={DT},%
+sort={DT},%
+type={acronym},%
+first={Decision Tree\glsspace (DT)},%
+firstplural={Decision Tree\acrpluralsuffix \glsspace (DT\acrpluralsuffix )},%
+text={DT},%
+plural={DT\acrpluralsuffix },%
+description={Decision Tree},%
+descriptionplural={Decision Tree\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Decision Tree},%
+longplural={Decision Trees},%
+short={DT},%
+shortplural={DTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pca}{}%
+{%
+\gls@defglossaryentry{pca}%
+{%
+name={PCA},%
+sort={PCA},%
+type={acronym},%
+first={Principal Component Analysis\glsspace (PCA)},%
+firstplural={Principal Component Analysis\acrpluralsuffix \glsspace (PCA\acrpluralsuffix )},%
+text={PCA},%
+plural={PCA\acrpluralsuffix },%
+description={Principal Component Analysis},%
+descriptionplural={Principal Component Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Principal Component Analysis},%
+longplural={Principal Component Analysiss},%
+short={PCA},%
+shortplural={PCAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tfidf}{}%
+{%
+\gls@defglossaryentry{tfidf}%
+{%
+name={TFIDF},%
+sort={TFIDF},%
+type={acronym},%
+first={term frequency/inverse document frequency\glsspace (TFIDF)},%
+firstplural={term frequency/inverse document frequency\acrpluralsuffix \glsspace (TFIDF\acrpluralsuffix )},%
+text={TFIDF},%
+plural={TFIDF\acrpluralsuffix },%
+description={term frequency/inverse document frequency},%
+descriptionplural={term frequency/inverse document frequency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={term frequency/inverse document frequency},%
+longplural={term frequency/inverse document frequencys},%
+short={TFIDF},%
+shortplural={TFIDFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rst}{}%
+{%
+\gls@defglossaryentry{rst}%
+{%
+name={RST},%
+sort={RST},%
+type={acronym},%
+first={Rhethorical Structure Theory\glsspace (RST)},%
+firstplural={Rhethorical Structure Theory\acrpluralsuffix \glsspace (RST\acrpluralsuffix )},%
+text={RST},%
+plural={RST\acrpluralsuffix },%
+description={Rhethorical Structure Theory},%
+descriptionplural={Rhethorical Structure Theory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rhethorical Structure Theory},%
+longplural={Rhethorical Structure Theorys},%
+short={RST},%
+shortplural={RSTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hmm}{}%
+{%
+\gls@defglossaryentry{hmm}%
+{%
+name={HMM},%
+sort={HMM},%
+type={acronym},%
+first={Hidden-Markov-Models\glsspace (HMM)},%
+firstplural={Hidden-Markov-Models\acrpluralsuffix \glsspace (HMM\acrpluralsuffix )},%
+text={HMM},%
+plural={HMM\acrpluralsuffix },%
+description={Hidden-Markov-Models},%
+descriptionplural={Hidden-Markov-Models\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hidden-Markov-Models},%
+longplural={Hidden-Markov-Modelss},%
+short={HMM},%
+shortplural={HMMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bm}{}%
+{%
+\gls@defglossaryentry{bm}%
+{%
+name={BM},%
+sort={BM},%
+type={acronym},%
+first={Bayesian models\glsspace (BM)},%
+firstplural={Bayesian models\acrpluralsuffix \glsspace (BM\acrpluralsuffix )},%
+text={BM},%
+plural={BM\acrpluralsuffix },%
+description={Bayesian models},%
+descriptionplural={Bayesian models\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bayesian models},%
+longplural={Bayesian modelss},%
+short={BM},%
+shortplural={BMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{re}{}%
+{%
+\gls@defglossaryentry{re}%
+{%
+name={RE},%
+sort={RE},%
+type={acronym},%
+first={Relation extraction\glsspace (RE)},%
+firstplural={Relation extraction\acrpluralsuffix \glsspace (RE\acrpluralsuffix )},%
+text={RE},%
+plural={RE\acrpluralsuffix },%
+description={Relation extraction},%
+descriptionplural={Relation extraction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Relation extraction},%
+longplural={Relation extractions},%
+short={RE},%
+shortplural={REs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mirna}{}%
+{%
+\gls@defglossaryentry{mirna}%
+{%
+name={MIRNA},%
+sort={MIRNA},%
+type={acronym},%
+first={micro Ribonucleic Acid\glsspace (MIRNA)},%
+firstplural={micro Ribonucleic Acid\acrpluralsuffix \glsspace (MIRNA\acrpluralsuffix )},%
+text={MIRNA},%
+plural={MIRNA\acrpluralsuffix },%
+description={micro Ribonucleic Acid},%
+descriptionplural={micro Ribonucleic Acid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={micro Ribonucleic Acid},%
+longplural={micro Ribonucleic Acids},%
+short={MIRNA},%
+shortplural={MIRNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cnv}{}%
+{%
+\gls@defglossaryentry{cnv}%
+{%
+name={CNV},%
+sort={CNV},%
+type={acronym},%
+first={copy number variant\glsspace (CNV)},%
+firstplural={copy number variant\acrpluralsuffix \glsspace (CNV\acrpluralsuffix )},%
+text={CNV},%
+plural={CNV\acrpluralsuffix },%
+description={copy number variant},%
+descriptionplural={copy number variant\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={copy number variant},%
+longplural={copy number variants},%
+short={CNV},%
+shortplural={CNVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nltk}{}%
+{%
+\gls@defglossaryentry{nltk}%
+{%
+name={NLTK},%
+sort={NLTK},%
+type={acronym},%
+first={Natural Language Toolkit\glsspace (NLTK)},%
+firstplural={Natural Language Toolkit\acrpluralsuffix \glsspace (NLTK\acrpluralsuffix )},%
+text={NLTK},%
+plural={NLTK\acrpluralsuffix },%
+description={Natural Language Toolkit},%
+descriptionplural={Natural Language Toolkit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Natural Language Toolkit},%
+longplural={Natural Language Toolkits},%
+short={NLTK},%
+shortplural={NLTKs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{crispr-cas9}{}%
+{%
+\gls@defglossaryentry{crispr-cas9}%
+{%
+name={CRISPR-CAS9},%
+sort={CRISPR-CAS9},%
+type={acronym},%
+first={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9\glsspace (CRISPR-CAS9)},%
+firstplural={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9\acrpluralsuffix \glsspace (CRISPR-CAS9\acrpluralsuffix )},%
+text={CRISPR-CAS9},%
+plural={CRISPR-CAS9\acrpluralsuffix },%
+description={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9},%
+descriptionplural={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9},%
+longplural={Clustered Regularly Interspaced Short Palindromic Repeats Cas-9s},%
+short={CRISPR-CAS9},%
+shortplural={CRISPR-CAS9s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{snp}{}%
+{%
+\gls@defglossaryentry{snp}%
+{%
+name={SNP},%
+sort={SNP},%
+type={acronym},%
+first={Single Nucleotide Polymorphism\glsspace (SNP)},%
+firstplural={Single Nucleotide Polymorphism\acrpluralsuffix \glsspace (SNP\acrpluralsuffix )},%
+text={SNP},%
+plural={SNP\acrpluralsuffix },%
+description={Single Nucleotide Polymorphism},%
+descriptionplural={Single Nucleotide Polymorphism\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Single Nucleotide Polymorphism},%
+longplural={Single Nucleotide Polymorphisms},%
+short={SNP},%
+shortplural={SNPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mrna}{}%
+{%
+\gls@defglossaryentry{mrna}%
+{%
+name={MRNA},%
+sort={MRNA},%
+type={acronym},%
+first={messenger RNA\glsspace (MRNA)},%
+firstplural={messenger RNA\acrpluralsuffix \glsspace (MRNA\acrpluralsuffix )},%
+text={MRNA},%
+plural={MRNA\acrpluralsuffix },%
+description={messenger RNA},%
+descriptionplural={messenger RNA\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={messenger RNA},%
+longplural={messenger RNAs},%
+short={MRNA},%
+shortplural={MRNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pcr}{}%
+{%
+\gls@defglossaryentry{pcr}%
+{%
+name={PCR},%
+sort={PCR},%
+type={acronym},%
+first={Polymerase Chain Reaction\glsspace (PCR)},%
+firstplural={Polymerase Chain Reaction\acrpluralsuffix \glsspace (PCR\acrpluralsuffix )},%
+text={PCR},%
+plural={PCR\acrpluralsuffix },%
+description={Polymerase Chain Reaction},%
+descriptionplural={Polymerase Chain Reaction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Polymerase Chain Reaction},%
+longplural={Polymerase Chain Reactions},%
+short={PCR},%
+shortplural={PCRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sage}{}%
+{%
+\gls@defglossaryentry{sage}%
+{%
+name={SAGE},%
+sort={SAGE},%
+type={acronym},%
+first={Serial Analysis of Gene Expression\glsspace (SAGE)},%
+firstplural={Serial Analysis of Gene Expression\acrpluralsuffix \glsspace (SAGE\acrpluralsuffix )},%
+text={SAGE},%
+plural={SAGE\acrpluralsuffix },%
+description={Serial Analysis of Gene Expression},%
+descriptionplural={Serial Analysis of Gene Expression\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Serial Analysis of Gene Expression},%
+longplural={Serial Analysis of Gene Expressions},%
+short={SAGE},%
+shortplural={SAGEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{qpcr}{}%
+{%
+\gls@defglossaryentry{qpcr}%
+{%
+name={QPCR},%
+sort={QPCR},%
+type={acronym},%
+first={Quantitative real-time Polymerase Chain Reaction\glsspace (QPCR)},%
+firstplural={Quantitative real-time Polymerase Chain Reaction\acrpluralsuffix \glsspace (QPCR\acrpluralsuffix )},%
+text={QPCR},%
+plural={QPCR\acrpluralsuffix },%
+description={Quantitative real-time Polymerase Chain Reaction},%
+descriptionplural={Quantitative real-time Polymerase Chain Reaction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Quantitative real-time Polymerase Chain Reaction},%
+longplural={Quantitative real-time Polymerase Chain Reactions},%
+short={QPCR},%
+shortplural={QPCRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{car}{}%
+{%
+\gls@defglossaryentry{car}%
+{%
+name={CAR},%
+sort={CAR},%
+type={acronym},%
+first={Chimeric Antigen Receptors\glsspace (CAR)},%
+firstplural={Chimeric Antigen Receptors\acrpluralsuffix \glsspace (CAR\acrpluralsuffix )},%
+text={CAR},%
+plural={CAR\acrpluralsuffix },%
+description={Chimeric Antigen Receptors},%
+descriptionplural={Chimeric Antigen Receptors\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Chimeric Antigen Receptors},%
+longplural={Chimeric Antigen Receptorss},%
+short={CAR},%
+shortplural={CARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mcmc}{}%
+{%
+\gls@defglossaryentry{mcmc}%
+{%
+name={MCMC},%
+sort={MCMC},%
+type={acronym},%
+first={Markov Chain Monte Carlo\glsspace (MCMC)},%
+firstplural={Markov Chain Monte Carlo\acrpluralsuffix \glsspace (MCMC\acrpluralsuffix )},%
+text={MCMC},%
+plural={MCMC\acrpluralsuffix },%
+description={Markov Chain Monte Carlo},%
+descriptionplural={Markov Chain Monte Carlo\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Markov Chain Monte Carlo},%
+longplural={Markov Chain Monte Carlos},%
+short={MCMC},%
+shortplural={MCMCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{arm}{}%
+{%
+\gls@defglossaryentry{arm}%
+{%
+name={ARM},%
+sort={ARM},%
+type={acronym},%
+first={Association Rule Mining\glsspace (ARM)},%
+firstplural={Association Rule Mining\acrpluralsuffix \glsspace (ARM\acrpluralsuffix )},%
+text={ARM},%
+plural={ARM\acrpluralsuffix },%
+description={Association Rule Mining},%
+descriptionplural={Association Rule Mining\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Association Rule Mining},%
+longplural={Association Rule Minings},%
+short={ARM},%
+shortplural={ARMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mclda}{}%
+{%
+\gls@defglossaryentry{mclda}%
+{%
+name={MCLDA},%
+sort={MCLDA},%
+type={acronym},%
+first={Multiple-channel Latent Dirichlet Allocation\glsspace (MCLDA)},%
+firstplural={Multiple-channel Latent Dirichlet Allocation\acrpluralsuffix \glsspace (MCLDA\acrpluralsuffix )},%
+text={MCLDA},%
+plural={MCLDA\acrpluralsuffix },%
+description={Multiple-channel Latent Dirichlet Allocation},%
+descriptionplural={Multiple-channel Latent Dirichlet Allocation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multiple-channel Latent Dirichlet Allocation},%
+longplural={Multiple-channel Latent Dirichlet Allocations},%
+short={MCLDA},%
+shortplural={MCLDAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cgs}{}%
+{%
+\gls@defglossaryentry{cgs}%
+{%
+name={CGS},%
+sort={CGS},%
+type={acronym},%
+first={Collapsed Gibbs model\glsspace (CGS)},%
+firstplural={Collapsed Gibbs model\acrpluralsuffix \glsspace (CGS\acrpluralsuffix )},%
+text={CGS},%
+plural={CGS\acrpluralsuffix },%
+description={Collapsed Gibbs model},%
+descriptionplural={Collapsed Gibbs model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Collapsed Gibbs model},%
+longplural={Collapsed Gibbs models},%
+short={CGS},%
+shortplural={CGSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tf-idf}{}%
+{%
+\gls@defglossaryentry{tf-idf}%
+{%
+name={TFIDF},%
+sort={TFIDF},%
+type={acronym},%
+first={term frequency inverse document frequency\glsspace (TFIDF)},%
+firstplural={term frequency inverse document frequency\acrpluralsuffix \glsspace (TFIDF\acrpluralsuffix )},%
+text={TFIDF},%
+plural={TFIDF\acrpluralsuffix },%
+description={term frequency inverse document frequency},%
+descriptionplural={term frequency inverse document frequency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={term frequency inverse document frequency},%
+longplural={term frequency inverse document frequencys},%
+short={TFIDF},%
+shortplural={TFIDFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
