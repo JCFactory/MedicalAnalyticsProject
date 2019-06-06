@@ -140,6 +140,47 @@ But why should be changed the shape of \gls{dna}? In the opinion of Montano et a
    
 \section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
 
+\paragraph{\gls{ncbi}}
+
+\gls{ncbi} was established in Nov. 4, 1988 as a national resource for molecular biology information \footnote{\autocite{ncbi}}. Its main purpose was to create automated systems for storing and analyizing knowledge about molecular biology as well as biochemistry and genetics.The community of \gls{ncbi} conducts research on fundamental biomedical problems at a molecular level using mathematical and computational methods.
+Moreover \gls{ncbi} collaborates with several \gls{nih} and develops, distributes, supports, and grands access to various databases and software for scientific and medical communities.
+\gls{ncbi} also works as an organization for standardization of databases, data deposition and data exchange and biological nomenclature.
+As a challenge, \gls{ncbi} needs to find new approaches to deal with the volume and complexity of data. Another complex issue \gls{ncbi} is facing is how to provide researchers better access to analysis and computing tools. These tools will be useful to understand the genetic legacy and its role in health and disease.
+
+In this article, \gls{ncbi} was used to query all genomes related to the diseas \gls{all} which can be seen in figure \ref{ncbi_query}.
+After selecting the first gene 'IKZF1', the web interface shows details about the given genome sequence (see figure \ref{gene_details}). Below the given point 'See related', a link to the related source from Ensembl genome browser 96 can be clicked. The next paragraph describes the information from the Ensembl genome browser 96.
+
+% ncbi query for all genomes
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth]{Image/ncbi_all_result.png}
+	\caption{\gls{ncbi} query to find all \gls{all} related gene sequences}
+	\label{ncbi_query}
+\end{figure}
+
+% ncbi detail view for one genome
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth]{Image/ncbi_gene_details.png}
+	\caption{Detailed information about selected gene sequence}
+	\label{gene_details}
+\end{figure}
+
+\paragraph{Ensembl genome browser 96}
+
+The second genome database used in this article, was the Ensembl genome browser 96 \footnote{\autocite{ensembl}}. It is a special genome browser for vertebrate genomes. In comparison to \gls{ncbi}, Ensembl annotates genes and computes multiple alignments and predicts regulatory function. Besides, Ensembl collects disease data and supports research in comparative genomics, evolution, sequence variation and transcriptional regulation.
+In April 2019, Ensembl published a new release which included a \gls{rest} and \gls{ftp} \gls{api}. Apart from new genomes, Ensembl Release 96 offers a new interface to configure the regulation tracks.
+
+Figure \ref{ensembl_result} shows the Ensembl result of the selected gene from \gls{ncbi} database.
+
+% ensembl result
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth]{Image/ensembl_ikfz1.png}
+	\caption{Information about genome IKFZ1, found in Ensembl genome browser 96}
+	\label{ensembl_result}
+\end{figure}
+
 \chapter{Development of a solution for genetic analysis of \gls{all} genomes by implementing \gls{lda}}\label{development}
 \section{Problems and challenges of genetic analysis}\label{problems_challenges}
 Quality of data 
@@ -168,19 +209,13 @@ The first idea was to build a parsing application, which iterates over the found
 
 \chapter{Conclusion and Outlook}\label{conclusion_outlook}
 \section{Lessons learned}\label{lessons_learned}
+
+There are many genome analysis tools in the internet. \gls{nih} provides several interfaces for genome alignment methods to find out the similarity between two given genome.\footnote{\autocite{blast}}.
+But in the given case, all given gene sequences should be compared with each other in order to find appropriate clusters.
+
+
 \section{Conclusion}\label{conclusion}
 \section{Outlook}\label{outlook}	
-	
-		
-		
-% Beispiel Zitat		
-		\begin{quote}
-			\textit{Ein Zitat}
-		\end{quote}
-
-
-% Quellenangabe 		\autocite[Seite]{Autor.Jahr}
-				\autocite[20]{}
 
 \input{Verzeichnis}
 \input{Abkuerzung}

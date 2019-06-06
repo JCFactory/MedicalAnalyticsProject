@@ -1,0 +1,570 @@
+<html><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script type="text/javascript" src="300lo.json"></script><script type="text/javascript" src="_ate.config_resp"></script> 
+  <meta charset="utf-8"> 
+  <title>NCBI BLAST &lt; Sequence Similarity Searching &lt; EMBL-EBI</title> 
+  <meta name="description" content="BLAST stands for Basic Local Alignment Search Tool.The emphasis of this tool is to find regions of sequence similarity, which will yield functional and evolutionary clues about the structure and function of your sequence."> 
+  <meta name="keywords" content="bioinformatics, europe, institute"> 
+  <meta name="author" content="EMBL-EBI"> 
+  <!-- Mobile viewport optimized: j.mp/bplateviewport --> 
+  <meta name="viewport" content="width=device-width,initial-scale=1"> 
+  <!-- All JavaScript at the bottom, except for Modernizr / Respond.
+       Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
+       For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ --> 
+  <!-- Full build --> 
+  <!-- <script src="//www.ebi.ac.uk/web_guidelines/js/libs/modernizr.minified.2.1.6.js"></script> --> 
+  <!-- custom build (lacks most of the "advanced" HTML5 support --> 
+  <script src="modernizr.js"></script> 
+  <link rel="stylesheet" href="foundation.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="ebi-global.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="fonts.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="theme-embl-petrol.css" type="text/css" media="all"> 
+  <style type="text/css">div.downtime-message { font-size:100%; padding:9px } #contentsarea div.downtime-message { padding:0px } div.downtime-message-inner { font-family: helvetica, sans-serif; padding:9px; border: 1px solid #CCC } body.section-home.front div.downtime-message-inner { border: none; } div.downtime-message p { margin:0 } div.downtime-message p.downtime-title { font-size: 1rem; } div.downtime-message p.downtime-message span.downtime-note { font-weight:bold } div.downtime-message p.downtime-message strong { color:#e33e3e; font-weight:bold }div.downtime-message p.downtime-message em { font-style:italic }</style> 
+ <style type="text/css">.at-icon{fill:#fff;border:0}.at-icon-wrapper{display:inline-block;overflow:hidden}a .at-icon-wrapper{cursor:pointer}.at-rounded,.at-rounded-element .at-icon-wrapper{border-radius:12%}.at-circular,.at-circular-element .at-icon-wrapper{border-radius:50%}.addthis_32x32_style .at-icon{width:2pc;height:2pc}.addthis_24x24_style .at-icon{width:24px;height:24px}.addthis_20x20_style .at-icon{width:20px;height:20px}.addthis_16x16_style .at-icon{width:1pc;height:1pc}#at16lb{display:none;position:absolute;top:0;left:0;width:100%;height:100%;z-index:1001;background-color:#000;opacity:.001}#at_complete,#at_error,#at_share,#at_success{position:static!important}.at15dn{display:none}#at15s,#at16p,#at16p form input,#at16p label,#at16p textarea,#at_share .at_item{font-family:arial,helvetica,tahoma,verdana,sans-serif!important;font-size:9pt!important;outline-style:none;outline-width:0;line-height:1em}* html #at15s.mmborder{position:absolute!important}#at15s.mmborder{position:fixed!important;width:250px!important}#at15s{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtJREFUeNpiZGBgaGAgAjAxEAlGFVJHIUCAAQDcngCUgqGMqwAAAABJRU5ErkJggg==);float:none;line-height:1em;margin:0;overflow:visible;padding:5px;text-align:left;position:absolute}#at15s a,#at15s span{outline:0;direction:ltr;text-transform:none}#at15s .at-label{margin-left:5px}#at15s .at-icon-wrapper{width:1pc;height:1pc;vertical-align:middle}#at15s .at-icon{width:1pc;height:1pc}.at4-icon{display:inline-block;background-repeat:no-repeat;background-position:top left;margin:0;overflow:hidden;cursor:pointer}.addthis_16x16_style .at4-icon,.addthis_default_style .at4-icon,.at4-icon,.at-16x16{width:1pc;height:1pc;line-height:1pc;background-size:1pc!important}.addthis_32x32_style .at4-icon,.at-32x32{width:2pc;height:2pc;line-height:2pc;background-size:2pc!important}.addthis_24x24_style .at4-icon,.at-24x24{width:24px;height:24px;line-height:24px;background-size:24px!important}.addthis_20x20_style .at4-icon,.at-20x20{width:20px;height:20px;line-height:20px;background-size:20px!important}.at4-icon.circular,.circular .at4-icon,.circular.aticon{border-radius:50%}.at4-icon.rounded,.rounded .at4-icon{border-radius:4px}.at4-icon-left{float:left}#at15s .at4-icon{text-indent:20px;padding:0;overflow:visible;white-space:nowrap;background-size:1pc;width:1pc;height:1pc;background-position:top left;display:inline-block;line-height:1pc}.addthis_vertical_style .at4-icon,.at4-follow-container .at4-icon{margin-right:5px}html>body #at15s{width:250px!important}#at15s.atm{background:none!important;padding:0!important;width:10pc!important}#at15s_inner{background:#fff;border:1px solid #fff;margin:0}#at15s_head{position:relative;background:#f2f2f2;padding:4px;cursor:default;border-bottom:1px solid #e5e5e5}.at15s_head_success{background:#cafd99!important;border-bottom:1px solid #a9d582!important}.at15s_head_success a,.at15s_head_success span{color:#000!important;text-decoration:none}#at15s_brand,#at15sptx,#at16_brand{position:absolute}#at15s_brand{top:4px;right:4px}.at15s_brandx{right:20px!important}a#at15sptx{top:4px;right:4px;text-decoration:none;color:#4c4c4c;font-weight:700}#at15sptx:hover{text-decoration:underline}#at16_brand{top:5px;right:30px;cursor:default}#at_hover{padding:4px}#at_hover .at_item,#at_share .at_item{background:#fff!important;float:left!important;color:#4c4c4c!important}#at_share .at_item .at-icon-wrapper{margin-right:5px}#at_hover .at_bold{font-weight:700;color:#000!important}#at_hover .at_item{width:7pc!important;padding:2px 3px!important;margin:1px;text-decoration:none!important}#at_hover .at_item.athov,#at_hover .at_item:focus,#at_hover .at_item:hover{margin:0!important}#at_hover .at_item.athov,#at_hover .at_item:focus,#at_hover .at_item:hover,#at_share .at_item.athov,#at_share .at_item:hover{background:#f2f2f2!important;border:1px solid #e5e5e5;color:#000!important;text-decoration:none}.ipad #at_hover .at_item:focus{background:#fff!important;border:1px solid #fff}.at15t{display:block!important;height:1pc!important;line-height:1pc!important;padding-left:20px!important;background-position:0 0;text-align:left}.addthis_button,.at15t{cursor:pointer}.addthis_toolbox a.at300b,.addthis_toolbox a.at300m{width:auto}.addthis_toolbox a{margin-bottom:5px;line-height:initial}.addthis_toolbox.addthis_vertical_style{width:200px}.addthis_button_facebook_like .fb_iframe_widget{line-height:100%}.addthis_button_facebook_like iframe.fb_iframe_widget_lift{max-width:none}.addthis_toolbox a.addthis_button_counter,.addthis_toolbox a.addthis_button_facebook_like,.addthis_toolbox a.addthis_button_facebook_send,.addthis_toolbox a.addthis_button_facebook_share,.addthis_toolbox a.addthis_button_foursquare,.addthis_toolbox a.addthis_button_linkedin_counter,.addthis_toolbox a.addthis_button_pinterest_pinit,.addthis_toolbox a.addthis_button_tweet{display:inline-block}.addthis_toolbox span.addthis_follow_label{display:none}.addthis_toolbox.addthis_vertical_style span.addthis_follow_label{display:block;white-space:nowrap}.addthis_toolbox.addthis_vertical_style a{display:block}.addthis_toolbox.addthis_vertical_style.addthis_32x32_style a{line-height:2pc;height:2pc}.addthis_toolbox.addthis_vertical_style .at300bs{margin-right:4px;float:left}.addthis_toolbox.addthis_20x20_style span{line-height:20px}.addthis_toolbox.addthis_32x32_style span{line-height:2pc}.addthis_toolbox.addthis_pill_combo_style .addthis_button_compact .at15t_compact,.addthis_toolbox.addthis_pill_combo_style a{float:left}.addthis_toolbox.addthis_pill_combo_style a.addthis_button_tweet{margin-top:-2px}.addthis_toolbox.addthis_pill_combo_style .addthis_button_compact .at15t_compact{margin-right:4px}.addthis_default_style .addthis_separator{margin:0 5px;display:inline}div.atclear{clear:both}.addthis_default_style .addthis_separator,.addthis_default_style .at4-icon,.addthis_default_style .at300b,.addthis_default_style .at300bo,.addthis_default_style .at300bs,.addthis_default_style .at300m{float:left}.at300b img,.at300bo img{border:0}a.at300b .at4-icon,a.at300m .at4-icon{display:block}.addthis_default_style .at300b,.addthis_default_style .at300bo,.addthis_default_style .at300m{padding:0 2px}.at300b,.at300bo,.at300bs,.at300m{cursor:pointer}.addthis_button_facebook_like.at300b:hover,.addthis_button_facebook_like.at300bs:hover,.addthis_button_facebook_send.at300b:hover,.addthis_button_facebook_send.at300bs:hover{opacity:1}.addthis_20x20_style .at15t,.addthis_20x20_style .at300bs{overflow:hidden;display:block;height:20px!important;width:20px!important;line-height:20px!important}.addthis_32x32_style .at15t,.addthis_32x32_style .at300bs{overflow:hidden;display:block;height:2pc!important;width:2pc!important;line-height:2pc!important}.at300bs{overflow:hidden;display:block;background-position:0 0;height:1pc;width:1pc;line-height:1pc!important}.addthis_default_style .at15t_compact,.addthis_default_style .at15t_expanded{margin-right:4px}#at_share .at_item{width:123px!important;padding:4px;margin-right:2px;border:1px solid #fff}#at16p{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtJREFUeNpiZGBgaGAgAjAxEAlGFVJHIUCAAQDcngCUgqGMqwAAAABJRU5ErkJggg==);z-index:10000001;position:absolute;top:50%;left:50%;width:300px;padding:10px;margin:0 auto;margin-top:-185px;margin-left:-155px;font-family:arial,helvetica,tahoma,verdana,sans-serif;font-size:9pt;color:#5e5e5e}#at_share{margin:0;padding:0}#at16pt{position:relative;background:#f2f2f2;height:13px;padding:5px 10px}#at16pt a,#at16pt h4{font-weight:700}#at16pt h4{display:inline;margin:0;padding:0;font-size:9pt;color:#4c4c4c;cursor:default}#at16pt a{position:absolute;top:5px;right:10px;color:#4c4c4c;text-decoration:none;padding:2px}#at15sptx:focus,#at16pt a:focus{outline:thin dotted}#at15s #at16pf a{top:1px}#_atssh{width:1px!important;height:1px!important;border:0!important}.atm{width:10pc!important;padding:0;margin:0;line-height:9pt;letter-spacing:normal;font-family:arial,helvetica,tahoma,verdana,sans-serif;font-size:9pt;color:#444;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtJREFUeNpiZGBgaGAgAjAxEAlGFVJHIUCAAQDcngCUgqGMqwAAAABJRU5ErkJggg==);padding:4px}.atm-f{text-align:right;border-top:1px solid #ddd;padding:5px 8px}.atm-i{background:#fff;border:1px solid #d5d6d6;padding:0;margin:0;box-shadow:1px 1px 5px rgba(0,0,0,.15)}.atm-s{margin:0!important;padding:0!important}.atm-s a:focus{border:transparent;outline:0;transition:none}#at_hover.atm-s a,.atm-s a{display:block;text-decoration:none;padding:4px 10px;color:#235dab!important;font-weight:400;font-style:normal;transition:none}#at_hover.atm-s .at_bold{color:#235dab!important}#at_hover.atm-s a:hover,.atm-s a:hover{background:#2095f0;text-decoration:none;color:#fff!important}#at_hover.atm-s .at_bold{font-weight:700}#at_hover.atm-s a:hover .at_bold{color:#fff!important}.atm-s a .at-label{vertical-align:middle;margin-left:5px;direction:ltr}.at_PinItButton{display:block;width:40px;height:20px;padding:0;margin:0;background-image:url(//s7.addthis.com/static/t00/pinit00.png);background-repeat:no-repeat}.at_PinItButton:hover{background-position:0 -20px}.addthis_toolbox .addthis_button_pinterest_pinit{position:relative}.at-share-tbx-element .fb_iframe_widget span{vertical-align:baseline!important}#at16pf{height:auto;text-align:right;padding:4px 8px}.at-privacy-info{position:absolute;left:7px;bottom:7px;cursor:pointer;text-decoration:none;font-family:helvetica,arial,sans-serif;font-size:10px;line-height:9pt;letter-spacing:.2px;color:#666}.at-privacy-info:hover{color:#000}.body .wsb-social-share .wsb-social-share-button-vert{padding-top:0;padding-bottom:0}.body .wsb-social-share.addthis_counter_style .addthis_button_tweet.wsb-social-share-button{padding-top:40px}.body .wsb-social-share.addthis_counter_style .addthis_button_facebook_like.wsb-social-share-button{padding-top:21px}@media print{#at4-follow,#at4-share,#at4-thankyou,#at4-whatsnext,#at4m-mobile,#at15s,.at4,.at4-recommended{display:none!important}}@media screen and (max-width:400px){.at4win{width:100%}}@media screen and (max-height:700px) and (max-width:400px){.at4-thankyou-inner .at4-recommended-container{height:122px;overflow:hidden}.at4-thankyou-inner .at4-recommended .at4-recommended-item:first-child{border-bottom:1px solid #c5c5c5}}</style><style type="text/css">.at-branding-logo{font-family:helvetica,arial,sans-serif;text-decoration:none;font-size:10px;display:inline-block;margin:2px 0;letter-spacing:.2px}.at-branding-logo .at-branding-icon{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAMAAAC67D+PAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////+GlNUkcc1QAAAB1JREFUeNpiYIQDBjQmAwMmkwEM0JnY1WIxFyDAABGeAFEudiZsAAAAAElFTkSuQmCC")}.at-branding-logo .at-branding-icon,.at-branding-logo .at-privacy-icon{display:inline-block;height:10px;width:10px;margin-left:4px;margin-right:3px;margin-bottom:-1px;background-repeat:no-repeat}.at-branding-logo .at-privacy-icon{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAKCAMAAABR24SMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhQTFRF8fr9ot/xXcfn2/P5AKva////////AKTWodjhjAAAAAd0Uk5T////////ABpLA0YAAAA6SURBVHjaJMzBDQAwCAJAQaj7b9xifV0kUKJ9ciWxlzWEWI5gMF65KUTv0VKkjVeTerqE/x7+9BVgAEXbAWI8QDcfAAAAAElFTkSuQmCC")}.at-branding-logo span{text-decoration:none}.at-branding-logo .at-branding-addthis,.at-branding-logo .at-branding-powered-by{color:#666}.at-branding-logo .at-branding-addthis:hover{color:#333}.at-cv-with-image .at-branding-addthis,.at-cv-with-image .at-branding-addthis:hover{color:#fff}a.at-branding-logo:visited{color:initial}.at-branding-info{display:inline-block;padding:0 5px;color:#666;border:1px solid #666;border-radius:50%;font-size:10px;line-height:9pt;opacity:.7;transition:all .3s ease;text-decoration:none}.at-branding-info span{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.at-branding-info:before{content:'i';font-family:Times New Roman}.at-branding-info:hover{color:#0780df;border-color:#0780df}</style><meta class="foundation-mq"><script src="5_ebiFrameworkNotificationBanner.js"></script><link id="avast_os_ext_custom_font" href="chrome-extension://eofcbnmajmjmplflapaojjnihcjkigck/common/ui/fonts/fonts.css" rel="stylesheet" type="text/css"><script src="5_ebiFrameworkNotificationBanner.js"></script></head> 
+ <body class="level2">
+  <!-- add any of your classes or IDs --> 
+  <div id="skip-to"> 
+   <ul> 
+    <li><a href="#content">Skip to main content</a></li> 
+    <li><a href="#local-nav">Skip to local navigation</a></li> 
+    <li><a href="#global-nav">Skip to EBI global navigation menu</a></li> 
+    <li><a href="#global-nav-expanded">Skip to expanded EBI global navigation menu (includes all sub-sections)</a></li> 
+   </ul> 
+  </div> 
+  <div data-sticky-container="" class="sticky-container" style="height: 208.063px;"> 
+   <div id="local-masthead" data-sticky="vrwkro-sticky" data-sticky-on="large" data-top-anchor="180" data-btm-anchor="300000" class="sticky is-anchored is-at-top" data-resize="local-masthead" style="max-width: 1197.33px; margin-top: 0px; top: 0px; bottom: auto;"> 
+    <header> 
+     <div id="global-masthead" class="clearfix"> 
+      <a href="https://www.ebi.ac.uk/" title="Go to the EMBL-EBI homepage"><span class="ebi-logo"></span></a> 
+      <nav> 
+       <div class="row"> 
+        <ul id="global-nav" class="menu"> 
+         <li id="home-mobile" class=""><a href="https://www.ebi.ac.uk/"></a></li> 
+         <li id="home" class="active"><a href="https://www.ebi.ac.uk/"><i class="icon icon-generic" data-icon="H"></i> EMBL-EBI</a></li> 
+         <li class="first active" id="services"><a href="https://www.ebi.ac.uk/services">Services</a></li> 
+         <li id="research"><a href="https://www.ebi.ac.uk/research">Research</a></li> 
+         <li id="training"><a href="https://www.ebi.ac.uk/training">Training</a></li> 
+         <li id="industry"><a href="https://www.ebi.ac.uk/industry">Industry</a></li> 
+         <li id="about" class="last"><a href="https://www.ebi.ac.uk/about">About us</a></li> 
+         <li id="search"> <a href="#" data-toggle="search-global-dropdown" aria-controls="search-global-dropdown" data-is-focus="false" data-yeti-box="search-global-dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon icon-functional" data-icon="1"></i> <span class="show-for-small-only">Search</span></a> 
+          <div id="search-global-dropdown" class="dropdown-pane" data-dropdown="tqwk44-dropdown" data-options="closeOnClick:true;" aria-hidden="true" data-yeti-box="search-global-dropdown" data-resize="search-global-dropdown" aria-labelledby="95miav-dd-anchor"><form id="global-search" name="global-search" action="/ebisearch/search.ebi" method="GET" class="large-8 large-push-2"><fieldset><div class="input-group"><input name="query" id="global-searchbox" class="input-group-field" placeholder="Search all of EMBL-EBI" type="text"><div class="input-group-button"><input name="submit" value="Search" class="button" type="submit"><input name="db" value="allebi" checked="checked" type="hidden"><input name="requestFrom" value="global-masthead" checked="checked" type="hidden"></div></div></fieldset> </form></div> </li> 
+         <li class="float-right show-for-medium embl-selector"> <button class="button float-right" type="button" data-toggle="embl-dropdown" aria-controls="embl-dropdown" data-is-focus="false" data-yeti-box="embl-dropdown" aria-haspopup="true" aria-expanded="false">Hinxton</button> </li>
+        </ul> 
+       </div> 
+      </nav> 
+     <div><div id="embl-dropdown" class="embl-dropdown dropdown-pane bottom" data-dropdown="bbg51o-dropdown" aria-hidden="true" data-yeti-box="embl-dropdown" data-resize="embl-dropdown" aria-labelledby="wm7g4z-dd-anchor"><p>EMBL-EBI in Hinxton, Cambridge is one of six<br> EMBL locations across europe.<br> <a href="https://www.ebi.ac.uk/about" class="small readmore">More about EMBL-EBI</a></p><h6>Connect to another EMBL location</h6><div class="small-collapse padding-bottom-large clearfix"><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.de/">Heidelberg</a><div class="small">Main laboratory</div></div><div class="columns small-7 padding-bottom-medium"><a href="http://www.embl-barcelona.es/">Barcelona</a><div class="small">Tissue biology and disease modelling</div></div><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.fr/">Grenoble</a><div class="small">Structural biology</div></div><div class="columns small-7 padding-bottom-medium"><a href="http://www.embl-hamburg.de/">Hamburg</a><div class="small">Structural biology</div></div><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.it/">Rome</a><div class="small">Epigenetics and neurobiology</div></div><div class="columns small-7 padding-bottom-medium"><a href="http://embl.org/" class="readmore">More about EMBL</a></div></div></div></div></div> 
+     <!--2nd div of header--> 
+     <div id="local-masthead" class="masthead row"> 
+      <!-- local-title --> 
+      <!-- NB: for additional title style patterns, see http://www.ebi.ac.uk/web/style/patterns --> 
+      <div class="grid_24 alpha" id="local-title"> 
+       <h1>NCBI BLAST+</h1> 
+      </div> 
+      <!-- /local-title --> 
+      <!-- local-nav --> 
+      <nav> 
+       <ul id="local-nav" class="dropdown menu float-left" data-description="navigational" role="menubar" data-dropdown-menu="zb2lcb-dropdown-menu">     
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/Tools/sss/ncbiblast/" title="Input form to submit new jobs" tabindex="0">Protein</a></li>
+        <li class="active" role="menuitem"><a href="https://www.ebi.ac.uk/Tools/sss/ncbiblast/nucleotide.html" title="Input form to submit new jobs">Nucleotide</a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/Tools/sss/ncbiblast/vectors.html" title="Input form to submit new jobs">Vectors</a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-WebServices" title="Programmatic access page for ncbiblast">Web services</a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939" title="Help page for ncbiblast">Help &amp; Documentation</a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Bioinformatics+Tools+FAQ" title="Bioinformatics Tools FAQ">Bioinformatics Tools FAQ</a></li>
+       <li class="extra-items-menu is-dropdown-submenu-parent opens-right" style="display: none;" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Also in this section"><a href="#">Also in this section</a><ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" aria-hidden="true" role="menu"><li class="bug-fix-placeholder is-dropdown-submenu-parent is-submenu-item is-dropdown-submenu-item opens-right" style="display:none !important;" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="A workaround"><a href="#">A workaround</a> <ul class="menu submenu is-dropdown-submenu vertical" data-submenu="" aria-hidden="true" role="menu"> <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="#">for a bug where the dropdown menu fails sometimes unless there are two submenus in the submenu</a></li></ul>  </li></ul></li></ul> 
+       <ul class="dropdown menu float-right" data-description="navigational"> 
+        <li> <a id="feedback" title="Request help/support or give feedback" href="https://www.ebi.ac.uk/support/index.php" class="icon icon-generic" data-icon="\"> Feedback </a> </li> 
+        <li> <a class="icon icon-functional addthis_button" data-icon="r" href="#">Share</a> </li> 
+        <script src="addthis_widget.js" type="text/javascript"></script> 
+       </ul> 
+      </nav> 
+      <!-- /local-nav --> 
+     </div> 
+    </header> 
+   </div> 
+   <!-- div close of id="local-masthead"--> 
+  </div><div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><iframe id="_atssh244" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;" src="https://s7.addthis.com/static/sh.e4e8af4de595fdb10ec1459d.html#rand=0.44643462087917496&amp;iit=1559812584601&amp;tmr=load%3D1559812584254%26core%3D1559812584357%26main%3D1559812584593%26ifr%3D1559812584608&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=bioinformatics%2Ceurope%2Cinstitute&amp;ab=-&amp;dh=www.ebi.ac.uk&amp;dr=&amp;du=https%3A%2F%2Fwww.ebi.ac.uk%2FTools%2Fsss%2Fncbiblast%2Fnucleotide.html&amp;href=https%3A%2F%2Fwww.ebi.ac.uk%2FTools%2Fsss%2Fncbiblast%2Fnucleotide.html&amp;dt=NCBI%20BLAST%20%3C%20Sequence%20Similarity%20Searching%20%3C%20EMBL-EBI&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=&amp;pc=men&amp;pub=ra-511a3b0c6ed95194&amp;ssl=1&amp;sid=5cf8d9e8ff6d69c1&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=&amp;csi=undefined&amp;rev=v8.4.5-wp&amp;ct=1&amp;xld=1&amp;xd=1"></iframe></div><style id="service-icons-0"></style>
+  <!-- div close of data-sticky-container"--> 
+  <!-- div of content--> 
+  <div id="content" role="main" class="row"> 
+   <!-- Suggested layout containers --> 
+   <nav id="breadcrumb"> 
+    <p style="margin-bottom: 8px; margin-top:-6px; margin-left: -2px; padding-bottom: 12px"><a href="https://www.ebi.ac.uk/Tools/">Tools</a> &gt;  <a href="https://www.ebi.ac.uk/Tools/sss">Sequence Similarity Searching</a> &gt; NCBI BLAST</p> 
+   </nav> 
+   <div class="downtime-message row" id="newAnnouncement" style="margin:0px; display: none;"> 
+    <!--<div class="downtime-message row" id="newAnnouncement" style="margin:0px;">--> 
+    <div class="downtime-message-inner callout"> 
+     <h5 class="downtime-title">Service Announcement</h5> 
+     <!--<p class="downtime-message"><span class="downtime-note"></span>--> 
+     <!--We will update NCBI Blast to version 2.7.1+ on the 29<sup>th</sup> May 2018.--> 
+     <!--In the meantime you can try the new version on--> 
+     <!--<a href="https://wwwdev.ebi.ac.uk/Tools/sss/ncbiblast" target="_blank">wwwdev.ebi.ac.uk/Tools/sss/ncbiblast</a>.--> 
+     <!--If you have any concerns,--> 
+     <!--please contact us via  <a href="https://www.ebi.ac.uk/support/BLAST" target="_blank">support</a>.--> 
+     <!--</p>--> 
+     <p class="downtime-message"><span class="downtime-note"></span> We will be carrying out essential maintenance on our service infrastructure on Tuesday 24<sup>th</sup>
+ July between 7am to 5pm (BST). You may experience slow response from 
+some services during this period. Apologies for any inconvenience 
+caused. If you have any concerns, please contact us via <a href="https://www.ebi.ac.uk/support/WebServices" target="_blank">support</a>. </p> 
+    </div> 
+   </div> 
+   <!-- tabs and headers for the result pages --> 
+   <section id="tabsandheaders"> 
+   </section> 
+   <div id="leftandmaincontent"> 
+    <!-- left side content for updating graphical outputs --> 
+     
+    <section id="maincontent" class="omega grid_24">
+     <h2 class=" strapline">Nucleotide Similarity Search</h2>
+     <div id="ebi_mainContent">   
+      <p id="details"> The emphasis of this tool is to find regions of 
+sequence similarity, which will yield functional and evolutionary clues 
+about the structure and function of your novel sequence. </p> 
+<!--      <p> <strong>New megablast feature:</strong> If you want to perform fast searches for very similar sequences try setting the task option to 'megablast'. </p> -->
+      <div id="use">  
+       <form action="../../services/web_ncbiblast/toolform.ebi" enctype="multipart/form-data" id="jd_toolSubmissionForm" method="post"> 
+        <input id="tool" name="tool" value="ncbiblast" type="hidden"> 
+        <input name="context" value="nucleotide" type="hidden"> 
+        <input id="isSAM" value="s" type="hidden"> 
+        <div class="jd_toolParameterBox"> 
+         <fieldset> 
+          <legend>STEP 1 - Select your databases</legend> 
+          <ul class="jd_parameterGroup"> 
+           <li class="jd_parameterCellUp" style="width: 66%;"> <label for="database"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-database" target="_help">NUCLEOTIDE DATABASES</a> </label>
+            <div> 
+             <div class="jd_selectionBox"><div class="jd_selectionInfo"><span id="jd_clearSelection"><span style="font-style:italic; color: red;">X</span> Clear Selection</span><span id="jd_nbSelected">111</span><span id="jd_nbSelectedText"> Databases Selected </span></div><ul class="jd_groupSelect" id="database"> 
+              <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/minus.png&quot;);">ENA Sequence (formerly EMBL-Bank)</span> 
+               <ul class="jd_groupContent" style="display: block;"> 
+                <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel" type="checkbox">ENA Sequence Release</label> </span> 
+                 <ul class="jd_groupContent" style="display: none;"> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_env" type="checkbox">ENA Sequence Environmental</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_env" type="checkbox">ENA Sequence EST Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_env" type="checkbox">ENA Sequence GSS Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_env" type="checkbox">ENA Sequence HTC Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_env" type="checkbox">ENA Sequence HTG Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_env" type="checkbox">ENA Sequence Patent Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_env" type="checkbox">ENA Sequence Standard Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_env" type="checkbox">ENA Sequence STS Environmental</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_env" type="checkbox">ENA Sequence TSA Environmental</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_fun" type="checkbox">ENA Sequence Fungi</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_fun" type="checkbox">ENA Sequence EST Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_fun" type="checkbox">ENA Sequence GSS Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_fun" type="checkbox">ENA Sequence HTC Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_fun" type="checkbox">ENA Sequence HTG Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_fun" type="checkbox">ENA Sequence Patent Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_fun" type="checkbox">ENA Sequence Standard Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_fun" type="checkbox">ENA Sequence STS Fungi</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_fun" type="checkbox">ENA Sequence TSA Fungi</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_hum" type="checkbox">ENA Sequence Human</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_hum" type="checkbox">ENA Sequence EST Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_hum" type="checkbox">ENA Sequence GSS Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_hum" type="checkbox">ENA Sequence HTC Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_hum" type="checkbox">ENA Sequence HTG Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_hum" type="checkbox">ENA Sequence Patent Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_hum" type="checkbox">ENA Sequence Standard Human</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_hum" type="checkbox">ENA Sequence STS Human</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_inv" type="checkbox">ENA Sequence Invertebrate</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_inv" type="checkbox">ENA Sequence EST Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_inv" type="checkbox">ENA Sequence GSS Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_inv" type="checkbox">ENA Sequence HTC Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_inv" type="checkbox">ENA Sequence HTG Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_inv" type="checkbox">ENA Sequence Patent Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_inv" type="checkbox">ENA Sequence Standard Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_inv" type="checkbox">ENA Sequence STS Invertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_inv" type="checkbox">ENA Sequence TSA Invertebrate</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_mam" type="checkbox">ENA Sequence Mammal</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_mam" type="checkbox">ENA Sequence EST Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_mam" type="checkbox">ENA Sequence GSS Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_mam" type="checkbox">ENA Sequence HTC Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_mam" type="checkbox">ENA Sequence HTG Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_mam" type="checkbox">ENA Sequence Patent Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_mam" type="checkbox">ENA Sequence Standard Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_mam" type="checkbox">ENA Sequence STS Mammal</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_mam" type="checkbox">ENA Sequence TSA Mammal</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_mus" type="checkbox">ENA Sequence Mouse</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_mus" type="checkbox">ENA Sequence EST Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_mus" type="checkbox">ENA Sequence GSS Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_mus" type="checkbox">ENA Sequence HTC Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_mus" type="checkbox">ENA Sequence HTG Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_mus" type="checkbox">ENA Sequence Patent Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_mus" type="checkbox">ENA Sequence Standard Mouse</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_mus" type="checkbox">ENA Sequence STS Mouse</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_phg" type="checkbox">ENA Sequence Phage</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_phg" type="checkbox">ENA Sequence GSS Phage</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_phg" type="checkbox">ENA Sequence HTG Phage</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_phg" type="checkbox">ENA Sequence Patent Phage</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_phg" type="checkbox">ENA Sequence Standard Phage</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_pln" type="checkbox">ENA Sequence Plant</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_pln" type="checkbox">ENA Sequence EST Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_pln" type="checkbox">ENA Sequence GSS Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_pln" type="checkbox">ENA Sequence HTC Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_pln" type="checkbox">ENA Sequence HTG Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_pln" type="checkbox">ENA Sequence Patent Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_pln" type="checkbox">ENA Sequence Standard Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_pln" type="checkbox">ENA Sequence STS Plant</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_pln" type="checkbox">ENA Sequence TSA Plant</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_pro" type="checkbox">ENA Sequence Prokaryote</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_pro" type="checkbox">ENA Sequence EST Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_pro" type="checkbox">ENA Sequence GSS Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_pro" type="checkbox">ENA Sequence HTC Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_pro" type="checkbox">ENA Sequence HTG Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_pro" type="checkbox">ENA Sequence Patent Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_pro" type="checkbox">ENA Sequence Standard Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_pro" type="checkbox">ENA Sequence STS Prokaryote</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_pro" type="checkbox">ENA Sequence TSA Prokaryote</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_rod" type="checkbox">ENA Sequence Rodent</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_rod" type="checkbox">ENA Sequence EST Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_rod" type="checkbox">ENA Sequence GSS Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_rod" type="checkbox">ENA Sequence HTC Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_rod" type="checkbox">ENA Sequence HTG Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_rod" type="checkbox">ENA Sequence Patent Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_rod" type="checkbox">ENA Sequence Standard Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_rod" type="checkbox">ENA Sequence STS Rodent</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_rod" type="checkbox">ENA Sequence TSA Rodent</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_syn" type="checkbox">ENA Sequence Synthetic</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_syn" type="checkbox">ENA Sequence Patent Synthetic</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_syn" type="checkbox">ENA Sequence Standard Synthetic</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_tgn" type="checkbox">ENA Sequence Transgenic</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_tgn" type="checkbox">ENA Sequence Standard Transgenic</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_tgn" type="checkbox">ENA Sequence GSS Transgenic</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_unc" type="checkbox">ENA Sequence Unclassified</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_unc" type="checkbox">ENA Sequence EST Unclassified</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_unc" type="checkbox">ENA Sequence Patent Unclassified</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_unc" type="checkbox">ENA Sequence Standard Unclassified</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_vrl" type="checkbox">ENA Sequence Viral</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_vrl" type="checkbox">ENA Sequence EST Viral</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_vrl" type="checkbox">ENA Sequence GSS Viral</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_vrl" type="checkbox">ENA Sequence HTG Viral</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_vrl" type="checkbox">ENA Sequence Patent Viral</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_vrl" type="checkbox">ENA Sequence Standard Viral</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_vrl" type="checkbox">ENA Sequence TSA Viral</label> </li> 
+                   </ul> </li> 
+                  <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);"> <label> <input checked="checked" class="checkbox" name="database" value="em_rel_vrt" type="checkbox">ENA Sequence Vertebrate</label> </span> 
+                   <ul class="jd_groupContent" style="display: none;"> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_est_vrt" type="checkbox">ENA Sequence EST Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_gss_vrt" type="checkbox">ENA Sequence GSS Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htc_vrt" type="checkbox">ENA Sequence HTC Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_htg_vrt" type="checkbox">ENA Sequence HTG Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_pat_vrt" type="checkbox">ENA Sequence Patent Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_std_vrt" type="checkbox">ENA Sequence Standard Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_sts_vrt" type="checkbox">ENA Sequence STS Vertebrate</label> </li> 
+                    <li> <label class="nogroup"> <input checked="checked" class="checkbox" name="database" value="em_rel_tsa_vrt" type="checkbox">ENA Sequence TSA Vertebrate</label> </li> 
+                   </ul> </li> 
+                 </ul> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="emnew" type="checkbox">ENA Sequence Updates</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_cds_rel" type="checkbox">ENA Coding Sequence Release</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_cds_cum" type="checkbox">ENA Coding Sequence Updates</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_ncr_rel" type="checkbox">ENA Non-Coding Sequence Release</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_ncr_cum" type="checkbox">ENA Non-Coding Sequence Updates</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_geo_rel" type="checkbox">ENA Geospatial Release</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_geo_cum" type="checkbox">ENA Geospatial Updates</label> </li> 
+                <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);">Others</span> 
+                 <ul class="jd_groupContent" style="display: none;"> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_est" type="checkbox">ENA Sequence Expressed Sequence Tag</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_gss" type="checkbox">ENA Sequence Genome Survey Sequence</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_htc" type="checkbox">ENA Sequence High Throughput cDNA</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_htg" type="checkbox">ENA Sequence High Throughput Genome</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_pat" type="checkbox">ENA Sequence Patent</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_std" type="checkbox">ENA Sequence Standard</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_sts" type="checkbox">ENA Sequence Sequence Tagged Site</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="em_rel_tsa" type="checkbox">ENA Sequence Transcriptome Shotgun Assembly</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="emall" type="checkbox">ENA Sequence Release and Updates</label> </li> 
+                  <li> <label class="nogroup"> <input class="checkbox" name="database" value="emvec" type="checkbox">ENA Sequence Vectors</label> </li> 
+                 </ul> </li> 
+               </ul> </li> 
+              <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);">IMGT</span> 
+               <ul class="jd_groupContent" style="display: none;"> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="imgtligm" type="checkbox">IMGT/LIGM-DB</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="imgthlacds" type="checkbox">IMGT/HLA (cds)</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="ipdkircds" type="checkbox">IPD-KIR (cds)</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="ipdmhccds" type="checkbox">IPD-MHC (cds)</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="imgthlagen" type="checkbox">IMGT/HLA (genomic)</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="ipdkirgen" type="checkbox">IPD-KIR (genomic)</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="ipdmhcgen" type="checkbox">IPD-MHC (genomic)</label> </li> 
+               </ul> </li> 
+              <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);">Patents</span> 
+               <ul class="jd_groupContent" style="display: none;"> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="nrnl1" type="checkbox">NR Patent DNAs Level-1</label> </li> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="nrnl2" type="checkbox">NR Patent DNAs Level-2</label> </li> 
+               </ul> </li> 
+              <li> <span class="jd_groupTitle" style="cursor: pointer; background-image: url(&quot;../../common/assets/images/plus.png&quot;);">Structure</span> 
+               <ul class="jd_groupContent" style="display: none;"> 
+                <li> <label class="nogroup"> <input class="checkbox" name="database" value="pdbna" type="checkbox">Nucleotide Structure Sequences</label> </li> 
+               </ul> </li> 
+             </ul></div> 
+            </div> </li> 
+          </ul> 
+         </fieldset> 
+        </div> 
+        <div class="jd_toolParameterBox"> 
+         <fieldset> 
+          <legend>STEP 2 - Enter your input sequence</legend> 
+          <p> <label for="sequence"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-sequence" target="_help">Enter or paste</a> </label> a <select id="stype" name="stype" style="width: 7em"> <option value="protein" class="disabled">PROTEIN</option> <option selected="selected" value="dna">DNA/RNA</option> </select> sequence in any supported <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-wsequence" target="_help">format</a>:</p>
+          <textarea cols="47" id="sequence" name="sequence" rows="6"></textarea> 
+          <p> <label for="upfile"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-upload" target="_help">Upload</a> </label> a file: <input id="upfile" name="upfile" type="file"> <label style="float: right; text-align: right;"> Use a <a href="#" id="exampleSeq">example sequence</a> | <a href="#" id="clearSequence">Clear sequence</a> | <a href="#" id="seeMoreExample">See more example inputs</a> </label> </p>
+         </fieldset> 
+        </div> 
+        <div class="jd_toolParameterBox"> 
+         <fieldset> 
+          <legend>STEP 3 - Set your parameters</legend> 
+          <ul class="jd_parameterGroup"> 
+           <li class="jd_parameterCellUp" style="width: 20%;"> <label for="program"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-program" target="_help">PROGRAM</a> </label>
+            <div> 
+             <select id="program" name="program"> <option selected="selected" value="blastn">blastn</option> <option value="tblastx">tblastx</option> <option value="tblastn" class="">tblastn</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCellUp" style="width: 20%; margin-right: 60%;"> <label for="task"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-task" target="_help">TASK</a> </label>
+            <div> 
+             <select id="task" name="task"> <option selected="selected" value="blastn">blastn</option> <option value="megablast">megablast</option> </select> 
+            </div> </li> 
+          </ul> 
+          <ul class="jd_parameterGroup collapsed" style="display: none;"> 
+           <li class="jd_parameterCell" style="width: 19.9%; display: none;"> <label for="matrix"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-matrix" target="_help">MATRIX</a> </label>
+            <div> 
+             <select id="matrix" name="matrix"> <option selected="selected" value="NONE" class="disabled">NONE</option> <option value="BLOSUM45">BLOSUM45</option> <option value="BLOSUM50">BLOSUM50</option> <option value="BLOSUM62">BLOSUM62</option> <option value="BLOSUM80">BLOSUM80</option> <option value="BLOSUM90">BLOSUM90</option> <option value="PAM30">PAM30</option> <option value="PAM70">PAM70</option> <option value="PAM250">PAM250</option> </select>
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 19.9%;"> <label for="match_scores"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-match_scores" target="_help">MATCH/MISMATCH SCORES</a> </label>
+            <div> 
+             <select id="match_scores" name="match_scores"> <option value="1,-4">1,-4</option> <option value="2,-7">2,-7</option> <option selected="selected" value="1,-3">1,-3</option> <option value="2,-5">2,-5</option> <option value="1,-2">1,-2</option> <option value="2,-3">2,-3</option> <option value="1,-1">1,-1</option> <option value="5,-4">5,-4</option> <option value="4,-5">4,-5</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="gapopen"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-gapopen" target="_help">GAP OPEN</a> </label>
+            <div> 
+             <select id="gapopen" name="gapopen"> <option value="-1">-1 (default)</option> <option value="0">0</option> <option value="1">1</option> <option value="2">2</option> <option value="3" class="disabled">3</option> <option value="4" class="disabled">4</option> <option value="5" selected="selected">5</option> <option value="6" class="disabled">6</option> <option value="7" class="disabled">7</option> <option value="8" class="disabled">8</option> <option value="9" class="disabled">9</option> <option value="10" class="disabled">10</option> <option value="11" class="disabled">11</option> <option value="12" class="disabled">12</option> <option value="13" class="disabled">13</option> <option value="14" class="disabled">14</option> <option value="15" class="disabled">15</option> <option value="16" class="disabled">16</option> <option value="17" class="disabled">17</option> <option value="18" class="disabled">18</option> <option value="19" class="disabled">19</option> <option value="20" class="disabled">20</option> <option value="21" class="disabled">21</option> <option value="25" class="disabled">25</option> </select>
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="gapext"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-gapext" target="_help">GAP EXTEND</a> </label>
+            <div> 
+             <select id="gapext" name="gapext"> <option value="-1">-1 (default)</option> <option value="0" class="disabled">0</option> <option value="1" class="disabled">1</option> <option value="2" selected="selected">2</option> <option value="3" class="disabled">3</option> <option value="4" class="disabled">4</option> <option value="5" class="disabled">5</option> <option value="6" class="disabled">6</option> <option value="8" class="disabled">8</option> <option value="10" class="disabled">10</option> </select>
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="exp"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-exp" target="_help">EXP. THR</a> </label>
+            <div> 
+             <select id="exp" name="exp"> <option value="1e-200">1e-200</option> <option value="1e-100">1e-100</option> <option value="1e-50">1e-50</option> <option value="1e-10">1e-10</option> <option value="1e-5">1e-5</option> <option value="1e-4">1e-4</option> <option value="1e-3">1e-3</option> <option value="1e-2">1e-2</option> <option value="1e-1">1e-1</option> <option value="1.0">1.0</option> <option selected="selected" value="10">10 (default)</option> <option value="100">100</option> <option value="1000">1000</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="filter"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-filter" target="_help">FILTER</a> </label>
+            <div> 
+             <select id="filter" name="filter"> <option value="F">no</option> <option selected="selected" value="T">yes</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 19.9%;"> <label for="dropoff"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-dropoff" target="_help">DROPOFF</a> </label>
+            <div> 
+             <select id="dropoff" name="dropoff"> <option selected="selected" value="0">0 (default)</option> <option value="2">2</option> <option value="4">4</option> <option value="6">6</option> <option value="8">8</option> <option value="10">10</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="scores"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-scores" target="_help">SCORES</a> </label>
+            <div> 
+             <select id="scores" name="scores"> <option value="5">5</option> <option value="10">10</option> <option value="20">20</option> <option selected="selected" value="50">50 (default)</option> <option value="100">100</option> <option value="150">150</option> <option value="200">200</option> <option value="250">250</option> <option value="500">500</option> <option value="750">750</option> <option value="1000">1000</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="alignments"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-alignments" target="_help">ALIGNMENTS</a> </label>
+            <div> 
+             <select id="alignments" name="alignments"> <option value="5">5</option> <option value="10">10</option> <option value="20">20</option> <option selected="selected" value="50">50 (default)</option> <option value="100">100</option> <option value="150">150</option> <option value="200">200</option> <option value="250">250</option> <option value="500">500</option> <option value="750">750</option> <option value="1000">1000</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="seqrange"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-seqrange" target="_help">SEQUENCE RANGE</a> </label>
+            <div> 
+             <input class="textfield" name="seqrange" value="START-END" type="text"> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="gapalign"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-gapalign" target="_help">GAPALIGN</a> </label>
+            <div> 
+             <select id="gapalign" name="gapalign"> <option selected="selected" value="true">true</option> <option value="false">false</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 39.9%;"> <label for="align"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-align" target="_help">ALIGNMENT VIEWS</a> </label>
+            <div> 
+             <select id="align" name="align"> <option selected="selected" value="0">pairwise</option> <option value="1">Query-anchored identities</option> <option value="2">Query-anchored non-identities</option> <option value="3">Flat query-anchored identities</option> <option value="4">Flat query-anchored non-identities</option> <option value="5">BLASTXML</option> <option value="6">Tabular</option> <option value="7">Tabular with comment lines</option> <option value="8">Text ASN.1</option> <option value="9">Binary ASN.1</option> <option value="10">Comma-separated values</option> <option value="11">BLAST archive format (ASN.1)</option> <option value="12">Tabular with comment lines with btop</option> </select> 
+            </div> </li> 
+           <li class="jd_parameterCell" style="width: 20%; display: none;"> <label for="compstats"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-compstats" target="_help">COMPOSITION-BASED STATISTICS</a> </label>
+            <div> 
+             <select id="compstats" name="compstats"> <option selected="selected" value="F">F (default)</option> <option value="D">D</option> <option value="1">1</option> <option value="2">2</option> <option value="3">3</option> </select> 
+            </div> </li>
+           <li class="jd_parameterCell" style="width: 20%;"> <label for="wordsize"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-wordsize" target="_help">WORD SIZE</a> </label>
+             <input id="wordsize" name="wordsize" value="11" type="number">
+           </li>
+           <li class="jd_parameterCell" style="width: 39.9%; display: none;"> <label for="transltable"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-transltable" target="_help">TRANSLATION TABLE</a> </label>
+            <div> 
+             <select id="transltable" name="transltable"> <option value="-1" selected="selected">N/A</option> <option value="1" class="disabled">Standard SGC0</option> <option value="2" class="disabled">Vertebrate Mitochondrial</option> <option value="3" class="disabled">Yeast Mitochondrial</option> <option value="4" class="disabled">Mold Mitochondrial Protozoan Mitochondrial Coelenterate</option> <option value="5" class="disabled">Invertebrate Mitochondrial</option> <option value="6" class="disabled">Ciliate Nuclear Dasycladacean Nuclear Hexamita Nuclear</option> <option value="9" class="disabled">Echinoderm Mitochondrial Flatworm Mitochondrial</option> <option value="10" class="disabled">Euplotid Nuclear</option> <option value="11" class="disabled">Bacterial and Plant Plastid</option> <option value="12" class="disabled">Alternative Yeast Nuclear</option> <option value="13" class="disabled">Ascidian Mitochondrial</option> <option value="14" class="disabled">Alternative Flatworm Mitochondrial</option> <option value="15" class="disabled">Blepharisma Macronuclear</option> <option value="16" class="disabled">Chlorophycean Mitochondrial</option> <option value="21" class="disabled">Trematode Mitochondrial</option> <option value="22" class="disabled">Scenedesmus obliquus Mitochondrial</option> <option value="23" class="disabled">Thraustochytrium Mitochondrial</option> </select> 
+            </div> </li> 
+          </ul><p style="float: left; width: 100%;"><span style="width: 100%; float: left; font-style: italic; margin-bottom: 5px;">The default settings will fulfill the needs of most users.</span><a class="jd_button shadow" style="float: left;">More options...</a><span style="float: left; padding: 5px 10px; font-style: italic;">(Click here, if you want to view or change the default settings.)</span></p> 
+         </fieldset> 
+        </div> 
+        <div class="jd_toolParameterBox"> 
+         <fieldset> 
+          <legend>STEP 4 - Submit your job</legend> 
+          <div> 
+           <label> <input class="checkbox" id="notification" name="notification" type="checkbox">Be notified by email</label> 
+           <em>(Tick this box if you want to be notified by email when the results are available)</em> 
+          </div> 
+          <div id="submission" style="display: none;"> 
+           <div class="line"> 
+            <label for="email"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-email" target="_help">EMAIL:</a> </label>
+            <input class="textfield" id="email" name="email" size="15" type="text"> 
+           </div> 
+           <div class="line"> 
+            <label for="title"> <a href="https://www.ebi.ac.uk/seqdb/confluence/pages/viewpage.action?pageId=94147939#NCBIBLAST+HelpandDocumentation-title" target="_help">TITLE:</a> </label>
+            <input class="textfield" id="title" name="title" type="text"> 
+            <em>If available, the title will be included in the subject 
+of the notification email and can be used as a way to identify your 
+analysis</em> 
+           </div> 
+          </div> 
+          <div id="jd_submitButtonPanel"> 
+           <input name="submit" value="Submit" class="button" type="submit"> 
+          </div> 
+         </fieldset> 
+        </div> 
+       </form> 
+       <div class="center"> 
+        <p> If you use this service, please consider citing the following publication: <a href="http://europepmc.org/abstract/MED/30976793"> <strong> The EMBL-EBI search and sequence analysis tools APIs in 2019</strong> </a> </p>
+        <p> Please read the provided Help &amp; Documentation and FAQs 
+before seeking help from our support staff. If you have any feedback or 
+encountered any issues please let us know via <a href="https://www.ebi.ac.uk/support/BLAST">EMBL-EBI Support</a>. If you plan to use these services during a course please <a href="http://www.ebi.ac.uk/support/WebServices">contact us</a>. Read our <a href="https://www.ebi.ac.uk/data-protection/privacy-notice/sequence-analysis-and-data-retrieval-tools-job-dispatcher-and-dbfetch-">Privacy Notice</a> if you are concerned with your privacy and how we handle personal information. </p> 
+       </div> 
+      </div> 
+     </div>
+    </section> 
+   </div> 
+  </div>
+  <!-- div close of content--> 
+  <footer> 
+   <!-- Optional local footer (insert citation / project-specific copyright / etc here --> 
+   <!--
+<div id="local-footer" class="grid_24 clearfix">
+			  <p>How to reference this page: ...</p>
+		</div>
+--> 
+   <!-- End optional local footer --> 
+   <div id="global-footer" class="grid_24"> 
+    <nav id="global-nav-expanded" class="row"><div class="columns small-6 medium-2 ">  <a href="https://www.ebi.ac.uk/" title="EMBL-EBI"><span class="ebi-logo"></span></a>  <ul>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="services"><a class="services-color" href="https://www.ebi.ac.uk/services">Services</a></h5>  <ul>  <li class="first"><a href="https://www.ebi.ac.uk/services">By topic</a></li>  <li><a href="https://www.ebi.ac.uk/services/all">By name (A-Z)</a></li>  <li class="last"><a href="https://www.ebi.ac.uk/support">Help &amp; Support</a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="research"><a class="research-color" href="https://www.ebi.ac.uk/research">Research</a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/research/publications">Publications</a></li>  <li><a href="https://www.ebi.ac.uk/research/groups">Research groups</a></li>  <li class="last"><a href="https://www.ebi.ac.uk/research/postdocs">Postdocs</a> &amp; <a href="https://www.ebi.ac.uk/research/eipp">PhDs</a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="training"><a class="training-color" href="https://www.ebi.ac.uk/training">Training</a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/training/handson">Train at EBI</a></li>  <li><a href="https://www.ebi.ac.uk/training/roadshow">Train outside EBI</a></li>  <li><a href="https://www.ebi.ac.uk/training/online">Train online</a></li>  <li class="last"><a href="https://www.ebi.ac.uk/training/contact-us">Contact organisers</a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="industry"><a class="industry-color" href="https://www.ebi.ac.uk/industry">Industry</a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/industry/private">Members Area</a></li>  <li><a href="https://www.ebi.ac.uk/industry/workshops">Workshops</a></li>  <li><a href="https://www.ebi.ac.uk/industry/sme-forum"><abbr title="Small Medium Enterprise">SME</abbr> Forum</a></li>  <li class="last"><a href="https://www.ebi.ac.uk/industry/contact">Contact Industry programme</a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="about"><a class="ebi-color" href="https://www.ebi.ac.uk/about">About EMBL-EBI</a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/about/contact">Contact us</a>  </li><li><a href="https://www.ebi.ac.uk/about/events">Events</a></li>  <li><a href="https://www.ebi.ac.uk/about/jobs" title="Jobs, postdocs, PhDs...">Jobs</a></li>  <li class="first"><a href="https://www.ebi.ac.uk/about/news">News</a></li>  <li><a href="https://www.ebi.ac.uk/about/people">People &amp; groups</a></li>  </ul>  </div></nav> 
+    <section id="ebi-footer-meta" class="row"><div class="columns"><p class="address">EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK. +44 (0)1223 49 44 44</p> <p class="legal">Copyright © EMBL-EBI 2019 | EMBL-EBI is <a href="http://www.embl.org/">part of the European Molecular Biology Laboratory</a> | <a href="https://www.ebi.ac.uk/about/terms-of-use">Terms of use</a><a class="readmore float-right" href="http://intranet.ebi.ac.uk/">Intranet</a></p></div></section> 
+   </div> 
+  </footer> 
+  <!-- JavaScript at the bottom for fast page loading --> 
+  <script type="text/javascript" src="jquery-1.js"></script> 
+  <script defer="defer" src="cookiebanner.js"></script> 
+  <script defer="defer" src="foot.js"></script> 
+  <script defer="defer" src="script.js"></script> 
+  <!-- The Foundation theme JavaScript --> 
+  <script src="foundation.js"></script> 
+  <script src="foundationExtendEBI.js"></script> 
+  <script type="text/JavaScript">$(document).foundation();</script> 
+  <script type="text/JavaScript">$(document).foundationExtendEBI();</script><style id="dynamic-stuck-height" type="text/css"> div#local-masthead.sticky.is-stuck{ margin-top: -160px !important;} </style> 
+  <link rel="stylesheet" href="jquery-confirm.css">
+  <link href="jdispatcher-common.css" rel="stylesheet" type="text/css"> 
+  <script src="jquery-confirm.js"></script> 
+  <script>
+  if ($.trim( $('#leftsidecontent').text() ) == "")
+	    $('#leftsidecontent').remove();
+  </script> 
+  <script>
+    var isChangedSeq = false;
+	function resetInput() {	
+		$("textarea#sequence").val("");
+		$("textarea#asequence").val("");
+		$("textarea#bsequence").val("");
+		isChangedSeq = false;
+	}
+	
+	$(document).ready(function(){
+      
+		$("#exampleSeq").click(function(e){
+			e.preventDefault();
+			if ("spp" == getRequiredSeqType()) {
+				$("textarea#asequence").val(sequenceProteinA);
+				$("textarea#bsequence").val(sequenceProteinB);
+			} else if ("spd" == getRequiredSeqType()) {
+				$("textarea#asequence").val(sequenceDNAA);
+				$("textarea#bsequence").val(sequenceDNAB);
+			} else if ("ssx" == getRequiredSeqType() ) {
+				$("textarea#asequence").val(ssp);
+				$("textarea#bsequence").val(ssd);
+			} else {
+				$("textarea#sequence").val(eval(getRequiredSeqType()));	
+			}
+			isChangedSeq = false;
+			
+		});
+		
+		$("#seeMoreExample").click(function(e){
+			e.preventDefault();
+			window.open(getSequenceSampleUrl());
+		});
+	
+		$("#exampleSeqTest").change(function(){		
+			$("textarea#sequence").val(eval($("#exampleSeqTest").val()));
+		});
+		
+		$("#clearSequence").click(function(e){
+			e.preventDefault();
+			
+			if (isChangedSeq == false) {
+				resetInput();
+				return;
+			}
+			
+			$.confirm({
+				title: 'Clear Sequence',
+				content: 'The input was changed. \n It is going to be clear. ',
+				buttons: {
+					confirm: function () {
+						//$.alert('Confirmed!');
+						resetInput();
+					},
+					cancel: function () {
+						//$.alert('Canceled!');
+					},
+					somethingElse: {
+						text: 'See more example sequences',
+						btnClass: 'btn-blue',
+						keys: ['enter', 'shift'],
+						action: function(){
+							window.open(getSequenceSampleUrl()); 
+						}
+					}
+				}
+			});
+        });
+
+		
+		$("textarea#sequence").change(function(){
+			isChangedSeq = true;
+		});
+
+		$("textarea#asequence").change(function(){
+			isChangedSeq = true;
+		});
+
+		$("textarea#bsequence").change(function(){
+			isChangedSeq = true;
+		});
+
+	});	
+	
+  </script> 
+  <script src="common.js" type="text/javascript"></script> 
+  <script src="ncbiblast.js" type="text/javascript"></script> 
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started --> 
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->   
+ 
+<!--//ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.1/js/cookiebanner.js automatically inserted--><script type="text/javascript" src="cookiebanner_002.js"></script><!--//ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.1/js/script.js automatically inserted--><script type="text/javascript" src="script_002.js"></script><!--//www.ebi.ac.uk/web_guidelines/js/downtime.js?433281 automatically inserted--><script type="text/javascript" src="downtime.js"></script></body></html>
