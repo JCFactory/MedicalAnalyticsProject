@@ -5,6 +5,9 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \gls {ncbi} query to find all \gls {all} related gene sequences\relax }}{16}{figure.caption.6}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Detailed information about selected gene sequence\relax }}{16}{figure.caption.7}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Information about genome IKZF1, found in Ensembl genome browser 96\relax }}{17}{figure.caption.9}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagram of developed algorithm to create basic topics among given gene sequences\relax }}{16}{figure.caption.4}% 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagram of developed algorithm to create basic topics among given gene sequences\relax }}{19}{figure.caption.10}% 
 \addvspace {10\p@ }

@@ -9,17 +9,20 @@
 \contentsline {paragraph}{\nonumberline \gls {lda} process}{9}{section*.2}% 
 \contentsline {paragraph}{\nonumberline \gls {lda} extensions}{10}{section*.3}% 
 \contentsline {section}{\numberline {4.2}Examples and possible use cases}{10}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Python package 'Gensim'}{11}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}Python library 'Gensim'}{11}{section.4.3}% 
 \contentsline {chapter}{\numberline {5}Acute Lymphoblastic Leukemia}{12}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Types of Leukemia and its causes}{12}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Examples for Genome Analysis: \gls {ngs}}{12}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Data sources: \gls {ncbi} and Ensembl genome browser 96}{14}{section.5.3}% 
-\contentsline {chapter}{\numberline {6}Development of a solution for genetic analysis of \gls {all} genomes by implementing \gls {lda}}{15}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Problems and challenges of genetic analysis}{15}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{15}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Proposed solution}{15}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Results}{15}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{17}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Lessons learned}{17}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Conclusion}{17}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Outlook}{17}{section.7.3}% 
+\contentsline {paragraph}{\nonumberline Therapies against \gls {all}}{13}{section*.4}% 
+\contentsline {section}{\numberline {5.2}Examples for Genome Analysis: \gls {ngs}}{14}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Data sources: \gls {ncbi} and Ensembl genome browser 96}{15}{section.5.3}% 
+\contentsline {paragraph}{\nonumberline \gls {ncbi}}{15}{section*.5}% 
+\contentsline {paragraph}{\nonumberline Ensembl genome browser 96}{17}{section*.8}% 
+\contentsline {chapter}{\numberline {6}Development of a solution for genetic analysis of \gls {all} genomes by implementing \gls {lda}}{18}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Problems and challenges of genetic analysis}{18}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{18}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Proposed solution}{18}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Results}{18}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{20}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Lessons learned}{20}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Conclusion}{20}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Outlook}{20}{section.7.3}% 

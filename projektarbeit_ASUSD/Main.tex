@@ -11,6 +11,8 @@
 
 \gls{lda} provides many advantages, such as that it is suitable for large data and that it performs very well in extracting topics for Indonesian text documents \footnote{\autocite{twinandilla_2018}}.
 
+In the year 2000, more than 209,000 children and adults died of leukemia globally. This number keeps growing year by year \footnote{\autocite{tang}}.
+
 This article is ordered as follows: section 1 \ref{related} will explore ...
 section 2 \ref{lda} presents ... and section 3 \ref{all}. Section 4 \ref{development} focusses on the developed implementation and classification algorithm.
 
@@ -112,15 +114,32 @@ Twinandilla et al.\footnote{\autocite{twinandilla_2018}} developed a 'multi-docu
 
 As described in chapter \ref{related} on page \pageref{related}, Lu et al.\footnote{\autocite{lu_2016}} used \gls{mclda} to estimate latent health status groups. \gls{mclda} constructs latent relations among diagnoses, medications, contextual variables in different status groups. To be more precise, it is a dimensional reduction method that summarizes each record using a probability vector over a latent health status group. The prediction tasks were performed by using a \gls{cgs} based inference model and inferred methods. 
 During the topic modelling process, Lu et al. refer to two associations among the data: diagnosis-medication associations to identify the clinical use of medications and diagnosis-diagnosis associations to create a network structure among the diseases.
- 
-\section{Python package 'Gensim'}\label{gensim}
+
+Lee et al.\footnote{\autocite{lee}} analyzed the direct and indirect interactions between \gls{dna} copy number and gene expression changes. 'DNA copy number aberrations and gene expression changes provide valuable information for studying chromosomal instability and its consequences in cancer.' Three types of cancer have been analyzed: brain, bladder and breast cancer. The results of the analysis lead to a significant association between \gls{dna} copy number and its gene expresion. By monitoring gene expression data, different classes of tumors can be distinguished successfully.
+  
+\section{Python library 'Gensim'}\label{gensim}
+'Gensim' stands for 'generate similar' and is a python library, created by Radim Rehurek and Petr Sojka \footnote{\autocite{gensim}}. Firstly created in  2008, it was a collection of various Python scripts to generate a short list of the most similar articles to a given article. Gensim supports scalable statistical semantics to analyze plain-text documents for semantic structure and to retrieve semantically, similar documents.            
               
 \chapter{Acute Lymphoblastic Leukemia}\label{all}
 \section{Types of Leukemia and its causes}\label{leukemia_types}
-According to Jurca et al. \footnote{\autocite{jurca_2016}}, cancer is the result of damage, especially of mutations to cell's \gls{dna} which leads to a cell losing its normal functionality and gains the ability to indefinitely multiply until normal tissue funtions are impaired. This is also why malitious cancer is distributing so fast. Besides, each patient develops a different set of cancerous mutations in various genes which lead to multiple subtypes of cancer.
+According to Jurca et al.\footnote{\autocite{jurca_2016}}, cancer is the result of damage, especially of mutations to cell's \gls{dna} which leads to a cell losing its normal functionality and gains the ability to indefinitely multiply until normal tissue funtions are impaired. This is also why malitious cancer is distributing so fast. Besides, each patient develops a different set of cancerous mutations in various genes which lead to multiple subtypes of cancer.
 Furthermore, some genes can be up-regulated (which means that they are transcribed and expressed more), down-regulated (which means that they are not expressed) or can be co-expressed (which means that they are expressed at the same time).
 
 As stated by Montano et al.\footnote{\autocite{montano_2018}}, \gls{all} is a malignant disorder originating from hematopoietic B-/T-cell precursors which are characterized by marked heterogenity at molecular and clinical levels. There are many approaches to analyze these precursors, such as analyzing targeting of transcriptional factors (PAX5) which are involved in the pathogenesis of B-ALL. Other therapeutic and clinical approaches are genome editing techniques, i.e. the design of new therapies (\gls{car}s) and the study of genes involved in the evolution of pathogenesis.
+
+Jagadev et al.\footnote{\autocite{jagadev}} define leukemia as blood cancer which begins in the bone marrow where it causes formation of a large number of abnormal cells. According to Jagadev et al. there are four common types of leukemia: \gls{all}, \gls{aml}, \gls{cll}, \gls{cml}. Furthermore, the normal and leukemic lymphocytes differ significantly.
+
+As explained by Tang et al.\footnote{\autocite{tang}}, every subtype of leukemia can have individualized treatments and therapies.
+
+According to Andersson et al., \gls{all} is caused the expansion of immature hematopoietic cells (blasts) in the bone marrow and peripheral blood\footnote{\autocite{andersson}}. Furthermore, \gls{all} counts to the most common childhood malignancies, appearing between 2 to 5 years of age. \gls{all} has two subtypes: \gls{tall} and \gls{bcpall}.
+The new cases of \gls{tall} are 15\% childhood and 25\% adult \gls{all}. Compared to \gls{bcpall}, \gls{tall} is characterized by older ages of onset, male sex predominance, inferior outcome and chromosomal abnormabilities.
+In 1960, the 'Philadelphia chromosome' in \gls{cml} was discovered which groups it to 'genetic disease'.
+The result of the exchange of genetic material between two chromosomes is called chromosomal translocations. These serve as hallmarks of leukemia and are intimately associated with a specific leukemia type and its prognosis. Moreover, the different types of \gls{all} are commonly associated with genetic events, such as \gls{cna}, a sub-microscopic deletions or gains,  amplifications and sequence mutations.
+
+\paragraph{Therapies against \gls{all}}
+The \gls{callcg} first met in 1994 to find out a specific treatment for childhood \gls{all}.
+In 2009, \gls{callcg} describe a therapy using anthracyclines to treat childhood \gls{all}\footnote{\autocite{callcg_2009}}. In fact, some studies suggest that anthracyclines might cause cardiotoxicity. In most cases of the therapeutic approach, anthracyclines significantly reduced the bone marrow relapse when added to the standard therapy. But it did not significantly increase an event-free survival.
+One year after that, \gls{callcg} reviewed the addition of vincristine plus steroid pulses (prednisone and prednisolone pulses) to the treatment of childhood \gls{all} \footnote{\autocite{callcg_2010}}. As a result, the combination of vincristine pulses significantly reduced the overall event rate by around 30\% to 10\% improvement in \gls{efs} by  five years.
 
 \section{Examples for Genome Analysis: \gls{ngs}}\label{genome_analysis}
 \gls{ngs} refers to post-Sanger sequencing methods\footnote{\autocite{zhao_2016}}. Since \gls{ngs} produces large volumes of sequence data it might be very useful implementing topic modelling techniques in order to maintain the flexibility for the level of resolution required for given experiments.  
@@ -176,8 +195,8 @@ Figure \ref{ensembl_result} shows the Ensembl result of the selected gene from \
 % ensembl result
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=1\textwidth]{Image/ensembl_ikfz1.png}
-	\caption{Information about genome IKFZ1, found in Ensembl genome browser 96}
+	\includegraphics[width=1\textwidth]{Image/ensembl_ikzf1.png}
+	\caption{Information about genome IKZF1, found in Ensembl genome browser 96}
 	\label{ensembl_result}
 \end{figure}
 
