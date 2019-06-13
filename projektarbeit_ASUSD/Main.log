@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  6 JUN 2019 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  13 JUN 2019 11:08
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2395,13 +2395,17 @@ LaTeX Font Info:    Try loading font information for OT1+txtt on input line 4.
 File: ot1txtt.fd 2000/12/15 v3.1
 ) (Titelseite.tex
 LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <12> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 11.
+(Font)              scaled to size 11.39996pt on input line 14.
 LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 11.
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 11.
+(Font)              scaled to size 13.67995pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 25.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -2435,17 +2439,17 @@ Non-PDF special ignored!
 
 {C:/Users/jacky/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 33.
+(Font)              scaled to size 23.63593pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 23.63593pt on input line 33.
+(Font)              scaled to size 23.63593pt on input line 47.
  (Main.toc)
 \tf@toc=\write9
 \openout9 = `Main.toc'.
 
 LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 34.
+(Font)              scaled to size 11.39996pt on input line 48.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2492,6 +2496,12 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 ]
 chapter 3.
+
+Overfull \hbox (0.71999pt too wide) in paragraph at lines 21--23
+\OT1/txss/m/n/12 In this sec-tion, some ex-am-ples of us-ing text min-ing tech-
+niques in bi-ol-ogy and medicine
+ []
+
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2578,12 +2588,12 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [15]
-<Image/ncbi_all_result.png, id=516, 882.29625pt x 476.78125pt>
+<Image/ncbi_all_result.png, id=517, 882.29625pt x 476.78125pt>
 File: Image/ncbi_all_result.png Graphic file (type png)
 <use Image/ncbi_all_result.png>
 Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 175.
 (pdftex.def)             Requested size: 426.79141pt x 230.63478pt.
-<Image/ncbi_gene_details.png, id=522, 870.75313pt x 471.7625pt>
+<Image/ncbi_gene_details.png, id=523, 870.75313pt x 471.7625pt>
 File: Image/ncbi_gene_details.png Graphic file (type png)
 <use Image/ncbi_gene_details.png>
 Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 183.
@@ -2593,7 +2603,7 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [16 <./Image/ncbi_all_result.png> <./Image/ncbi_gene_details.png>]
-<Image/ensembl_ikzf1.png, id=539, 882.29625pt x 475.27562pt>
+<Image/ensembl_ikzf1.png, id=540, 882.29625pt x 475.27562pt>
 File: Image/ensembl_ikzf1.png Graphic file (type png)
 <use Image/ensembl_ikzf1.png>
 Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 198.
@@ -2612,15 +2622,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\gls' on input line 203.
 
-<Image/creating_topics_algorithm.png, id=559, 693.59125pt x 1205.50375pt>
+<Image/creating_topics_algorithm.png, id=560, 693.59125pt x 1205.50375pt>
 File: Image/creating_topics_algorithm.png Graphic file (type png)
 <use Image/creating_topics_algorithm.png>
 Package pdftex.def Info: Image/creating_topics_algorithm.png  used on input lin
 e 221.
-(pdftex.def)             Requested size: 426.79141pt x 741.8127pt.
-
-LaTeX Warning: Float too large for page by 61.33907pt on input line 224.
-
+(pdftex.def)             Requested size: 346.49843pt x 602.23535pt.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
@@ -2741,11 +2748,11 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53705 strings out of 492945
- 1026845 string characters out of 3126253
+ 53712 strings out of 492945
+ 1026915 string characters out of 3126253
  1630740 words of memory out of 3000000
- 56624 multiletter control sequences out of 15000+200000
- 580325 words of font info for 130 fonts, out of 3000000 for 9000
+ 56627 multiletter control sequences out of 15000+200000
+ 583580 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,100p,9102b,2877s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:api} has been referenced but does not exist, 
@@ -2906,10 +2913,11 @@ public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (29 pages, 803965 bytes).
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Main.pdf (29 pages, 818376 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
+ 810 PDF objects out of 1000 (max. 8388607)
  182 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

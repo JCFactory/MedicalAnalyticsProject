@@ -18,7 +18,7 @@ section 2 \ref{lda} presents ... and section 3 \ref{all}. Section 4 \ref{develop
 
 \chapter{Related work}\label{related}
 
-In this section, some examples of using text mining techniques in biology or medicine are described.
+In this section, some examples of using text mining techniques in biology and medicine are described.
 Zhao et al.\footnote{\autocite{zhao_2016}} describe how topic modeling can be used to analyze \gls{ngs}. Generally, by implementing topic modelling, text corpus are generated.
 
 In the beginning of every genome analysis, there are several important questions to ask. Jurca et al.\footnote{\autocite{jurca_2016}} recommend to ask the following questions: What are the top studied genes in breast cancer? What are the regulations and limitations of blood cancer research in every country? Which countries have studied the largest number of breast cancer? Which are the popular genes mentioned together by countries every year? Where do key genes lie in the soft clusters?
@@ -125,7 +125,7 @@ Lee et al.\footnote{\autocite{lee}} analyzed the direct and indirect interaction
 According to Jurca et al.\footnote{\autocite{jurca_2016}}, cancer is the result of damage, especially of mutations to cell's \gls{dna} which leads to a cell losing its normal functionality and gains the ability to indefinitely multiply until normal tissue funtions are impaired. This is also why malitious cancer is distributing so fast. Besides, each patient develops a different set of cancerous mutations in various genes which lead to multiple subtypes of cancer.
 Furthermore, some genes can be up-regulated (which means that they are transcribed and expressed more), down-regulated (which means that they are not expressed) or can be co-expressed (which means that they are expressed at the same time).
 
-As stated by Montano et al.\footnote{\autocite{montano_2018}}, \gls{all} is a malignant disorder originating from hematopoietic B-/T-cell precursors which are characterized by marked heterogenity at molecular and clinical levels. There are many approaches to analyze these precursors, such as analyzing targeting of transcriptional factors (PAX5) which are involved in the pathogenesis of B-ALL. Other therapeutic and clinical approaches are genome editing techniques, i.e. the design of new therapies (\gls{car}s) and the study of genes involved in the evolution of pathogenesis.
+As stated by Monta\~{n}o et al.\footnote{\autocite{montano_2018}}, \gls{all} is a malignant disorder originating from hematopoietic B-/T-cell precursors which are characterized by marked heterogenity at molecular and clinical levels. There are many approaches to analyze these precursors, such as analyzing targeting of transcriptional factors (PAX5) which are involved in the pathogenesis of B-ALL. Other therapeutic and clinical approaches are genome editing techniques, i.e. the design of new therapies (\gls{car}s) and the study of genes involved in the evolution of pathogenesis.
 
 Jagadev et al.\footnote{\autocite{jagadev}} define leukemia as blood cancer which begins in the bone marrow where it causes formation of a large number of abnormal cells. According to Jagadev et al. there are four common types of leukemia: \gls{all}, \gls{aml}, \gls{cll}, \gls{cml}. Furthermore, the normal and leukemic lymphocytes differ significantly.
 
@@ -153,9 +153,9 @@ To find out whether a genome mutation is pathogenic, Gasperskaja et al. explain 
 Methods to measure \gls{rna} expression are the following: \gls{sage} or \gls{qpcr}.
 By using \gls{cdna} microarray assays important genome-wide information about changes of gene expression in various cell lines can be found out.
 
-As claimed by Montano et al.\footnote{\autocite{montano_2018}}, the development of \gls{ngs} techniques implicates vast amount of data which need to be translated. One important question is to find out how the genotype (the genetic expression of a biological attribute) influences the phenotype. By integrating genome editing systems into their research process, investigators are able to manipulate virtually any gene in a diverse range of cell types and organisms.
-To give an example, Gasperskaja et al. and Montano et al. describe \gls{crispr-cas9}. In fact, this genome analysis includes generating a direct cut in the double strand of \gls{dna} by Cas9 nuclease. Cas9 is driven by a single 20-nucleotide \gls{rna} strand which marks the direct breakpoint. After cutting the \gls{dna}, the repair machinery of the host cell repairs errors and promotes a modification of the original sequence by a mutation (e.g. insertion, deletion, inversion).
-But why should be changed the shape of \gls{dna}? In the opinion of Montano et al.\footnote{\autocite{montano_2018}}, the use of genetically modified cell lines and animal models help us to better understand the functions of genes and their pathogenesis in diseases, such as cancer.
+As claimed by Monta\~{n}o et al.\footnote{\autocite{montano_2018}}, the development of \gls{ngs} techniques implicates vast amount of data which need to be translated. One important question is to find out how the genotype (the genetic expression of a biological attribute) influences the phenotype. By integrating genome editing systems into their research process, investigators are able to manipulate virtually any gene in a diverse range of cell types and organisms.
+To give an example, Gasperskaja et al. and Monta\~{n}o et al. describe \gls{crispr-cas9}. In fact, this genome analysis includes generating a direct cut in the double strand of \gls{dna} by Cas9 nuclease. Cas9 is driven by a single 20-nucleotide \gls{rna} strand which marks the direct breakpoint. After cutting the \gls{dna}, the repair machinery of the host cell repairs errors and promotes a modification of the original sequence by a mutation (e.g. insertion, deletion, inversion).
+But why should be changed the shape of \gls{dna}? In the opinion of Monta\~{n}o et al.\footnote{\autocite{montano_2018}}, the use of genetically modified cell lines and animal models help us to better understand the functions of genes and their pathogenesis in diseases, such as cancer.
    
 \section{Data sources: \gls{ncbi} and Ensembl genome browser 96}\label{datasources}
 
@@ -218,7 +218,7 @@ The first idea was to build a parsing application, which iterates over the found
 % algorithm to create topics
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=1\textwidth]{Image/creating_topics_algorithm.png}
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/creating_topics_algorithm.png}
 	\caption{Diagram of developed algorithm to create basic topics among given gene sequences}
 	\label{algorithm_figure}
 \end{figure}
