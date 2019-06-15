@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  13 JUN 2019 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  15 JUN 2019 19:18
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2150,6 +2150,12 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (Main.aux
 
+LaTeX Warning: Label `algorithm_figure' multiply defined.
+
+
+LaTeX Warning: Label `algorithm_figure' multiply defined.
+
+
 LaTeX Warning: Label `' multiply defined.
 
 
@@ -2402,10 +2408,6 @@ LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/txss/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 14.
-LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 25.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -2439,17 +2441,17 @@ Non-PDF special ignored!
 
 {C:/Users/jacky/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 47.
+(Font)              scaled to size 23.63593pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 47.
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 23.63593pt on input line 47.
+(Font)              scaled to size 23.63593pt on input line 37.
  (Main.toc)
 \tf@toc=\write9
 \openout9 = `Main.toc'.
 
 LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 48.
+(Font)              scaled to size 11.39996pt on input line 38.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2588,12 +2590,12 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [15]
-<Image/ncbi_all_result.png, id=517, 882.29625pt x 476.78125pt>
+<Image/ncbi_all_result.png, id=521, 882.29625pt x 476.78125pt>
 File: Image/ncbi_all_result.png Graphic file (type png)
 <use Image/ncbi_all_result.png>
 Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 175.
 (pdftex.def)             Requested size: 426.79141pt x 230.63478pt.
-<Image/ncbi_gene_details.png, id=523, 870.75313pt x 471.7625pt>
+<Image/ncbi_gene_details.png, id=527, 870.75313pt x 471.7625pt>
 File: Image/ncbi_gene_details.png Graphic file (type png)
 <use Image/ncbi_gene_details.png>
 Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 183.
@@ -2603,7 +2605,7 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [16 <./Image/ncbi_all_result.png> <./Image/ncbi_gene_details.png>]
-<Image/ensembl_ikzf1.png, id=540, 882.29625pt x 475.27562pt>
+<Image/ensembl_ikzf1.png, id=544, 882.29625pt x 475.27562pt>
 File: Image/ensembl_ikzf1.png Graphic file (type png)
 <use Image/ensembl_ikzf1.png>
 Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 198.
@@ -2622,12 +2624,23 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\gls' on input line 203.
 
-<Image/creating_topics_algorithm.png, id=560, 693.59125pt x 1205.50375pt>
+<Image/creating_topics_algorithm.png, id=564, 693.59125pt x 1205.50375pt>
 File: Image/creating_topics_algorithm.png Graphic file (type png)
 <use Image/creating_topics_algorithm.png>
 Package pdftex.def Info: Image/creating_topics_algorithm.png  used on input lin
-e 221.
+e 220.
 (pdftex.def)             Requested size: 346.49843pt x 602.23535pt.
+<Image/LDA_preprocess.png, id=565, 378.41376pt x 945.5325pt>
+File: Image/LDA_preprocess.png Graphic file (type png)
+<use Image/LDA_preprocess.png>
+Package pdftex.def Info: Image/LDA_preprocess.png  used on input line 230.
+(pdftex.def)             Requested size: 241.03493pt x 602.26764pt.
+<Image/LDA_central_process.png, id=566, 327.2225pt x 1024.82875pt>
+File: Image/LDA_central_process.png Graphic file (type png)
+<use Image/LDA_central_process.png>
+Package pdftex.def Info: Image/LDA_central_process.png  used on input line 238.
+
+(pdftex.def)             Requested size: 192.29567pt x 602.25117pt.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
@@ -2639,12 +2652,20 @@ Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
 [19 <./Image/creating_topics_algorithm.png>]
+Overfull \vbox (21.74998pt too high) has occurred while \output is active []
+
+
+[20 <./Image/LDA_preprocess.png>]
+Overfull \vbox (21.74998pt too high) has occurred while \output is active []
+
+
+[21 <./Image/LDA_central_process.png>]
 chapter 7.
 (Verzeichnis.tex
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[20
+[22
 
 ]
 LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <12> not available
@@ -2657,7 +2678,7 @@ LaTeX Font Info:    Font shape `OT1/txss/m/sc' will be
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[21
+[23
 
 ]
 Underfull \hbox (badness 1881) in paragraph at lines 5--5
@@ -2669,7 +2690,7 @@ iencedirect . com / science / article / pii /
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[22]
+[24]
 Underfull \hbox (badness 7030) in paragraph at lines 5--5
 [][]\OT1/txss/m/sl/12 NCBI BLAST < Se-quence Sim-i-lar-ity Search-ing < EMBL-EB
 I \OT1/txss/m/n/12 (2019). \OT1/txss/m/sc/12 url\OT1/txss/m/n/12 :
@@ -2679,11 +2700,11 @@ I \OT1/txss/m/n/12 (2019). \OT1/txss/m/sc/12 url\OT1/txss/m/n/12 :
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[23]
+[25]
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[24]) (Abkuerzung.tex
+[26]) (Abkuerzung.tex
 \@gls@deffile=\write12
 \openout12 = `Main.glsdefs'.
 
@@ -2691,26 +2712,26 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[25
+[27
 
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has b
 een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.241 \newpage
+l.258 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.241 \newpage
+l.258 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.241 \newpage
+l.258 \newpage
               ] (Anhang.tex
 Overfull \hbox (34.02832pt too wide) in paragraph at lines 6--7
 \OT1/txss/m/n/12 dass die Ar-beit in gle-icher oder []ahn-licher Form noch kein
@@ -2731,12 +2752,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[26]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
+[28]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2748,11 +2769,11 @@ Package logreq Info: Writing requests to 'Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53712 strings out of 492945
- 1026915 string characters out of 3126253
+ 53721 strings out of 492945
+ 1027195 string characters out of 3126253
  1630740 words of memory out of 3000000
- 56627 multiletter control sequences out of 15000+200000
- 583580 words of font info for 135 fonts, out of 3000000 for 9000
+ 56632 multiletter control sequences out of 15000+200000
+ 581641 words of font info for 132 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,100p,9102b,2877s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:api} has been referenced but does not exist, 
@@ -2915,9 +2936,9 @@ public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
 KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (29 pages, 818376 bytes).
+Output written on Main.pdf (31 pages, 866929 bytes).
 PDF statistics:
- 810 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 831 PDF objects out of 1000 (max. 8388607)
+ 186 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 

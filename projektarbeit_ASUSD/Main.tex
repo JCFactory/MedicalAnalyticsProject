@@ -213,13 +213,30 @@ To get useful data, the \gls{ncbi} \footnote{cf.\autocite{ncbi}} was used to get
 
 The first idea was to build a parsing application, which iterates over the found 582 genomes. After the iteration, it compares the oncogenes with the healthy genomes and to figure out where the differences are. The results might be displayed in a diagram. It might be possible to create clusters from the differences between the two groups or practice \gls{lda} on the differences.
 
+
+% first draft
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/creating_topics_algorithm.png}
+	\caption{Diagram of first draft of developed algorithm}
+	\label{algorithm_figure}
+\end{figure}
+
 \section{Proposed solution}\label{proposed_solution}
 
 % algorithm to create topics
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/creating_topics_algorithm.png}
-	\caption{Diagram of developed algorithm to create basic topics among given gene sequences}
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/LDA_preprocess.png}
+	\caption{Diagram of developed algorithm to create basic topics among given genomes}
+	\label{algorithm_figure}
+\end{figure}
+
+% lda central process
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/LDA_central_process.png}
+	\caption{Diagram of LDA process}
 	\label{algorithm_figure}
 \end{figure}
 
