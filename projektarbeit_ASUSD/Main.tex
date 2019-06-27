@@ -202,7 +202,10 @@ Figure \ref{ensembl_result} shows the Ensembl result of the selected gene from \
 
 \chapter{Development of a solution for genetic analysis of \gls{all} genomes by implementing \gls{lda}}\label{development}
 \section{Problems and challenges of genetic analysis}\label{problems_challenges}
-Quality of data 
+
+During the process of data retrieval, there came up the problem of different forms of data and data types. 
+Another problem were the 'standard' stopword list from NLTK or spacy which did not include specific words, such as 'DNA-binding protein'. So, they had to be added by using a custom stopword list.
+
 Is the data complete, which includes that it contains all required genomes which can cause \gls{all}.
 
 our assumptions can lead to false content or solutions 
