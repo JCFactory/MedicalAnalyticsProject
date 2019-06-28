@@ -203,8 +203,15 @@ Figure \ref{ensembl_result} shows the Ensembl result of the selected gene from \
 \chapter{Development of a solution for genetic analysis of \gls{all} genomes by implementing \gls{lda}}\label{development}
 \section{Problems and challenges of genetic analysis}\label{problems_challenges}
 
+First of all, importing all the needed data from NCBI was very easy. The NCBI website supports SQL-similar syntaxes so that the query could be as easy as follows: 'acute lymphoblastic leukemia 'AND' HOMO SAPIENS' (to only get the human genomes). By the way, the user of NCBI can choose between many different types of animal genomes.
+
+After importing the data by using pandas, a dataframe object was created and all the relevant data (columns) were filtered. To be more precise, the columns 'symbol' and 'other_designations' were very interesting since they gave insights about the 'core characteristics' of each genome. By connecting each symbol to its designation, a key-value map was created automatically.
+
+
 During the process of data retrieval, there came up the problem of different forms of data and data types. 
 Another problem were the 'standard' stopword list from NLTK or spacy which did not include specific words, such as 'DNA-binding protein'. So, they had to be added by using a custom stopword list.
+
+Furthermore, the most important words that should be clustered or put into topics, where compound expressions, such as 'enhancer binding protein'. One idea was to create bigrams or trigrams within the dictionary and to get all the appearances of these special expressions.
 
 Is the data complete, which includes that it contains all required genomes which can cause \gls{all}.
 
