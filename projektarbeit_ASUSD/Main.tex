@@ -221,8 +221,11 @@ our assumptions can lead to false content or solutions
 
 To get useful data, the \gls{ncbi} \footnote{cf.\autocite{ncbi}} was used to get all currently detected mutations of genomes which may cause \gls{lda}.
 
-The first idea was to build a parsing application, which iterates over the found 582 genomes. After the iteration, it compares the oncogenes with the healthy genomes and to figure out where the differences are. The results might be displayed in a diagram. It might be possible to create clusters from the differences between the two groups or practice \gls{lda} on the differences.
+The first idea was to build a parsing application, which iterates over the found 582 genomes.
+During the iteration, four topics are built. The topics included 'the most common nucleotide in the sequence', 'the nucleotide followed by its complementary nucleotide', 'the nucleotide followed by other nucleotides (excepts its complementary)' and 'the double distribution of the same nucleotide'.
+After the iteration, it compares the oncogenes with the healthy genomes and to figure out where the differences are. The results might be displayed in a diagram. It might be possible to create clusters from the differences between the two groups or practice \gls{lda} on the differences.
 
+After research, this approach was very naive and supervised because it does not give relevant information about the genomes' mutations. Especially, in order to compare one healthy with its mutated genome, the four pre-defined topics were too 
 
 % first draft
 \begin{figure}[htbp]
