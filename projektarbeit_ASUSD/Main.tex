@@ -5,7 +5,13 @@
 \input{Titelseite}
 
 \chapter{Abstract}\label{abstract}
-\ref{abstract}
+
+There exist many types of cancer. Every type of cancer is so individual and is treated particularly in practice. Experimental studies showed that cancer is the consequence of the incorrect mutation of genomes which makes it even harder to find out the appropriate solution and therapy for the patient (since every patient has its own individual set of genomes). Generally, our human genomes are nearly similar, except from small variations (due to ethnics, demography etc.). Besides, to find out which mutations can lead to a certain kind of cancer, data analytic algorithms can be a chance to find out or to 'predict' the appearing mutations.
+
+On the other side, from a computer scientist's view, there exist many algorithms to analyze data. In this paper, the focus is on \gls{lda}, an unsupervised (autonomous) topic modelling technique. Given a certain dataset (including genomes which can cause \gls{all}), topics and similarities between the genome data are figured out. The results are discussed in section \ref{results}.
+
+The aim of this paper is to find out whether \gls{lda} is the appropriate solution to analyze genome data and to find out similarities between the genes. These similarities are expected as a solution approach to find a pattern among the disease-related genomes and to be able to predict these mutations. Furthermore, if some patient shows these genomes (or mutations of them), the geneticist or molecular biologist can inject the required sequence to the patient so that the cancer will not break out.
+
 
 \chapter{Introduction}\label{introduction}
 
@@ -278,7 +284,7 @@ Another point is the algorithm of \gls{lda}. Since it is an unsupervised algorit
 
 \section{Outlook}\label{outlook}
 
-As described in \ref{lessons_learned}, the problem of the unsupervised clustering algorithm and the genome-sepcific data came up. As a counterproposal for future analysis, a supervised technique like K-Means-Clustering could be used. 
+As described in \ref{lessons_learned}, the problem of the unsupervised clustering algorithm and the genome-sepcific data came up. As a proposal for future analysis, a supervised technique like K-Means-Clustering could be used to identify similar genomes and to build topics. 
 
 \input{Verzeichnis}
 \input{Abkuerzung}
