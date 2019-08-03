@@ -1528,3 +1528,33 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{blast}{}%
+{%
+\gls@defglossaryentry{blast}%
+{%
+name={BLAST},%
+sort={BLAST},%
+type={acronym},%
+first={Basic Local Alignment Search Tool\glsspace (BLAST)},%
+firstplural={Basic Local Alignment Search Tool\acrpluralsuffix \glsspace (BLAST\acrpluralsuffix )},%
+text={BLAST},%
+plural={BLAST\acrpluralsuffix },%
+description={Basic Local Alignment Search Tool},%
+descriptionplural={Basic Local Alignment Search Tool\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Basic Local Alignment Search Tool},%
+longplural={Basic Local Alignment Search Tools},%
+short={BLAST},%
+shortplural={BLASTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

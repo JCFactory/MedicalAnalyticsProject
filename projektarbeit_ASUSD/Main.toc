@@ -19,10 +19,10 @@
 \contentsline {paragraph}{\nonumberline Ensembl genome browser 96}{17}{section*.8}% 
 \contentsline {chapter}{\numberline {6}Development of a solution for genetic analysis of \gls {all} genomes by implementing \gls {lda}}{18}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Problems and challenges of genetic analysis}{18}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{18}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}Proposed solution}{18}{section.6.3}% 
-\contentsline {section}{\numberline {6.4}Results}{18}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{22}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Lessons learned}{22}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Conclusion}{22}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Outlook}{22}{section.7.3}% 
+\contentsline {section}{\numberline {6.2}First steps: Draft of developed solution}{19}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Proposed solution}{21}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Results}{21}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Conclusion and Outlook}{26}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Lessons learned}{26}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Conclusion}{26}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Outlook}{26}{section.7.3}% 

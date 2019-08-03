@@ -19,8 +19,7 @@ The aim of this paper is to find out whether \gls{lda} is the appropriate soluti
 
 In the year 2000, more than 209,000 children and adults died of leukemia globally. This number keeps growing year by year \footnote{cf.\autocite{tang}}.
 
-This article is ordered as follows: section 1 \ref{related} will explore ...
-section 2 \ref{lda} presents ... and section 3 \ref{all}. Section 4 \ref{development} focusses on the developed implementation and classification algorithm.
+This paper is ordered as follows: The first section \ref{related} will explore the similar scientific articles and papers related to genome analysis, cancer and natural language processing techniques. After that, section \ref{all} gives a short description of the disease \gls{all} and refers to genome libraries. Consequently, section \ref{development} focusses on the developed implementation and topic modelling algorithm. Finally, section \ref{conclusion_outlook} summarizes the research and implemented methods of this paper and gives an outlook for future analysis.
 
 
 \chapter{Related work}\label{related}
@@ -212,8 +211,7 @@ Figure \ref{ensembl_result} shows the Ensembl result of the selected gene from \
 
 First of all, importing all the needed data from NCBI was very easy. The NCBI website supports SQL-similar syntaxes so that the query could be as easy as follows: 'acute lymphoblastic leukemia 'AND' HOMO SAPIENS' (to only get the human genomes). By the way, the user of NCBI can choose between many different types of animal genomes.
 
-After importing the data by using pandas, a dataframe object was created and all the relevant data (columns) were filtered. To be more precise, the columns 'symbol' and 'other_designations' were very interesting since they gave insights about the 'core characteristics' of each genome. By connecting each symbol to its designation, a key-value map was created automatically.
-
+After importing the data by using pandas, a dataframe object was created and all the relevant data (columns) were filtered. To be more precise, the columns 'symbol' and 'other_designations' were very interesting since they gave insights about the 'core characteristics' of each genome. By connecting each genome name to its description, a key-value map was created automatically.
 During the process of data retrieval, there came up the problem of different forms of data and data types. 
 Another problem were the 'standard' stopword list from NLTK or spacy which did not include specific words, such as 'DNA-binding protein'. So, they had to be added by using a custom stopword list.
 
@@ -268,12 +266,14 @@ Figure \ref{LDA_preprocess_figure} shows the implemented solution. First of all,
 % pyldavis diagram
 \begin{figure}[htbp]
 	\centering
-	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/pyldavis_diagram.png}
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/pyldavis_digram.png}
 	\caption{Diagram (created with PyLDAvis) which shows the distribution of the topics}
 	\label{pyldavis_diagram}
 \end{figure}
 
-After the 'Preprocessing'
+After the 'Preprocessing' step, the second process includes several \gls{nlp} techniques, such as lemmatization, defining stopwords and removing them (see figure \ref{LDA_central_process_figure}). Since the dataset differentiates from natural language, there had to be added genome-specific stopwords (see step four). With the rest of the data, a dictionary was created. This is relevant for the next step: define the number of topics and call the LdaModel() method from the gensim library. 
+There are several parameters, such as the number of topics (which should be adjusted to the size of the dataset) or the number of passes (which means how often the dataset is being parsed) which can be configured.
+The result of this operation includes the most common words per topic multiplicated with their distribution factor (dirichlet factor, see figure \ref{lda_gensim_result}). 
 
 % lda central process
 \begin{figure}[htbp]
@@ -283,7 +283,19 @@ After the 'Preprocessing'
 	\label{LDA_central_process_figure}
 \end{figure}
 
+% lda gensim result
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/lda_gensim_result.png}
+	\caption{Call of method LdaModel() from library Gensim and its output}
+	\label{lda_gensim_result}
+\end{figure}
+
 \section{Results}\label{results}
+
+Other than expected, the results of the genome analysis by implenting \gls{lda} topic modelling, gave no meaningful information about the similarities between the given genomes. The topics were not very precise and the words per topic were very distinctive (nouns were mixed with verbs and numbers). Moreover, as stated in section \ref{problems_challenges}, the genomes were described more or less detailed which led to a heterogeneous dataset. 
+This leads to the problem, that the analyzed and processed data cannot be interpreted neither in a biological nor in a data-scientific way. 
+If the results were more precise, it could have been possible to state that for example the majority of the genomes (which are words of the largest topic) are 'suppressor' genomes which inhibit the functionality of enzymes. 			
 
 
 \chapter{Conclusion and Outlook}\label{conclusion_outlook}
@@ -296,10 +308,17 @@ Another point is the algorithm of \gls{lda}. Since it is an unsupervised algorit
 
 \section{Conclusion}\label{conclusion}
 
+As a conclusion,\gls{lda} gives the possibility to analyse the natural language by creating topics among a given dataset. Moreover, it creates a probability distribution of all words per topic. The found topics can be summarized in a document and can also be stated as a distribution of topics per document. 
+In this paper, there was only 'one' document, a dataset of genomes, which should be clustered automatically into topics. During the development and implementation of the \gls{lda} algorithm, there came up many problems and challenges (see section \ref{problems_challenges}), such as to extend the stopword list.
+The results of the \gls{lda} process were very unprecise and difficult to interpret. This might be caused by the algorithm itself. Research revealed that its more appropriate to natural language analysis than to genome specific data. Furthermore, another assumption is that the \gls{lda} process is too costly for a general analysis of genome data. 
 
 \section{Outlook}\label{outlook}
 
 As described in \ref{lessons_learned}, the problem of the unsupervised clustering algorithm and the genome-sepcific data came up. As a proposal for future analysis, a supervised technique like K-Means-Clustering could be used to identify similar genomes and to build topics. 
+
+Another solution can be to prepare a neural network which is fed with genome test data and trained for some iterations. After that, the \gls{lda} process is executed on test data and creates more precise topics.  
+
+After that, to propose an easier analysis method, the similarity between the genomes could be calculated using certain 'distance metrics', such as 'sklearn.neighbors.DistanceMetric'. In order to use this method, the words have to be converted into vectors, using the NLTK method 'word2vec()'. Running sklearn should create useful results which can be interpreted better than the results of \gls{lda}.
 
 \input{Verzeichnis}
 \input{Abkuerzung}
@@ -307,7 +326,6 @@ As described in \ref{lessons_learned}, the problem of the unsupervised clusterin
 
 \input{Anhang}
 \bibdata{Lit}
-\includepdf[pages=-, scale=.90, offset=15mm 5mm]{Beispiel.pdf}
 
 
 
