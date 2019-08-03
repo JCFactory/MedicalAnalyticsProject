@@ -207,7 +207,6 @@ First of all, importing all the needed data from NCBI was very easy. The NCBI we
 
 After importing the data by using pandas, a dataframe object was created and all the relevant data (columns) were filtered. To be more precise, the columns 'symbol' and 'other_designations' were very interesting since they gave insights about the 'core characteristics' of each genome. By connecting each symbol to its designation, a key-value map was created automatically.
 
-
 During the process of data retrieval, there came up the problem of different forms of data and data types. 
 Another problem were the 'standard' stopword list from NLTK or spacy which did not include specific words, such as 'DNA-binding protein'. So, they had to be added by using a custom stopword list.
 
@@ -215,7 +214,15 @@ Furthermore, the most important words that should be clustered or put into topic
 
 Is the data complete, which includes that it contains all required genomes which can cause \gls{all}.
 
-our assumptions can lead to false content or solutions 
+Another problem that came up with the time was the quality of the data. During the analyzation process, the data was extracted from the whole dataset. As can be seen in figure \ref{gene_description_figure}, every genome was described differently. Some are described by a combination of numbers and letters (e.g. 'tetraspanin-7', others a described by their functionality (e.g. 'DNA-binding protein Ikaros'). These differences made the analysis and data preparation very challenging, since every description should be compared to the others.
+
+% first draft
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=1\textwidth, height=600px, keepaspectratio]{Image/gene_description.png}
+	\caption{Extracted data (including genome's name and description), the green rectangle includes the descriptions}
+	\label{gene_description_figure}
+\end{figure}
 
 \section{First steps: Draft of developed solution}\label{draft}
 
@@ -262,9 +269,16 @@ After research, this approach was very naive and supervised because it does not 
 There are many genome analysis tools in the internet. \gls{nih} provides several interfaces for genome alignment methods to find out the similarity between two given genome.\footnote{cf.\autocite{blast}}.
 But in the given case, all given gene sequences should be compared with each other in order to find appropriate clusters.
 
+Another point is the algorithm of \gls{lda}. Since it is an unsupervised algorithm and is more convenient for natural language than for genome-specific data, it is difficult to build topics and measure their similarities.
+
+
 
 \section{Conclusion}\label{conclusion}
-\section{Outlook}\label{outlook}	
+
+
+\section{Outlook}\label{outlook}
+
+As described in \ref{lessons_learned}, the problem of the unsupervised clustering algorithm and the genome-sepcific data came up. As a counterproposal for future analysis, a supervised technique like K-Means-Clustering could be used. 
 
 \input{Verzeichnis}
 \input{Abkuerzung}
@@ -272,6 +286,7 @@ But in the given case, all given gene sequences should be compared with each oth
 
 \input{Anhang}
 \bibdata{Lit}
+\includepdf[pages=-, scale=.90, offset=15mm 5mm]{Beispiel.pdf}
 
 
 
