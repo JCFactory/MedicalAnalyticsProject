@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  3 AUG 2019 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  3 AUG 2019 12:36
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -2485,6 +2485,17 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 (Font)              scaled to size 4.74998pt on input line 18.
 
+LaTeX Warning: Citation 'twinandilla_2018' on page 2 undefined on input line 18
+.
+
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <10> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 18.
+
+LaTeX Warning: Citation 'tang' on page 2 undefined on input line 20.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
@@ -2493,10 +2504,22 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 ]
 chapter 3.
 
-Overfull \hbox (0.71999pt too wide) in paragraph at lines 28--30
+LaTeX Warning: Citation 'zhao_2016' on page 3 undefined on input line 28.
+
+
+Overfull \hbox (0.71999pt too wide) in paragraph at lines 27--29
 \OT1/txss/m/n/12 In this sec-tion, some ex-am-ples of us-ing text min-ing tech-
 niques in bi-ol-ogy and medicine
  []
+
+
+LaTeX Warning: Citation 'jurca_2016' on page 3 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'xu_2013' on page 3 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'djatna_2018' on page 3 undefined on input line 36.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
@@ -2505,15 +2528,30 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 [3
 
 ]
-LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10> not available
-(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 44.
+
+LaTeX Warning: Citation 'lloret_2012' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'lloret_2012' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'yang_2018' on page 4 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'yang_2018' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'nltk' on page 4 undefined on input line 43.
+
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [4]
+
+LaTeX Warning: Citation 'lu_2016' on page 5 undefined on input line 46.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
@@ -2521,12 +2559,21 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 chapter 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 49.
+(hyperref)                removing `\gls' on input line 48.
 
 LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 50.
+(Font)              scaled to size 16.41594pt on input line 49.
+
+LaTeX Warning: Citation 'zhao_2016' on page 6 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'park_2009' on page 6 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'jurca_2016' on page 6 undefined on input line 55.
+
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2534,27 +2581,89 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 [6
 
 ]
+
+LaTeX Warning: Citation 'djatna_2018' on page 7 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'lu_2016' on page 7 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'hoffman_2010' on page 7 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'twinandilla_2018' on page 7 undefined on input line 66
+.
+
+
+LaTeX Warning: Citation 'twinandilla_2018' on page 7 undefined on input line 68
+.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [7]
+
+LaTeX Warning: Citation 'blei_2003' on page 8 undefined on input line 90.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [8]
+
+LaTeX Warning: Citation 'blei_2003' on page 9 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'wang_2008' on page 9 undefined on input line 101.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [9]
+
+LaTeX Warning: Citation 'zhao_2016' on page 10 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'hoffman_2010' on page 10 undefined on input line 114.
+
+
+LaTeX Warning: Citation 'twinandilla_2018' on page 10 undefined on input line 1
+19.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [10]
+
+LaTeX Warning: Citation 'lu_2016' on page 11 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'lee' on page 11 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'gensim' on page 11 undefined on input line 127.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [11]
 chapter 5.
+
+LaTeX Warning: Citation 'jurca_2016' on page 12 undefined on input line 131.
+
+
+LaTeX Warning: Citation 'montano_2018' on page 12 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'jagadev' on page 12 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'tang' on page 12 undefined on input line 138.
+
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2563,46 +2672,76 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 ]
 
+LaTeX Warning: Citation 'andersson' on page 13 undefined on input line 140.
+
+
+LaTeX Warning: Citation 'callcg_2009' on page 13 undefined on input line 147.
+
+
+LaTeX Warning: Citation 'callcg_2010' on page 13 undefined on input line 148.
+
+
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 151.
+(hyperref)                removing `\gls' on input line 150.
+
+
+LaTeX Warning: Citation 'zhao_2016' on page 13 undefined on input line 151.
+
+
+LaTeX Warning: Citation 'gasperskaja_2017' on page 13 undefined on input line 1
+52.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [13]
+
+LaTeX Warning: Citation 'montano_2018' on page 14 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'montano_2018' on page 14 undefined on input line 164.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 167.
+(hyperref)                removing `\gls' on input line 166.
+
+
+LaTeX Warning: Citation 'ncbi' on page 15 undefined on input line 170.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [15]
-<Image/ncbi_all_result.png, id=532, 882.29625pt x 476.78125pt>
+<Image/ncbi_all_result.png, id=467, 882.29625pt x 476.78125pt>
 File: Image/ncbi_all_result.png Graphic file (type png)
 <use Image/ncbi_all_result.png>
-Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 182.
+Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 181.
 (pdftex.def)             Requested size: 426.79141pt x 230.63478pt.
-<Image/ncbi_gene_details.png, id=538, 870.75313pt x 471.7625pt>
+<Image/ncbi_gene_details.png, id=473, 870.75313pt x 471.7625pt>
 File: Image/ncbi_gene_details.png Graphic file (type png)
 <use Image/ncbi_gene_details.png>
-Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 190.
+Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 189.
 (pdftex.def)             Requested size: 426.79141pt x 231.22322pt.
+
+
+LaTeX Warning: Citation 'ensembl' on page 16 undefined on input line 196.
+
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [16 <./Image/ncbi_all_result.png> <./Image/ncbi_gene_details.png>]
-<Image/ensembl_ikzf1.png, id=555, 882.29625pt x 475.27562pt>
+<Image/ensembl_ikzf1.png, id=488, 882.29625pt x 475.27562pt>
 File: Image/ensembl_ikzf1.png Graphic file (type png)
 <use Image/ensembl_ikzf1.png>
-Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 205.
+Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 204.
 (pdftex.def)             Requested size: 426.79141pt x 229.90646pt.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
@@ -2612,42 +2751,11 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 chapter 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 210.
+(hyperref)                removing `\gls' on input line 209.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 210.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.215 ...precise, the columns 'symbol' and 'other_
-                                                  designations' were very in...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.218 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (354.4635pt too wide) in paragraph at lines 215--218
-\OT1/txss/m/n/12 'other$[]\OML/txmi/m/it/12 esignations[]wereveryinterestingsin
-cetheygaveinsightsaboutthe[]corecharacteristics[]ofeachgenome:Byconnectingeachg
-enomenametoitsdescription; akey \OMS/txsy/m/n/12  
- []
-
-
-Overfull \hbox (809.7999pt too wide) in paragraph at lines 215--218
-\OML/txmi/m/it/12 valuemapwascreatedautomatically:Duringtheprocessofdataretriev
-al; therecameuptheproblemofdifferentformsofdataanddatatypes:Anotherproblemweret
-he[]standard[]stopwordlistfromNLTKorspacywhichdidnotincludespecificwords; sucha
-s[]DNA \OMS/txsy/m/n/12  
- []
+(hyperref)                removing `\gls' on input line 209.
 
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
@@ -2656,16 +2764,20 @@ Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 [18
 
 ]
-<Image/gene_description.png, id=578, 1001.99344pt x 364.36125pt>
+<Image/gene_description.png, id=510, 1001.99344pt x 364.36125pt>
 File: Image/gene_description.png Graphic file (type png)
 <use Image/gene_description.png>
-Package pdftex.def Info: Image/gene_description.png  used on input line 228.
+Package pdftex.def Info: Image/gene_description.png  used on input line 227.
 (pdftex.def)             Requested size: 426.79715pt x 155.19896pt.
-<Image/creating_topics_algorithm.png, id=584, 693.59125pt x 1205.50375pt>
+
+
+LaTeX Warning: Citation 'ncbi' on page 19 undefined on input line 234.
+
+<Image/creating_topics_algorithm.png, id=515, 693.59125pt x 1205.50375pt>
 File: Image/creating_topics_algorithm.png Graphic file (type png)
 <use Image/creating_topics_algorithm.png>
 Package pdftex.def Info: Image/creating_topics_algorithm.png  used on input lin
-e 243.
+e 242.
 (pdftex.def)             Requested size: 346.49843pt x 602.23535pt.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
@@ -2676,26 +2788,26 @@ Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
 [20 <./Image/creating_topics_algorithm.png>]
-<Image/LDA_preprocess.png, id=609, 378.41376pt x 945.5325pt>
+<Image/LDA_preprocess.png, id=539, 378.41376pt x 945.5325pt>
 File: Image/LDA_preprocess.png Graphic file (type png)
 <use Image/LDA_preprocess.png>
-Package pdftex.def Info: Image/LDA_preprocess.png  used on input line 262.
+Package pdftex.def Info: Image/LDA_preprocess.png  used on input line 261.
 (pdftex.def)             Requested size: 241.03493pt x 602.26764pt.
-<Image/pyldavis_digram.png, id=610, 263.98625pt x 241.90375pt>
+<Image/pyldavis_digram.png, id=540, 263.98625pt x 241.90375pt>
 File: Image/pyldavis_digram.png Graphic file (type png)
 <use Image/pyldavis_digram.png>
-Package pdftex.def Info: Image/pyldavis_digram.png  used on input line 270.
+Package pdftex.def Info: Image/pyldavis_digram.png  used on input line 269.
 (pdftex.def)             Requested size: 426.81752pt x 391.11417pt.
-<Image/LDA_central_process.png, id=614, 327.2225pt x 1024.82875pt>
+<Image/LDA_central_process.png, id=544, 327.2225pt x 1024.82875pt>
 File: Image/LDA_central_process.png Graphic file (type png)
 <use Image/LDA_central_process.png>
-Package pdftex.def Info: Image/LDA_central_process.png  used on input line 282.
+Package pdftex.def Info: Image/LDA_central_process.png  used on input line 281.
 
 (pdftex.def)             Requested size: 192.29567pt x 602.25117pt.
-<Image/lda_gensim_result.png, id=615, 265.99374pt x 127.47626pt>
+<Image/lda_gensim_result.png, id=545, 265.99374pt x 127.47626pt>
 File: Image/lda_gensim_result.png Graphic file (type png)
 <use Image/lda_gensim_result.png>
-Package pdftex.def Info: Image/lda_gensim_result.png  used on input line 290.
+Package pdftex.def Info: Image/lda_gensim_result.png  used on input line 289.
 (pdftex.def)             Requested size: 426.82848pt x 204.55553pt.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
@@ -2719,50 +2831,30 @@ Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 [25 <./Image/lda_gensim_result.png>]
 chapter 7.
-(Verzeichnis.tex
+
+LaTeX Warning: Citation 'blast' on page 26 undefined on input line 304.
+
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [26
 
 ]
-LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <12> not available
-(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 4.
-LaTeX Font Info:    Font shape `OT1/txss/m/sc' will be
-(Font)              scaled to size 11.39996pt on input line 4.
-
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[27
-
-]
-Underfull \hbox (badness 1881) in paragraph at lines 5--5
-\OT1/txss/m/sc/12 url\OT1/txss/m/n/12 : []$\OT1/txtt/m/n/12 http : / / www . sc
-iencedirect . com / science / article / pii /
+Overfull \hbox (47.85883pt too wide) in paragraph at lines 321--322
+\OT1/txss/m/n/12 could be cal-cu-lated us-ing cer-tain 'dis-tance met-rics', su
+ch as 'sklearn.neighbors.DistanceMetric'.
  []
 
+(Verzeichnis.tex
 
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[28]
-Underfull \hbox (badness 7030) in paragraph at lines 5--5
-[][]\OT1/txss/m/sl/12 NCBI BLAST < Se-quence Sim-i-lar-ity Search-ing < EMBL-EB
-I \OT1/txss/m/n/12 (2019). \OT1/txss/m/sc/12 url\OT1/txss/m/n/12 :
- []
+LaTeX Warning: Empty bibliography on input line 4.
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[29]
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[30]) (Abkuerzung.tex
+[27]) (Abkuerzung.tex
 \@gls@deffile=\write12
 \openout12 = `Main.glsdefs'.
 
@@ -2770,26 +2862,26 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[31
+[28
 
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has b
 een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \newpage
+l.325 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \newpage
+l.325 \newpage
               pdfTeX warning (ext4): destination with the same identifier (name
 {cite.}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.317 \newpage
+l.325 \newpage
               ] (Anhang.tex
 Overfull \hbox (34.02832pt too wide) in paragraph at lines 6--7
 \OT1/txss/m/n/12 dass die Ar-beit in gle-icher oder []ahn-licher Form noch kein
@@ -2810,30 +2902,855 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[32]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
+[29]
+<lda_all_genomes_v04.pdf, id=615, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf>
+Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 332.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf>
+Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 332.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+<lda_all_genomes_v04.pdf, id=618, page=1, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+.
+(pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [30 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=646, page=2, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [31 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=651, page=3, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [32 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=656, page=4, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [33 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=661, page=5, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [34 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=667, page=6, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [35 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=677, page=7, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [36 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=682, page=8, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [37 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=687, page=9, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [38 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=692, page=10, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [39 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=697, page=11, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [40 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=703, page=12, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [41 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=708, page=13, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [42 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=713, page=14, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [43 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=718, page=15, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [44 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=723, page=16, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [45 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=728, page=17, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [46 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=734, page=18, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [47 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=739, page=19, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [48 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=744, page=20, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [49 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=749, page=21, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [50 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=754, page=22, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [51 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=759, page=23, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [52 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=765, page=24, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [53 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=770, page=25, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [54 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=775, page=26, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [55 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=780, page=27, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [56 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=785, page=28, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [57 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=790, page=29, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [58 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=796, page=30, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [59 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=801, page=31, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [60 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=806, page=32, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [61 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=811, page=33, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [62 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=816, page=34, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [63 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=821, page=35, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [64 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=827, page=36, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [65 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=832, page=37, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [66 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=837, page=38, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
+2.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [67 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'Main.run.xml'.
 \openout1 = `Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53779 strings out of 492945
- 1028315 string characters out of 3126253
- 1632640 words of memory out of 3000000
- 56679 multiletter control sequences out of 15000+200000
- 581641 words of font info for 132 fonts, out of 3000000 for 9000
+ 53653 strings out of 492945
+ 1026373 string characters out of 3126253
+ 1630237 words of memory out of 3000000
+ 56543 multiletter control sequences out of 15000+200000
+ 580353 words of font info for 130 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,11n,100p,9102b,2877s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 74i,18n,100p,9102b,1955s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:blast} has been referenced but does not exist
 , replaced by a fixed one
 
@@ -2989,18 +3906,15 @@ placed by a fixed one
 
 {C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
 C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
-mi.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txf
-onts/rtxsssc.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/txfonts/txsy.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (35 pages, 994409 bytes).
+mi.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvet
+ic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Main.pdf (70 pages, 1291000 bytes).
 PDF statistics:
- 893 PDF objects out of 1000 (max. 8388607)
- 194 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 990 PDF objects out of 1000 (max. 8388607)
+ 204 named destinations out of 1000 (max. 500000)
+ 439 words of extra memory for PDF output out of 10000 (max. 10000000)
 
