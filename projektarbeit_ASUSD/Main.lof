@@ -5,14 +5,17 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces \gls {ncbi} query to find all \gls {all} related gene sequences\relax }}{16}{figure.caption.6}% 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Detailed information about selected gene sequence\relax }}{16}{figure.caption.7}% 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Information about genome IKZF1, found in Ensembl genome browser 96\relax }}{17}{figure.caption.9}% 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \ac {ncbi} query to find all \ac {all} related gene sequences\relax }}{17}{figure.caption.53}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Detailed information about selected gene sequence\relax }}{17}{figure.caption.54}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Information about genome IKZF1, found in Ensembl genome browser 96\relax }}{18}{figure.caption.59}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Extracted data (including genome's name and description), the green rectangle includes the descriptions\relax }}{19}{figure.caption.10}% 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Diagram of first draft of developed algorithm\relax }}{20}{figure.caption.11}% 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Diagram of developed algorithm to create basic topics among given genomes\relax }}{22}{figure.caption.12}% 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Diagram (created with PyLDAvis) which shows the distribution of the topics\relax }}{23}{figure.caption.13}% 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Diagram of LDA process\relax }}{24}{figure.caption.14}% 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Call of method LdaModel() from library Gensim and its output\relax }}{25}{figure.caption.15}% 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Extracted data (including genome's name and description), the green rectangle includes the descriptions\relax }}{20}{figure.caption.60}% 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Diagram of first draft of developed algorithm\relax }}{21}{figure.caption.61}% 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Diagram of developed algorithm to create basic topics among given genomes\relax }}{23}{figure.caption.63}% 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Diagram (created with PyLDAvis) which shows the distribution of the topics\relax }}{24}{figure.caption.64}% 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Diagram of LDA process\relax }}{25}{figure.caption.65}% 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Call of method LdaModel() from library Gensim and its output\relax }}{26}{figure.caption.66}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
 \addvspace {10\p@ }

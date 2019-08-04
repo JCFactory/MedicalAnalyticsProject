@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  3 AUG 2019 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.4)  4 AUG 2019 12:33
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -393,49 +393,29 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
-ossaries.sty"
-Package: glossaries 2019/01/06 v4.42 (NLCT)
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/acronym\acronym.st
 y"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
 
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bigfoot\suffix.sty
+"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.st
+y"
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstring.
 tex"
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
-.tex"
-\XKV@toks=\toks18
-\XKV@tempa@toks=\toks19
+\integerpart=\count95
+\decimalpart=\count96
 )
-\XKV@depth=\count95
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mfirstuc\mfirstuc.
-sty"
-Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count96
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
-\@glsmfirst=\toks20
-\@glsmrest=\toks21
+\AC@clearlist=\toks18
 )
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\textcase.
-sty"
-Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xfor\xfor.sty"
-Package: xfor 2009/02/05 v1.05 (NLCT)
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/savesym\savesym.st
+y"
+Package: savesym 2013/09/02 v1.2 Saves and restores symbols (JG)
 )
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
-base.sty"
-Package: datatool-base 2018/12/07 v2.31 (NLCT)
-
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
 y"
 Package: amsmath 2018/12/01 v2.17b AMS math features
@@ -450,7 +430,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks19
 \ex@=\dimen112
 ))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
@@ -482,188 +462,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \dotsspace@=\muskip10
 \c@parentequation=\count104
 \dspbrk@lvl=\count105
-\tag@help=\toks23
+\tag@help=\toks20
 \row@=\count106
 \column@=\count107
 \maxfields@=\count108
-\andhelp@=\toks24
+\andhelp@=\toks21
 \eqnshift@=\dimen115
 \alignsep@=\dimen116
 \tagshift@=\dimen117
 \tagwidth@=\dimen118
 \totwidth@=\dimen119
 \lineht@=\dimen120
-\@envbody=\toks25
+\@envbody=\toks22
 \multlinegap=\skip59
 \multlinetaggap=\skip60
-\mathdisplay@stack=\toks26
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/substr\substr.sty"
-Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count109
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
-fp.sty"
-Package: datatool-fp 2018/12/07 v2.31 (NLCT)
- ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp.sty"
-Package: fp 1995/04/02
-`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\defpattern.sty"
-Package: defpattern 1994/10/12
-\actioncount=\count110
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-basic.sty"
-Package: fp-basic 1996/05/13
-\FP@xs=\count111
-\FP@xia=\count112
-\FP@xib=\count113
-\FP@xfa=\count114
-\FP@xfb=\count115
-\FP@rega=\count116
-\FP@regb=\count117
-\FP@regs=\count118
-\FP@times=\count119
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-addons.sty
-"
-Package: fp-addons 1995/03/15
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
-Package: fp-snap 1995/04/05
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-exp.sty"
-Package: fp-exp 1995/04/03
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty"
-Package: fp-trigo 1995/04/14
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-pas.sty"
-Package: fp-pas 1994/08/29
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-random.sty"
-Package: fp-random 1995/02/23
-\FPseed=\count120
-) ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
-Package: fp-eqn 1995/04/03
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-upn.sty"
-Package: fp-upn 1996/10/21
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eval.sty"
-Package: fp-eval 1995/04/03
-)))
-\@dtl@toks=\toks27
-\@dtl@tmpcount=\count121
-\dtl@tmplength=\skip61
-\dtl@sortresult=\count122
-\@dtl@numgrpsepcount=\count123
-\@dtl@datatype=\count124
-\dtl@codeA=\count125
-\dtl@codeB=\count126
-\@dtl@foreach@level=\count127
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
-ossaries-compatible-307.sty"
-Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tracklang\tracklan
-g.sty"
-Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tracklang\trackl
-ang.tex"))
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
-tor.sty"
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries-english
-\glossaries-english.ldf"
-File: glossaries-english.ldf 2014/11/23 v1.0
-)
-\gls@level=\count128
-\@gls@tmpb=\toks28
-\gls@tmplen=\skip62
-\glskeylisttok=\toks29
-\glslabeltok=\toks30
-\glsshorttok=\toks31
-\glslongtok=\toks32
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-hypernav.sty"
-Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-list.sty"
-Package: glossary-list 2019/01/06 v4.42 (NLCT)
-\glslistdottedwidth=\skip63
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-long.sty"
-Package: glossary-long 2019/01/06 v4.42 (NLCT)
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
-y"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip64
-\LTright=\skip65
-\LTpre=\skip66
-\LTpost=\skip67
-\LTchunksize=\count129
-\LTcapwidth=\dimen121
-\LT@head=\box31
-\LT@firsthead=\box32
-\LT@foot=\box33
-\LT@lastfoot=\box34
-\LT@cols=\count130
-\LT@rows=\count131
-\c@LT@tables=\count132
-\c@LT@chunks=\count133
-\LT@p@ftn=\toks33
-)
-Class scrreprt Info: longtable captions redefined on input line 43.
-\glsdescwidth=\skip68
-\glspagelistwidth=\skip69
-)
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-super.sty"
-Package: glossary-super 2019/01/06 v4.42 (NLCT)
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/supertabular\super
-tabular.sty"
-Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count134
-\ST@wd=\dimen122
-\ST@rightskip=\skip70
-\ST@leftskip=\skip71
-\ST@parfillskip=\skip72
-\ST@pageleft=\dimen123
-\ST@headht=\dimen124
-\ST@tailht=\dimen125
-\ST@pagesofar=\dimen126
-\ST@pboxht=\dimen127
-\ST@lineht=\dimen128
-\ST@stretchht=\dimen129
-\ST@prevht=\dimen130
-\ST@toadd=\dimen131
-\ST@dimen=\dimen132
-\ST@pbox=\box35
-))
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-tree.sty"
-Package: glossary-tree 2019/01/06 v4.42 (NLCT)
-\glstreeindent=\skip73
-))
-\glswrite=\write3
-\glo@main@file=\write4
-\openout4 = `Main.glo'.
-
-Package glossaries Info: Writing glossary file Main.glo on input line 15.
-\glo@acronym@file=\write5
-\openout5 = `Main.acn'.
-
-Package glossaries Info: Writing glossary file Main.acn on input line 15.
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/savesym\savesym.st
-y"
-Package: savesym 2013/09/02 v1.2 Saves and restores symbols (JG)
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
 ty"
@@ -783,45 +598,45 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count135
-\c@Blindtext=\count136
-\c@blind@countparstart=\count137
-\blind@countxx=\count138
-\blindtext@numBlindtext=\count139
-\blind@countyy=\count140
-\c@blindlist=\count141
-\c@blindlistlevel=\count142
-\c@blindlist@level=\count143
-\blind@listitem=\count144
-\c@blind@listcount=\count145
-\c@blind@levelcount=\count146
-\blind@mathformula=\count147
-\blind@Mathformula=\count148
-\c@blind@randomcount=\count149
-\c@blind@randommax=\count150
-\c@blind@pangramcount=\count151
-\c@blind@pangrammax=\count152
+\c@blindtext=\count109
+\c@Blindtext=\count110
+\c@blind@countparstart=\count111
+\blind@countxx=\count112
+\blindtext@numBlindtext=\count113
+\blind@countyy=\count114
+\c@blindlist=\count115
+\c@blindlistlevel=\count116
+\c@blindlist@level=\count117
+\blind@listitem=\count118
+\c@blind@listcount=\count119
+\c@blind@levelcount=\count120
+\blind@mathformula=\count121
+\blind@Mathformula=\count122
+\c@blind@randomcount=\count123
+\c@blind@randommax=\count124
+\c@blind@pangramcount=\count125
+\c@blind@pangrammax=\count126
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
 "
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen133
-\ar@mcellbox=\box36
-\extrarowheight=\dimen134
-\NC@list=\toks34
-\extratabsurround=\skip74
-\backup@length=\skip75
-\ar@cellbox=\box37
+\col@sep=\dimen121
+\ar@mcellbox=\box31
+\extrarowheight=\dimen122
+\NC@list=\toks24
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box32
 )
-\TX@col@width=\dimen135
-\TX@old@table=\dimen136
-\TX@old@col=\dimen137
-\TX@target=\dimen138
-\TX@delta=\dimen139
-\TX@cols=\count153
-\TX@ftn=\toks35
+\TX@col@width=\dimen123
+\TX@old@table=\dimen124
+\TX@old@col=\dimen125
+\TX@target=\dimen126
+\TX@delta=\dimen127
+\TX@cols=\count127
+\TX@ftn=\toks25
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
 sty"
@@ -841,16 +656,16 @@ Package color Info: Driver file: pdftex.def on input line 147.
 x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\everycr=\toks36
-\minrowclearance=\skip76
+\everycr=\toks26
+\minrowclearance=\skip63
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
 sty"
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
-\multirow@colwidth=\skip77
-\multirow@cntb=\count154
-\multirow@dima=\skip78
-\bigstrutjot=\dimen140
+\multirow@colwidth=\skip64
+\multirow@cntb=\count128
+\multirow@dima=\skip65
+\bigstrutjot=\dimen128
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\hhline.sty"
 Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
@@ -874,49 +689,49 @@ Class scrreprt Warning: Usage of package `tocloft' together
 (scrreprt)              `part', `section', `subsection',
 (scrreprt)              `subsubsection', `paragraph' and `subparagraph'.
 (scrreprt)              Nevertheless, using requested
-(scrreprt)              package `tocloft' on input line 45.
+(scrreprt)              package `tocloft' on input line 48.
 
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.st
 y"
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip79
-\cftbeforetoctitleskip=\skip80
-\cftaftertoctitleskip=\skip81
-\cftbeforepartskip=\skip82
-\cftpartnumwidth=\skip83
-\cftpartindent=\skip84
-\cftbeforechapskip=\skip85
-\cftchapindent=\skip86
-\cftchapnumwidth=\skip87
-\cftbeforesecskip=\skip88
-\cftsecindent=\skip89
-\cftsecnumwidth=\skip90
-\cftbeforesubsecskip=\skip91
-\cftsubsecindent=\skip92
-\cftsubsecnumwidth=\skip93
-\cftbeforesubsubsecskip=\skip94
-\cftsubsubsecindent=\skip95
-\cftsubsubsecnumwidth=\skip96
-\cftbeforeparaskip=\skip97
-\cftparaindent=\skip98
-\cftparanumwidth=\skip99
-\cftbeforesubparaskip=\skip100
-\cftsubparaindent=\skip101
-\cftsubparanumwidth=\skip102
-\cftbeforeloftitleskip=\skip103
-\cftafterloftitleskip=\skip104
-\cftbeforefigskip=\skip105
-\cftfigindent=\skip106
-\cftfignumwidth=\skip107
-\c@lofdepth=\count155
-\c@lotdepth=\count156
-\cftbeforelottitleskip=\skip108
-\cftafterlottitleskip=\skip109
-\cftbeforetabskip=\skip110
-\cfttabindent=\skip111
-\cfttabnumwidth=\skip112
+\cftparskip=\skip66
+\cftbeforetoctitleskip=\skip67
+\cftaftertoctitleskip=\skip68
+\cftbeforepartskip=\skip69
+\cftpartnumwidth=\skip70
+\cftpartindent=\skip71
+\cftbeforechapskip=\skip72
+\cftchapindent=\skip73
+\cftchapnumwidth=\skip74
+\cftbeforesecskip=\skip75
+\cftsecindent=\skip76
+\cftsecnumwidth=\skip77
+\cftbeforesubsecskip=\skip78
+\cftsubsecindent=\skip79
+\cftsubsecnumwidth=\skip80
+\cftbeforesubsubsecskip=\skip81
+\cftsubsubsecindent=\skip82
+\cftsubsubsecnumwidth=\skip83
+\cftbeforeparaskip=\skip84
+\cftparaindent=\skip85
+\cftparanumwidth=\skip86
+\cftbeforesubparaskip=\skip87
+\cftsubparaindent=\skip88
+\cftsubparanumwidth=\skip89
+\cftbeforeloftitleskip=\skip90
+\cftafterloftitleskip=\skip91
+\cftbeforefigskip=\skip92
+\cftfigindent=\skip93
+\cftfignumwidth=\skip94
+\c@lofdepth=\count129
+\c@lotdepth=\count130
+\cftbeforelottitleskip=\skip95
+\cftafterlottitleskip=\skip96
+\cftbeforetabskip=\skip97
+\cfttabindent=\skip98
+\cfttabnumwidth=\skip99
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
 sty"
@@ -958,6 +773,7 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
@@ -970,9 +786,9 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 .sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen141
-\Hy@linkcounter=\count157
-\Hy@pagecounter=\count158
+\@linkdim=\dimen129
+\Hy@linkcounter=\count131
+\Hy@pagecounter=\count132
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
 f"
@@ -980,7 +796,7 @@ File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count159
+\Hy@SavedSpaceFactor=\count133
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
 cfg"
@@ -993,16 +809,16 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count160
+\c@Hy@tempcnt=\count134
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen142
-\Fld@menulength=\count161
-\Field@Width=\dimen143
-\Fld@charsize=\dimen144
+\XeTeXLinkMargin=\dimen130
+\Fld@menulength=\count135
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -1012,17 +828,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count162
-\c@Item=\count163
-\c@Hfootnote=\count164
+\Hy@abspage=\count136
+\c@Item=\count137
+\c@Hfootnote=\count138
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count165
-\c@bookmark@seq@number=\count166
+\Fld@listcount=\count139
+\c@bookmark@seq@number=\count140
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
 check.sty"
@@ -1030,7 +846,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip113
+\Hy@SectionHShift=\skip100
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
 y"
@@ -1040,25 +856,18 @@ Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 ty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen145
-\captionmargin@=\dimen146
-\captionwidth=\dimen147
-\caption@tempdima=\dimen148
-\caption@indent=\dimen149
-\caption@parindent=\dimen150
-\caption@hangindent=\dimen151
+\captionmargin=\dimen133
+\captionmargin@=\dimen134
+\captionwidth=\dimen135
+\caption@tempdima=\dimen136
+\caption@indent=\dimen137
+\caption@parindent=\dimen138
+\caption@hangindent=\dimen139
 )
 Package caption Info: KOMA-Script document class.
-\c@caption@flags=\count167
-\c@ContinuedFloat=\count168
+\c@caption@flags=\count141
+\c@ContinuedFloat=\count142
 Package caption Info: hyperref package is loaded.
-Package caption Info: longtable package is loaded.
-
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption.
-sty"
-Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
-)
-Package caption Info: supertabular package is loaded.
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
 tikz.sty"
@@ -1068,15 +877,15 @@ tikz.sty"
 cs.sty"
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
 futil-common.tex"
-\pgfutil@everybye=\toks37
-\pgfutil@tempdima=\dimen152
-\pgfutil@tempdimb=\dimen153
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen140
+\pgfutil@tempdimb=\dimen141
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
 futil-common-lists.tex"))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
 futil-latex.def"
-\pgfutil@abb=\box38
+\pgfutil@abb=\box33
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -1108,8 +917,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-\Gin@req@height=\dimen154
-\Gin@req@width=\dimen155
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
 fsys.sty"
@@ -1119,31 +928,31 @@ Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
 fkeys.code.tex"
-\pgfkeys@pathtoks=\toks38
-\pgfkeys@temptoks=\toks39
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
 fkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks40
+\pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen156
-\pgf@y=\dimen157
-\pgf@xa=\dimen158
-\pgf@ya=\dimen159
-\pgf@xb=\dimen160
-\pgf@yb=\dimen161
-\pgf@xc=\dimen162
-\pgf@yc=\dimen163
-\w@pgf@writea=\write6
+\pgf@x=\dimen144
+\pgf@y=\dimen145
+\pgf@xa=\dimen146
+\pgf@ya=\dimen147
+\pgf@xb=\dimen148
+\pgf@yb=\dimen149
+\pgf@xc=\dimen150
+\pgf@yc=\dimen151
+\w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count169
-\c@pgf@countb=\count170
-\c@pgf@countc=\count171
-\c@pgf@countd=\count172
-\t@pgf@toka=\toks41
-\t@pgf@tokb=\toks42
-\t@pgf@tokc=\toks43
-\pgf@sys@id@count=\count173
+\c@pgf@counta=\count143
+\c@pgf@countb=\count144
+\c@pgf@countc=\count145
+\c@pgf@countd=\count146
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count147
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
 pgf.cfg"
@@ -1162,8 +971,8 @@ File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
 pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfsyssoftpath@smallbuffer@items=\count174
-\pgfsyssoftpath@bigbuffer@items=\count175
+\pgfsyssoftpath@smallbuffer@items=\count148
+\pgfsyssoftpath@bigbuffer@items=\count149
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
 pgfsysprotocol.code.tex"
@@ -1200,12 +1009,12 @@ calc.code.tex"
 util.code.tex")
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
 parser.code.tex"
-\pgfmath@dimen=\dimen164
-\pgfmath@count=\count176
-\pgfmath@box=\box39
-\pgfmath@toks=\toks44
-\pgfmath@stack@operand=\toks45
-\pgfmath@stack@operation=\toks46
+\pgfmath@dimen=\dimen152
+\pgfmath@count=\count150
+\pgfmath@box=\box34
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
 functions.code.tex"
@@ -1227,57 +1036,57 @@ functions.misc.code.tex")
 functions.integerarithmetics.code.tex")))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
 float.code.tex"
-\c@pgfmathroundto@lastzeros=\count177
+\c@pgfmathroundto@lastzeros=\count151
 ))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@picminx=\dimen165
-\pgf@picmaxx=\dimen166
-\pgf@picminy=\dimen167
-\pgf@picmaxy=\dimen168
-\pgf@pathminx=\dimen169
-\pgf@pathmaxx=\dimen170
-\pgf@pathminy=\dimen171
-\pgf@pathmaxy=\dimen172
-\pgf@xx=\dimen173
-\pgf@xy=\dimen174
-\pgf@yx=\dimen175
-\pgf@yy=\dimen176
-\pgf@zx=\dimen177
-\pgf@zy=\dimen178
+\pgf@picminx=\dimen153
+\pgf@picmaxx=\dimen154
+\pgf@picminy=\dimen155
+\pgf@picmaxy=\dimen156
+\pgf@pathminx=\dimen157
+\pgf@pathmaxx=\dimen158
+\pgf@pathminy=\dimen159
+\pgf@pathmaxy=\dimen160
+\pgf@xx=\dimen161
+\pgf@xy=\dimen162
+\pgf@yx=\dimen163
+\pgf@yy=\dimen164
+\pgf@zx=\dimen165
+\pgf@zy=\dimen166
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@path@lastx=\dimen179
-\pgf@path@lasty=\dimen180
+\pgf@path@lastx=\dimen167
+\pgf@path@lasty=\dimen168
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@shorten@end@additional=\dimen181
-\pgf@shorten@start@additional=\dimen182
+\pgf@shorten@end@additional=\dimen169
+\pgf@shorten@start@additional=\dimen170
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfpic=\box40
-\pgf@hbox=\box41
-\pgf@layerbox@main=\box42
-\pgf@picture@serial@count=\count178
+\pgfpic=\box35
+\pgf@hbox=\box36
+\pgf@layerbox@main=\box37
+\pgf@picture@serial@count=\count152
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgflinewidth=\dimen183
+\pgflinewidth=\dimen171
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@pt@x=\dimen184
-\pgf@pt@y=\dimen185
-\pgf@pt@temp=\dimen186
+\pgf@pt@x=\dimen172
+\pgf@pt@y=\dimen173
+\pgf@pt@temp=\dimen174
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorequick.code.tex"
@@ -1294,14 +1103,14 @@ File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowsep=\dimen187
+\pgfarrowsep=\dimen175
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@max=\dimen188
-\pgf@sys@shading@range@num=\count179
-\pgf@shadingcount=\count180
+\pgf@max=\dimen176
+\pgf@sys@shading@range@num=\count153
+\pgf@shadingcount=\count154
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcoreimage.code.tex"
@@ -1310,7 +1119,7 @@ File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfexternal@startupbox=\box43
+\pgfexternal@startupbox=\box38
 ))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
 gfcorelayers.code.tex"
@@ -1331,7 +1140,7 @@ File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
 oduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfnodeparttextbox=\box44
+\pgfnodeparttextbox=\box39
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
 oduleplot.code.tex"
@@ -1340,8 +1149,8 @@ File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
 pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
-\pgf@nodesepstart=\dimen189
-\pgf@nodesepend=\dimen190
+\pgf@nodesepstart=\dimen177
+\pgf@nodesepend=\dimen178
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
 pgfcomp-version-1-18.sty"
@@ -1363,10 +1172,10 @@ Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
 .code.tex")
-\pgffor@iter=\dimen191
-\pgffor@skip=\dimen192
-\pgffor@stack=\toks47
-\pgffor@toks=\toks48
+\pgffor@iter=\dimen179
+\pgffor@skip=\dimen180
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
 r/tikz\tikz.code.tex"
@@ -1375,32 +1184,32 @@ Package: tikz 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
 flibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@plot@mark@count=\count181
-\pgfplotmarksize=\dimen193
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen181
 )
-\tikz@lastx=\dimen194
-\tikz@lasty=\dimen195
-\tikz@lastxsaved=\dimen196
-\tikz@lastysaved=\dimen197
-\tikzleveldistance=\dimen198
-\tikzsiblingdistance=\dimen199
-\tikz@figbox=\box45
-\tikz@figbox@bg=\box46
-\tikz@tempbox=\box47
-\tikz@tempbox@bg=\box48
-\tikztreelevel=\count182
-\tikznumberofchildren=\count183
-\tikznumberofcurrentchild=\count184
-\tikz@fig@count=\count185
+\tikz@lastx=\dimen182
+\tikz@lasty=\dimen183
+\tikz@lastxsaved=\dimen184
+\tikz@lastysaved=\dimen185
+\tikzleveldistance=\dimen186
+\tikzsiblingdistance=\dimen187
+\tikz@figbox=\box40
+\tikz@figbox@bg=\box41
+\tikz@tempbox=\box42
+\tikz@tempbox@bg=\box43
+\tikztreelevel=\count156
+\tikznumberofchildren=\count157
+\tikznumberofcurrentchild=\count158
+\tikz@fig@count=\count159
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
 odulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfmatrixcurrentrow=\count186
-\pgfmatrixcurrentcolumn=\count187
-\pgf@matrix@numberofcolumns=\count188
+\pgfmatrixcurrentrow=\count160
+\pgfmatrixcurrentcolumn=\count161
+\pgf@matrix@numberofcolumns=\count162
 )
-\tikz@expandcount=\count189
+\tikz@expandcount=\count163
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
 r/tikz/libraries\tikzlibrarytopaths.code.tex"
@@ -1409,76 +1218,85 @@ File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.
 sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count190
-\rotFPtop=\skip114
-\rotFPbot=\skip115
-\rot@float@box=\box49
-\rot@mess@toks=\toks49
+
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count164
+\rotFPtop=\skip101
+\rotFPbot=\skip102
+\rot@float@box=\box44
+\rot@mess@toks=\toks39
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
 sty"
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count165
+)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count191
+\lrq@indent=\count166
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count192
-\c@listtotal=\count193
-\c@listcount=\count194
-\c@liststart=\count195
-\c@liststop=\count196
-\c@citecount=\count197
-\c@citetotal=\count198
-\c@multicitecount=\count199
-\c@multicitetotal=\count266
-\c@instcount=\count267
-\c@maxnames=\count268
-\c@minnames=\count269
-\c@maxitems=\count270
-\c@minitems=\count271
-\c@citecounter=\count272
-\c@maxcitecounter=\count273
-\c@savedcitecounter=\count274
-\c@uniquelist=\count275
-\c@uniquename=\count276
-\c@refsection=\count277
-\c@refsegment=\count278
-\c@maxextratitle=\count279
-\c@maxextratitleyear=\count280
-\c@maxextraname=\count281
-\c@maxextradate=\count282
-\c@maxextraalpha=\count283
-\c@abbrvpenalty=\count284
-\c@highnamepenalty=\count285
-\c@lownamepenalty=\count286
-\c@maxparens=\count287
-\c@parenlevel=\count288
-\blx@tempcnta=\count289
-\blx@tempcntb=\count290
-\blx@tempcntc=\count291
-\blx@maxsection=\count292
-\blx@maxsegment@0=\count293
-\blx@notetype=\count294
-\blx@parenlevel@text=\count295
-\blx@parenlevel@foot=\count296
-\blx@sectionciteorder@0=\count297
-\blx@entrysetcounter=\count298
-\labelnumberwidth=\skip116
-\labelalphawidth=\skip117
-\biblabelsep=\skip118
-\bibitemsep=\skip119
-\bibnamesep=\skip120
-\bibinitsep=\skip121
-\bibparsep=\skip122
-\bibhang=\skip123
+\c@tabx@nest=\count167
+\c@listtotal=\count168
+\c@listcount=\count169
+\c@liststart=\count170
+\c@liststop=\count171
+\c@citecount=\count172
+\c@citetotal=\count173
+\c@multicitecount=\count174
+\c@multicitetotal=\count175
+\c@instcount=\count176
+\c@maxnames=\count177
+\c@minnames=\count178
+\c@maxitems=\count179
+\c@minitems=\count180
+\c@citecounter=\count181
+\c@maxcitecounter=\count182
+\c@savedcitecounter=\count183
+\c@uniquelist=\count184
+\c@uniquename=\count185
+\c@refsection=\count186
+\c@refsegment=\count187
+\c@maxextratitle=\count188
+\c@maxextratitleyear=\count189
+\c@maxextraname=\count190
+\c@maxextradate=\count191
+\c@maxextraalpha=\count192
+\c@abbrvpenalty=\count193
+\c@highnamepenalty=\count194
+\c@lownamepenalty=\count195
+\c@maxparens=\count196
+\c@parenlevel=\count197
+\blx@tempcnta=\count198
+\blx@tempcntb=\count199
+\blx@tempcntc=\count266
+\blx@maxsection=\count267
+\blx@maxsegment@0=\count268
+\blx@notetype=\count269
+\blx@parenlevel@text=\count270
+\blx@parenlevel@foot=\count271
+\blx@sectionciteorder@0=\count272
+\blx@entrysetcounter=\count273
+\labelnumberwidth=\skip103
+\labelalphawidth=\skip104
+\biblabelsep=\skip105
+\bibitemsep=\skip106
+\bibnamesep=\skip107
+\bibinitsep=\skip108
+\bibparsep=\skip109
+\bibhang=\skip110
 \blx@bcfin=\read2
-\blx@bcfout=\write7
-\c@mincomprange=\count299
-\c@maxcomprange=\count300
-\c@mincompwidth=\count301
+\blx@bcfout=\write4
+\c@mincomprange=\count274
+\c@maxcomprange=\count275
+\c@mincompwidth=\count276
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1490,88 +1308,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count302
-\c@savedafterword=\count303
-\c@annotator=\count304
-\c@savedannotator=\count305
-\c@author=\count306
-\c@savedauthor=\count307
-\c@bookauthor=\count308
-\c@savedbookauthor=\count309
-\c@commentator=\count310
-\c@savedcommentator=\count311
-\c@editor=\count312
-\c@savededitor=\count313
-\c@editora=\count314
-\c@savededitora=\count315
-\c@editorb=\count316
-\c@savededitorb=\count317
-\c@editorc=\count318
-\c@savededitorc=\count319
-\c@foreword=\count320
-\c@savedforeword=\count321
-\c@holder=\count322
-\c@savedholder=\count323
-\c@introduction=\count324
-\c@savedintroduction=\count325
-\c@namea=\count326
-\c@savednamea=\count327
-\c@nameb=\count328
-\c@savednameb=\count329
-\c@namec=\count330
-\c@savednamec=\count331
-\c@translator=\count332
-\c@savedtranslator=\count333
-\c@shortauthor=\count334
-\c@savedshortauthor=\count335
-\c@shorteditor=\count336
-\c@savedshorteditor=\count337
-\c@labelname=\count338
-\c@savedlabelname=\count339
-\c@institution=\count340
-\c@savedinstitution=\count341
-\c@lista=\count342
-\c@savedlista=\count343
-\c@listb=\count344
-\c@savedlistb=\count345
-\c@listc=\count346
-\c@savedlistc=\count347
-\c@listd=\count348
-\c@savedlistd=\count349
-\c@liste=\count350
-\c@savedliste=\count351
-\c@listf=\count352
-\c@savedlistf=\count353
-\c@location=\count354
-\c@savedlocation=\count355
-\c@organization=\count356
-\c@savedorganization=\count357
-\c@origlocation=\count358
-\c@savedoriglocation=\count359
-\c@origpublisher=\count360
-\c@savedorigpublisher=\count361
-\c@publisher=\count362
-\c@savedpublisher=\count363
-\c@language=\count364
-\c@savedlanguage=\count365
-\c@origlanguage=\count366
-\c@savedoriglanguage=\count367
-\c@pageref=\count368
-\c@savedpageref=\count369
-\shorthandwidth=\skip124
-\shortjournalwidth=\skip125
-\shortserieswidth=\skip126
-\shorttitlewidth=\skip127
-\shortauthorwidth=\skip128
-\shorteditorwidth=\skip129
-\locallabelnumberwidth=\skip130
-\locallabelalphawidth=\skip131
-\localshorthandwidth=\skip132
-\localshortjournalwidth=\skip133
-\localshortserieswidth=\skip134
-\localshorttitlewidth=\skip135
-\localshortauthorwidth=\skip136
-\localshorteditorwidth=\skip137
+\c@afterword=\count277
+\c@savedafterword=\count278
+\c@annotator=\count279
+\c@savedannotator=\count280
+\c@author=\count281
+\c@savedauthor=\count282
+\c@bookauthor=\count283
+\c@savedbookauthor=\count284
+\c@commentator=\count285
+\c@savedcommentator=\count286
+\c@editor=\count287
+\c@savededitor=\count288
+\c@editora=\count289
+\c@savededitora=\count290
+\c@editorb=\count291
+\c@savededitorb=\count292
+\c@editorc=\count293
+\c@savededitorc=\count294
+\c@foreword=\count295
+\c@savedforeword=\count296
+\c@holder=\count297
+\c@savedholder=\count298
+\c@introduction=\count299
+\c@savedintroduction=\count300
+\c@namea=\count301
+\c@savednamea=\count302
+\c@nameb=\count303
+\c@savednameb=\count304
+\c@namec=\count305
+\c@savednamec=\count306
+\c@translator=\count307
+\c@savedtranslator=\count308
+\c@shortauthor=\count309
+\c@savedshortauthor=\count310
+\c@shorteditor=\count311
+\c@savedshorteditor=\count312
+\c@labelname=\count313
+\c@savedlabelname=\count314
+\c@institution=\count315
+\c@savedinstitution=\count316
+\c@lista=\count317
+\c@savedlista=\count318
+\c@listb=\count319
+\c@savedlistb=\count320
+\c@listc=\count321
+\c@savedlistc=\count322
+\c@listd=\count323
+\c@savedlistd=\count324
+\c@liste=\count325
+\c@savedliste=\count326
+\c@listf=\count327
+\c@savedlistf=\count328
+\c@location=\count329
+\c@savedlocation=\count330
+\c@organization=\count331
+\c@savedorganization=\count332
+\c@origlocation=\count333
+\c@savedoriglocation=\count334
+\c@origpublisher=\count335
+\c@savedorigpublisher=\count336
+\c@publisher=\count337
+\c@savedpublisher=\count338
+\c@language=\count339
+\c@savedlanguage=\count340
+\c@origlanguage=\count341
+\c@savedoriglanguage=\count342
+\c@pageref=\count343
+\c@savedpageref=\count344
+\shorthandwidth=\skip111
+\shortjournalwidth=\skip112
+\shortserieswidth=\skip113
+\shorttitlewidth=\skip114
+\shortauthorwidth=\skip115
+\shorteditorwidth=\skip116
+\locallabelnumberwidth=\skip117
+\locallabelalphawidth=\skip118
+\localshorthandwidth=\skip119
+\localshortjournalwidth=\skip120
+\localshortserieswidth=\skip121
+\localshorttitlewidth=\skip122
+\localshortauthorwidth=\skip123
+\localshorteditorwidth=\skip124
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1585,13 +1403,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
 def"
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count370
-\c@textcitetotal=\count371
-\c@textcitemaxnames=\count372
-\c@biburlnumpenalty=\count373
-\c@biburlucpenalty=\count374
-\c@biburllcpenalty=\count375
-\c@smartand=\count376
+\c@textcitecount=\count345
+\c@textcitetotal=\count346
+\c@textcitemaxnames=\count347
+\c@biburlnumpenalty=\count348
+\c@biburlucpenalty=\count349
+\c@biburllcpenalty=\count350
+\c@smartand=\count351
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -1614,8 +1432,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\stand
 ard.bbx"
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count377
-\c@bbx:relatedtotal=\count378
+\c@bbx:relatedcount=\count352
+\c@bbx:relatedtotal=\count353
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1641,13 +1459,13 @@ File: biblatex.cfg
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes.
 sty"
 Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
-\csq@reset=\count379
-\csq@gtype=\count380
-\csq@glevel=\count381
-\csq@qlevel=\count382
-\csq@maxlvl=\count383
-\csq@tshold=\count384
-\csq@ltx@everypar=\toks50
+\csq@reset=\count354
+\csq@gtype=\count355
+\csq@glevel=\count356
+\csq@qlevel=\count357
+\csq@maxlvl=\count358
+\csq@tshold=\count359
+\csq@ltx@everypar=\toks40
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes.
 def"
@@ -1681,70 +1499,84 @@ Package shellesc Info: Restricted shell escape enabled on input line 69.
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\pst-xkey
 .tex"
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks41
+\XKV@tempa@toks=\toks42
 )
+\XKV@depth=\count360
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pstricks\pstrick
 s.tex"
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pstricks\pst-fp.
 tex" `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count385
-\pstFP@xia=\count386
-\pstFP@xib=\count387
-\pstFP@xfa=\count388
-\pstFP@xfb=\count389
-\pstFP@rega=\count390
-\pstFP@regb=\count391
-\pstFP@regs=\count392
-\pstFP@times=\count393
+\pstFP@xs=\count361
+\pstFP@xia=\count362
+\pstFP@xib=\count363
+\pstFP@xfa=\count364
+\pstFP@xfb=\count365
+\pstFP@rega=\count366
+\pstFP@regb=\count367
+\pstFP@regs=\count368
+\pstFP@times=\count369
 )
-\psLoopIndex=\count394
+\psLoopIndex=\count370
 
 `PSTricks' v2.96  <2019/02/23> (tvz,hv)
-\pst@dima=\dimen256
-\pst@dimb=\dimen257
-\pst@dimc=\dimen258
-\pst@dimd=\dimen259
-\pst@dimg=\dimen260
-\pst@dimh=\dimen261
-\pst@dimm=\dimen262
-\pst@dimn=\dimen263
-\pst@dimo=\dimen264
-\pst@dimp=\dimen265
-\pst@hbox=\box50
-\pst@ibox=\box51
-\pst@boxg=\box52
-\pst@cnta=\count395
-\pst@cntb=\count396
-\pst@cntc=\count397
-\pst@cntd=\count398
-\pst@cntg=\count399
-\pst@cnth=\count400
-\pst@cntm=\count401
-\pst@cntn=\count402
-\pst@cnto=\count403
-\pst@cntp=\count404
-\@zero=\count405
-\pst@toks=\toks51
+\pst@dima=\dimen188
+\pst@dimb=\dimen189
+\pst@dimc=\dimen190
+\pst@dimd=\dimen191
+\pst@dimg=\dimen192
+\pst@dimh=\dimen193
+\pst@dimm=\dimen194
+\pst@dimn=\dimen195
+\pst@dimo=\dimen196
+\pst@dimp=\dimen197
+\pst@hbox=\box45
+\pst@ibox=\box46
+\pst@boxg=\box47
+\pst@cnta=\count371
+\pst@cntb=\count372
+\pst@cntc=\count373
+\pst@cntd=\count374
+\pst@cntg=\count375
+\pst@cnth=\count376
+\pst@cntm=\count377
+\pst@cntn=\count378
+\pst@cnto=\count379
+\pst@cntp=\count380
+\@zero=\count381
+\pst@toks=\toks43
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pstricks\pstrick
 s.con")
-\psunit=\dimen266
-\psxunit=\dimen267
-\psyunit=\dimen268
-\pst@C@@rType=\count406
-\pslinewidth=\dimen269
-\psk@startLW=\dimen270
-\psk@endLW=\dimen271
-\pst@customdefs=\toks52
-\pslinearc=\dimen272
-\pst@symbolStep=\dimen273
-\pst@symbolWidth=\dimen274
-\pst@symbolLinewidth=\dimen275
-\everypsbox=\toks53
-\psframesep=\dimen276
-\pslabelsep=\dimen277
-\sh@wgridXunit=\dimen278
-\sh@wgridYunit=\dimen279
-\pst@shift=\dimen280
+\psunit=\dimen198
+\psxunit=\dimen199
+\psyunit=\dimen256
+\pst@C@@rType=\count382
+\pslinewidth=\dimen257
+\psk@startLW=\dimen258
+\psk@endLW=\dimen259
+\pst@customdefs=\toks44
+\pslinearc=\dimen260
+\pst@symbolStep=\dimen261
+\pst@symbolWidth=\dimen262
+\pst@symbolLinewidth=\dimen263
+\everypsbox=\toks45
+\psframesep=\dimen264
+\pslabelsep=\dimen265
+\sh@wgridXunit=\dimen266
+\sh@wgridYunit=\dimen267
+\pst@shift=\dimen268
 )
 File: pstricks.tex 2019/02/23 v2.96 `PSTricks' (tvz,hv)
 
@@ -1769,9 +1601,9 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/multido\multido.
 tex"  v1.42, 2010/05/14 <tvz>
-\multido@count=\count407
-\multidocount=\count408
-\multido@stuff=\toks54
+\multido@count=\count383
+\multidocount=\count384
+\multido@stuff=\toks46
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -1785,56 +1617,56 @@ ols.tex" `PST-tools' v0.09b, 2017/12/03 (hv))
 ricks-add.tex"
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pst-node\pst-nod
 e.tex"  v1.42, 2019/03/03
-\psrow=\count409
-\pscol=\count410
-\psmatrixcnt=\count411
-\psrowsep=\skip138
-\pscolsep=\skip139
-\pst@args=\count412
-\num@pts=\count413
-\pst@argcnt=\count414
+\psrow=\count385
+\pscol=\count386
+\psmatrixcnt=\count387
+\psrowsep=\skip125
+\pscolsep=\skip126
+\pst@args=\count388
+\num@pts=\count389
+\pst@argcnt=\count390
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pst-arrow\pst-ar
 row.tex" `pst-arrow' v0.01, 2016/09/01 (dr,hv)
-\pshooklength=\dimen281
-\pshookwidth=\dimen282
+\pshooklength=\dimen269
+\pshookwidth=\dimen270
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pst-3d\pst-3d.te
 x" `PST-3d' v1.11, 2010/02/14 (tvz))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pst-math\pst-mat
 h.tex" `pst-math' v0.64 , (CJ,hv)) `pstricks-add' v3.87, 2019/01/12 (dr,hv)
-\psparallelogramsep=\dimen283
-\pst@cntC=\count415
-\pst@stepcount=\count416
-\chart@ColorIndex=\dimen284
-\chart@ColorStep=\dimen285
-\pst@chartHeight=\dimen286
-\pst@chartStackDepth=\dimen287
-\pst@chartStackWidth=\dimen288
-\chart@Toggle=\count417
-\psVectorCtr=\count418
+\psparallelogramsep=\dimen271
+\pst@cntC=\count391
+\pst@stepcount=\count392
+\chart@ColorIndex=\dimen272
+\chart@ColorStep=\dimen273
+\pst@chartHeight=\dimen274
+\pst@chartStackDepth=\dimen275
+\pst@chartStackWidth=\dimen276
+\chart@Toggle=\count393
+\psVectorCtr=\count394
 )
  v1.91, 2018/08/31 (tvz,hv)
-\pstRadUnit=\dimen289
-\pstRadUnitInv=\dimen290
-\pst@linecnt=\count419
+\pstRadUnit=\dimen277
+\pstRadUnitInv=\dimen278
+\pst@linecnt=\count395
 \RCD@file=\read3
-\psxlabelsep=\dimen291
-\psylabelsep=\dimen292
-\psk@subticksize=\dimen293
-\pst@xticksizeA=\dimen294
-\pst@xticksizeB=\dimen295
-\pst@xticksizeC=\dimen296
-\pst@yticksizeA=\dimen297
-\pst@yticksizeB=\dimen298
-\pst@yticksizeC=\dimen299
-\@digitcounter=\count420
-\psk@llx=\dimen300
-\psk@lly=\dimen301
-\psk@urx=\dimen302
-\psk@ury=\dimen303
-\pst@xunit=\dimen304
-\pst@yunit=\dimen305
+\psxlabelsep=\dimen279
+\psylabelsep=\dimen280
+\psk@subticksize=\dimen281
+\pst@xticksizeA=\dimen282
+\pst@xticksizeB=\dimen283
+\pst@xticksizeC=\dimen284
+\pst@yticksizeA=\dimen285
+\pst@yticksizeB=\dimen286
+\pst@yticksizeC=\dimen287
+\@digitcounter=\count396
+\psk@llx=\dimen288
+\psk@lly=\dimen289
+\psk@urx=\dimen290
+\psk@ury=\dimen291
+\pst@xunit=\dimen292
+\pst@yunit=\dimen293
 )
 File: pst-plot.tex 2018/08/31 1.91 `pst-plot' (tvz,hv)
 )
@@ -1872,166 +1704,166 @@ Package: expl3 2019-03-26 L3 programming layer (loader)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-cod
 e.tex"
 Package: expl3 2019-03-26 L3 programming layer (code)
-\c_max_int=\count421
-\l_tmpa_int=\count422
-\l_tmpb_int=\count423
-\g_tmpa_int=\count424
-\g_tmpb_int=\count425
-\g__kernel_prg_map_int=\count426
-\c__ior_term_ior=\count427
-\c_log_iow=\count428
-\l_iow_line_count_int=\count429
-\l__iow_line_target_int=\count430
-\l__iow_one_indent_int=\count431
-\l__iow_indent_int=\count432
-\c_zero_dim=\dimen306
-\c_max_dim=\dimen307
-\l_tmpa_dim=\dimen308
-\l_tmpb_dim=\dimen309
-\g_tmpa_dim=\dimen310
-\g_tmpb_dim=\dimen311
-\c_zero_skip=\skip140
-\c_max_skip=\skip141
-\l_tmpa_skip=\skip142
-\l_tmpb_skip=\skip143
-\g_tmpa_skip=\skip144
-\g_tmpb_skip=\skip145
+\c_max_int=\count397
+\l_tmpa_int=\count398
+\l_tmpb_int=\count399
+\g_tmpa_int=\count400
+\g_tmpb_int=\count401
+\g__kernel_prg_map_int=\count402
+\c__ior_term_ior=\count403
+\c_log_iow=\count404
+\l_iow_line_count_int=\count405
+\l__iow_line_target_int=\count406
+\l__iow_one_indent_int=\count407
+\l__iow_indent_int=\count408
+\c_zero_dim=\dimen294
+\c_max_dim=\dimen295
+\l_tmpa_dim=\dimen296
+\l_tmpb_dim=\dimen297
+\g_tmpa_dim=\dimen298
+\g_tmpb_dim=\dimen299
+\c_zero_skip=\skip127
+\c_max_skip=\skip128
+\l_tmpa_skip=\skip129
+\l_tmpb_skip=\skip130
+\g_tmpa_skip=\skip131
+\g_tmpb_skip=\skip132
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count433
-\l__intarray_loop_int=\count434
-\c__intarray_sp_dim=\dimen312
-\g__intarray_font_int=\count435
-\c__fp_leading_shift_int=\count436
-\c__fp_middle_shift_int=\count437
-\c__fp_trailing_shift_int=\count438
-\c__fp_big_leading_shift_int=\count439
-\c__fp_big_middle_shift_int=\count440
-\c__fp_big_trailing_shift_int=\count441
-\c__fp_Bigg_leading_shift_int=\count442
-\c__fp_Bigg_middle_shift_int=\count443
-\c__fp_Bigg_trailing_shift_int=\count444
-\c__kernel_randint_max_int=\count445
-\g__fp_array_int=\count446
-\l__fp_array_loop_int=\count447
-\l__sort_length_int=\count448
-\l__sort_min_int=\count449
-\l__sort_top_int=\count450
-\l__sort_max_int=\count451
-\l__sort_true_max_int=\count452
-\l__sort_block_int=\count453
-\l__sort_begin_int=\count454
-\l__sort_end_int=\count455
-\l__sort_A_int=\count456
-\l__sort_B_int=\count457
-\l__sort_C_int=\count458
-\l__tl_analysis_normal_int=\count459
-\l__tl_analysis_index_int=\count460
-\l__tl_analysis_nesting_int=\count461
-\l__tl_analysis_type_int=\count462
-\l__regex_internal_a_int=\count463
-\l__regex_internal_b_int=\count464
-\l__regex_internal_c_int=\count465
-\l__regex_balance_int=\count466
-\l__regex_group_level_int=\count467
-\l__regex_mode_int=\count468
-\c__regex_cs_in_class_mode_int=\count469
-\c__regex_cs_mode_int=\count470
-\l__regex_catcodes_int=\count471
-\l__regex_default_catcodes_int=\count472
-\c__regex_catcode_D_int=\count473
-\c__regex_catcode_S_int=\count474
-\c__regex_catcode_L_int=\count475
-\c__regex_catcode_O_int=\count476
-\c__regex_catcode_A_int=\count477
-\c__regex_all_catcodes_int=\count478
-\l__regex_show_lines_int=\count479
-\l__regex_min_state_int=\count480
-\l__regex_max_state_int=\count481
-\l__regex_left_state_int=\count482
-\l__regex_right_state_int=\count483
-\l__regex_capturing_group_int=\count484
-\l__regex_min_pos_int=\count485
-\l__regex_max_pos_int=\count486
-\l__regex_curr_pos_int=\count487
-\l__regex_start_pos_int=\count488
-\l__regex_success_pos_int=\count489
-\l__regex_curr_char_int=\count490
-\l__regex_curr_catcode_int=\count491
-\l__regex_last_char_int=\count492
-\l__regex_case_changed_char_int=\count493
-\l__regex_curr_state_int=\count494
-\l__regex_step_int=\count495
-\l__regex_min_active_int=\count496
-\l__regex_max_active_int=\count497
-\l__regex_replacement_csnames_int=\count498
-\l__regex_match_count_int=\count499
-\l__regex_min_submatch_int=\count500
-\l__regex_submatch_int=\count501
-\l__regex_zeroth_submatch_int=\count502
-\g__regex_trace_regex_int=\count503
-\c_empty_box=\box53
-\l_tmpa_box=\box54
-\l_tmpb_box=\box55
-\g_tmpa_box=\box56
-\g_tmpb_box=\box57
-\l__box_top_dim=\dimen313
-\l__box_bottom_dim=\dimen314
-\l__box_left_dim=\dimen315
-\l__box_right_dim=\dimen316
-\l__box_top_new_dim=\dimen317
-\l__box_bottom_new_dim=\dimen318
-\l__box_left_new_dim=\dimen319
-\l__box_right_new_dim=\dimen320
-\l__box_internal_box=\box58
-\l__coffin_internal_box=\box59
-\l__coffin_internal_dim=\dimen321
-\l__coffin_offset_x_dim=\dimen322
-\l__coffin_offset_y_dim=\dimen323
-\l__coffin_x_dim=\dimen324
-\l__coffin_y_dim=\dimen325
-\l__coffin_x_prime_dim=\dimen326
-\l__coffin_y_prime_dim=\dimen327
-\c_empty_coffin=\box60
-\l__coffin_aligned_coffin=\box61
-\l__coffin_aligned_internal_coffin=\box62
-\l_tmpa_coffin=\box63
-\l_tmpb_coffin=\box64
-\g_tmpa_coffin=\box65
-\g_tmpb_coffin=\box66
-\l__coffin_bounding_shift_dim=\dimen328
-\l__coffin_left_corner_dim=\dimen329
-\l__coffin_right_corner_dim=\dimen330
-\l__coffin_bottom_corner_dim=\dimen331
-\l__coffin_top_corner_dim=\dimen332
-\l__coffin_scaled_total_height_dim=\dimen333
-\l__coffin_scaled_width_dim=\dimen334
-\c__coffin_empty_coffin=\box67
-\l__coffin_display_coffin=\box68
-\l__coffin_display_coord_coffin=\box69
-\l__coffin_display_pole_coffin=\box70
-\l__coffin_display_offset_dim=\dimen335
-\l__coffin_display_x_dim=\dimen336
-\l__coffin_display_y_dim=\dimen337
+\l_keys_choice_int=\count409
+\l__intarray_loop_int=\count410
+\c__intarray_sp_dim=\dimen300
+\g__intarray_font_int=\count411
+\c__fp_leading_shift_int=\count412
+\c__fp_middle_shift_int=\count413
+\c__fp_trailing_shift_int=\count414
+\c__fp_big_leading_shift_int=\count415
+\c__fp_big_middle_shift_int=\count416
+\c__fp_big_trailing_shift_int=\count417
+\c__fp_Bigg_leading_shift_int=\count418
+\c__fp_Bigg_middle_shift_int=\count419
+\c__fp_Bigg_trailing_shift_int=\count420
+\c__kernel_randint_max_int=\count421
+\g__fp_array_int=\count422
+\l__fp_array_loop_int=\count423
+\l__sort_length_int=\count424
+\l__sort_min_int=\count425
+\l__sort_top_int=\count426
+\l__sort_max_int=\count427
+\l__sort_true_max_int=\count428
+\l__sort_block_int=\count429
+\l__sort_begin_int=\count430
+\l__sort_end_int=\count431
+\l__sort_A_int=\count432
+\l__sort_B_int=\count433
+\l__sort_C_int=\count434
+\l__tl_analysis_normal_int=\count435
+\l__tl_analysis_index_int=\count436
+\l__tl_analysis_nesting_int=\count437
+\l__tl_analysis_type_int=\count438
+\l__regex_internal_a_int=\count439
+\l__regex_internal_b_int=\count440
+\l__regex_internal_c_int=\count441
+\l__regex_balance_int=\count442
+\l__regex_group_level_int=\count443
+\l__regex_mode_int=\count444
+\c__regex_cs_in_class_mode_int=\count445
+\c__regex_cs_mode_int=\count446
+\l__regex_catcodes_int=\count447
+\l__regex_default_catcodes_int=\count448
+\c__regex_catcode_D_int=\count449
+\c__regex_catcode_S_int=\count450
+\c__regex_catcode_L_int=\count451
+\c__regex_catcode_O_int=\count452
+\c__regex_catcode_A_int=\count453
+\c__regex_all_catcodes_int=\count454
+\l__regex_show_lines_int=\count455
+\l__regex_min_state_int=\count456
+\l__regex_max_state_int=\count457
+\l__regex_left_state_int=\count458
+\l__regex_right_state_int=\count459
+\l__regex_capturing_group_int=\count460
+\l__regex_min_pos_int=\count461
+\l__regex_max_pos_int=\count462
+\l__regex_curr_pos_int=\count463
+\l__regex_start_pos_int=\count464
+\l__regex_success_pos_int=\count465
+\l__regex_curr_char_int=\count466
+\l__regex_curr_catcode_int=\count467
+\l__regex_last_char_int=\count468
+\l__regex_case_changed_char_int=\count469
+\l__regex_curr_state_int=\count470
+\l__regex_step_int=\count471
+\l__regex_min_active_int=\count472
+\l__regex_max_active_int=\count473
+\l__regex_replacement_csnames_int=\count474
+\l__regex_match_count_int=\count475
+\l__regex_min_submatch_int=\count476
+\l__regex_submatch_int=\count477
+\l__regex_zeroth_submatch_int=\count478
+\g__regex_trace_regex_int=\count479
+\c_empty_box=\box48
+\l_tmpa_box=\box49
+\l_tmpb_box=\box50
+\g_tmpa_box=\box51
+\g_tmpb_box=\box52
+\l__box_top_dim=\dimen301
+\l__box_bottom_dim=\dimen302
+\l__box_left_dim=\dimen303
+\l__box_right_dim=\dimen304
+\l__box_top_new_dim=\dimen305
+\l__box_bottom_new_dim=\dimen306
+\l__box_left_new_dim=\dimen307
+\l__box_right_new_dim=\dimen308
+\l__box_internal_box=\box53
+\l__coffin_internal_box=\box54
+\l__coffin_internal_dim=\dimen309
+\l__coffin_offset_x_dim=\dimen310
+\l__coffin_offset_y_dim=\dimen311
+\l__coffin_x_dim=\dimen312
+\l__coffin_y_dim=\dimen313
+\l__coffin_x_prime_dim=\dimen314
+\l__coffin_y_prime_dim=\dimen315
+\c_empty_coffin=\box55
+\l__coffin_aligned_coffin=\box56
+\l__coffin_aligned_internal_coffin=\box57
+\l_tmpa_coffin=\box58
+\l_tmpb_coffin=\box59
+\g_tmpa_coffin=\box60
+\g_tmpb_coffin=\box61
+\l__coffin_bounding_shift_dim=\dimen316
+\l__coffin_left_corner_dim=\dimen317
+\l__coffin_right_corner_dim=\dimen318
+\l__coffin_bottom_corner_dim=\dimen319
+\l__coffin_top_corner_dim=\dimen320
+\l__coffin_scaled_total_height_dim=\dimen321
+\l__coffin_scaled_width_dim=\dimen322
+\c__coffin_empty_coffin=\box62
+\l__coffin_display_coffin=\box63
+\l__coffin_display_coord_coffin=\box64
+\l__coffin_display_pole_coffin=\box65
+\l__coffin_display_offset_dim=\dimen323
+\l__coffin_display_x_dim=\dimen324
+\l__coffin_display_y_dim=\dimen325
 \g__file_internal_ior=\read4
-\l__seq_internal_a_int=\count504
-\l__seq_internal_b_int=\count505
-\c__deprecation_minus_one=\count506
+\l__seq_internal_a_int=\count480
+\l__seq_internal_b_int=\count481
+\c__deprecation_minus_one=\count482
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode
 .def"
 File: l3pdfmode.def 2019-03-26 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count507
+\l__driver_color_stack_int=\count483
 ))
 Package: xparse 2019-03-05 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count508
-\g__xparse_grabber_int=\count509
-\l__xparse_m_args_int=\count510
-\l__xparse_v_nesting_int=\count511
+\l__xparse_current_arg_int=\count484
+\g__xparse_grabber_int=\count485
+\l__xparse_m_args_int=\count486
+\l__xparse_v_nesting_int=\count487
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.st
 y"
@@ -2041,63 +1873,58 @@ Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 e\l3keys2e.sty"
 Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box71
-\l__siunitx_tmp_dim=\dimen338
-\l__siunitx_tmp_int=\count512
-\l__siunitx_number_mantissa_length_int=\count513
-\l__siunitx_number_uncert_length_int=\count514
-\l__siunitx_round_int=\count515
-\l__siunitx_process_decimal_int=\count516
-\l__siunitx_process_uncertainty_int=\count517
-\l__siunitx_process_fixed_int=\count518
-\l__siunitx_process_integer_min_int=\count519
-\l__siunitx_process_precision_int=\count520
-\l__siunitx_group_min_int=\count521
-\l__siunitx_angle_marker_box=\box72
-\l__siunitx_angle_unit_box=\box73
-\l__siunitx_angle_marker_dim=\dimen339
-\l__siunitx_angle_unit_dim=\dimen340
-\l__siunitx_unit_int=\count522
-\l__siunitx_unit_denominator_int=\count523
-\l__siunitx_unit_numerator_int=\count524
-\l__siunitx_unit_prefix_int=\count525
-\l__siunitx_unit_prefix_base_int=\count526
-\l__siunitx_unit_prefix_gram_int=\count527
-\l__siunitx_number_product_int=\count528
-\c__siunitx_one_fill_skip=\skip146
-\l__siunitx_table_unit_align_skip=\skip147
-\l__siunitx_table_exponent_dim=\dimen341
-\l__siunitx_table_integer_dim=\dimen342
-\l__siunitx_table_mantissa_dim=\dimen343
-\l__siunitx_table_marker_dim=\dimen344
-\l__siunitx_table_result_dim=\dimen345
-\l__siunitx_table_uncert_dim=\dimen346
-\l__siunitx_table_fill_pre_dim=\dimen347
-\l__siunitx_table_fill_post_dim=\dimen348
-\l__siunitx_table_fill_mid_dim=\dimen349
-\l__siunitx_table_pre_box=\box74
-\l__siunitx_table_post_box=\box75
-\l__siunitx_table_mantissa_box=\box76
-\l__siunitx_table_result_box=\box77
-\l__siunitx_table_number_align_skip=\skip148
-\l__siunitx_table_text_align_skip=\skip149
-))
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.st
-y"
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstring.
-tex"
-\integerpart=\count529
-\decimalpart=\count530
-)
-Package: xstring 2019/02/06 v1.83 String manipulations (CT)
-)
+\l__siunitx_tmp_box=\box66
+\l__siunitx_tmp_dim=\dimen326
+\l__siunitx_tmp_int=\count488
+\l__siunitx_number_mantissa_length_int=\count489
+\l__siunitx_number_uncert_length_int=\count490
+\l__siunitx_round_int=\count491
+\l__siunitx_process_decimal_int=\count492
+\l__siunitx_process_uncertainty_int=\count493
+\l__siunitx_process_fixed_int=\count494
+\l__siunitx_process_integer_min_int=\count495
+\l__siunitx_process_precision_int=\count496
+\l__siunitx_group_min_int=\count497
+\l__siunitx_angle_marker_box=\box67
+\l__siunitx_angle_unit_box=\box68
+\l__siunitx_angle_marker_dim=\dimen327
+\l__siunitx_angle_unit_dim=\dimen328
+\l__siunitx_unit_int=\count498
+\l__siunitx_unit_denominator_int=\count499
+\l__siunitx_unit_numerator_int=\count500
+\l__siunitx_unit_prefix_int=\count501
+\l__siunitx_unit_prefix_base_int=\count502
+\l__siunitx_unit_prefix_gram_int=\count503
+\l__siunitx_number_product_int=\count504
+\c__siunitx_one_fill_skip=\skip133
+\l__siunitx_table_unit_align_skip=\skip134
+\l__siunitx_table_exponent_dim=\dimen329
+\l__siunitx_table_integer_dim=\dimen330
+\l__siunitx_table_mantissa_dim=\dimen331
+\l__siunitx_table_marker_dim=\dimen332
+\l__siunitx_table_result_dim=\dimen333
+\l__siunitx_table_uncert_dim=\dimen334
+\l__siunitx_table_fill_pre_dim=\dimen335
+\l__siunitx_table_fill_post_dim=\dimen336
+\l__siunitx_table_fill_mid_dim=\dimen337
+\l__siunitx_table_pre_box=\box69
+\l__siunitx_table_post_box=\box70
+\l__siunitx_table_mantissa_box=\box71
+\l__siunitx_table_result_box=\box72
+\l__siunitx_table_number_align_skip=\skip135
+\l__siunitx_table_text_align_skip=\skip136
+
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+)))
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pst-math\pst-mat
 h.tex")
 File: pst-math.tex 2018/08/31 v1.91 `PST-math' (hv)
-\c@Rand@No=\count531
-\c@Random@Left=\count532
-\c@Random@Right=\count533
-\c@Random@No@max=\count534
+\c@Rand@No=\count505
+\c@Random@Left=\count506
+\c@Random@Right=\count507
+\c@Random@No@max=\count508
 )
 Package: pstricks-add 2018/02/04 v. 0.16 package wrapper for pstricks-add.tex (
 hv)
@@ -2111,34 +1938,34 @@ sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count535
-\calc@Bcount=\count536
-\calc@Adimen=\dimen350
-\calc@Bdimen=\dimen351
-\calc@Askip=\skip150
-\calc@Bskip=\skip151
+\calc@Acount=\count509
+\calc@Bcount=\count510
+\calc@Adimen=\dimen338
+\calc@Bdimen=\dimen339
+\calc@Askip=\skip137
+\calc@Bskip=\skip138
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count537
-\calc@Cskip=\skip152
+\calc@Ccount=\count511
+\calc@Cskip=\skip139
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.st
 y"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 )
-\AM@pagewidth=\dimen352
-\AM@pageheight=\dimen353
+\AM@pagewidth=\dimen340
+\AM@pageheight=\dimen341
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.
 def"
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box78
-\AM@global@opts=\toks55
-\AM@toc@title=\toks56
-\c@AM@survey=\count538
-\AM@templatesizebox=\box79
-) (Abkuerzung.tex)
+\AM@pagebox=\box73
+\AM@global@opts=\toks47
+\AM@toc@title=\toks48
+\c@AM@survey=\count512
+\AM@templatesizebox=\box74
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -2148,69 +1975,59 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (Main.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+ (Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 4.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 4.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 3.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\omltxmi.fd
 "
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 4.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\omstxsy.fd
 "
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 4.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\omxtxex.fd
 "
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 4.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\utxexa.fd"
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Try loading font information for OT1+txss on input line 4.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 3.
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\ot1txss.fd
 "
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 4.
+(Font)              scaled to size 11.39996pt on input line 3.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2247,11 +2064,6 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
-tor-basic-dictionary-English.dict"
-Dictionary: translator-basic-dictionary, Language: English 
-) (Main.glsdefs)
-
 Package scrpage2 Warning: seems you are using a very small headheight.
 (scrpage2)                If you get overfull \vbox warnings at almost every
 (scrpage2)                page, you should increase headheight e.g. writing
@@ -2263,17 +2075,17 @@ Package scrpage2 Warning: seems you are using a very small headheight.
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count539
-\scratchdimen=\dimen354
-\scratchbox=\box80
-\nofMPsegments=\count540
-\nofMParguments=\count541
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count542
-\MPscratchDim=\dimen355
-\MPnumerator=\count543
-\makeMPintoPDFobject=\count544
-\everyMPtoPDFconversion=\toks58
+\scratchcounter=\count513
+\scratchdimen=\dimen342
+\scratchbox=\box75
+\nofMPsegments=\count514
+\nofMParguments=\count515
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count516
+\MPscratchDim=\dimen343
+\MPnumerator=\count517
+\makeMPintoPDFobject=\count518
+\everyMPtoPDFconversion=\toks50
 )
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -2290,8 +2102,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 4.
+\AtBeginShipoutBox=\box76
+Package hyperref Info: Link coloring OFF on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -2301,14 +2113,14 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count545
+\c@section@level=\count519
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
  (Main.out) (Main.out)
-\@outlinefile=\write8
-\openout8 = `Main.out'.
+\@outlinefile=\write5
+\openout5 = `Main.out'.
 
 Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           Using `bookmark' together with `hyperref' is recommended,
@@ -2316,7 +2128,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message with `\usepackage{bookmark}'
-(scrreprt)           before \begin{document} on input line 4.
+(scrreprt)           before \begin{document} on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\bookmark.
 sty"
@@ -2328,7 +2140,7 @@ File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
 Package auxhook Info: \AddLineBeginMainAux comes a little late,
 (auxhook)             because the main .aux file is already opened on input lin
 e 164.
-\BKM@id=\count546
+\BKM@id=\count520
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
@@ -2337,14 +2149,18 @@ Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout7 = `Main.bcf'.
+\openout4 = `Main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Main.bbl' found.
  (Main.bbl)
-Package biblatex Info: Reference section=0 on input line 4.
-Package biblatex Info: Reference segment=0 on input line 4.
+Package biblatex Info: Reference section=0 on input line 3.
+Package biblatex Info: Reference segment=0 on input line 3.
 
+("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-ab
 breviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
@@ -2359,36 +2175,36 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 4.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\ot1txr.fd"
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 4.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 3.
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\utxsya.fd
 "
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 4.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\utxsyb.fd"
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 4.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 3.
  ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\utxmia.fd
 "
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 4.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\utxsyc.fd"
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 4.
+(Font)              scaled to size 7.59998pt on input line 3.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 4.
-LaTeX Font Info:    Try loading font information for OT1+txtt on input line 4.
+(Font)              scaled to size 5.69998pt on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 3.
 
 ("C:\Users\jacky\AppData\Local\Programs\MiKTeX 2.9\tex/latex/txfonts\ot1txtt.fd
 "
@@ -2421,8 +2237,6 @@ Non-PDF special ignored!
 <special> header=pstricks-add.pro
 
 
-\openout3 = `Main.ist'.
-
 Non-PDF special ignored!
 <special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
 Non-PDF special ignored!
@@ -2440,61 +2254,45 @@ LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/txss/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
 (Font)              scaled to size 23.63593pt on input line 37.
- (Main.toc)
-\tf@toc=\write9
-\openout9 = `Main.toc'.
+ (Main.toc
+Package acronym Info: Label `acro:lda' newly defined as it shall be overridden
+although it is yet undefined on input line 6.
+Package acronym Info: Label `acro:ngs' newly defined as it shall be overridden
+although it is yet undefined on input line 16.
+Package acronym Info: Label `acro:ncbi' newly defined as it shall be overridden
 
+although it is yet undefined on input line 17.
+Package acronym Info: Label `acro:all' newly defined as it shall be overridden
+although it is yet undefined on input line 20.
 LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 38.
+(Font)              scaled to size 11.39996pt on input line 30.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[1] (Main.lof)
-\tf@lof=\write10
-\openout10 = `Main.lof'.
+[1])
+\tf@toc=\write6
+\openout6 = `Main.toc'.
+
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[2] (Main.lof)
+\tf@lof=\write7
+\openout7 = `Main.lof'.
 
  (Main.lot)
-\tf@lot=\write11
-\openout11 = `Main.lot'.
+\tf@lot=\write8
+\openout8 = `Main.lot'.
 
-
-No file Main.acr.
-
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[2])
-chapter 1.
-
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.16 \chapter
-             {Introduction}\label{introduction} [1
-
-]
-chapter 2.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 18.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 18.
-LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 18.
-
-LaTeX Warning: Citation 'twinandilla_2018' on page 2 undefined on input line 18
-.
-
-LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <10> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 18.
-LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 18.
-
-LaTeX Warning: Citation 'tang' on page 2 undefined on input line 20.
-
+l.6 \chapter
+            {Abstract}\label{abstract} [1]
+chapter 1.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2502,25 +2300,13 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 [2
 
 ]
-chapter 3.
-
-LaTeX Warning: Citation 'zhao_2016' on page 3 undefined on input line 28.
-
-
-Overfull \hbox (0.71999pt too wide) in paragraph at lines 27--29
-\OT1/txss/m/n/12 In this sec-tion, some ex-am-ples of us-ing text min-ing tech-
-niques in bi-ol-ogy and medicine
- []
-
-
-LaTeX Warning: Citation 'jurca_2016' on page 3 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'xu_2013' on page 3 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'djatna_2018' on page 3 undefined on input line 36.
-
+chapter 2.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 16.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 16.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 16.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
@@ -2528,361 +2314,373 @@ Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 [3
 
 ]
+chapter 3.
 
-LaTeX Warning: Citation 'lloret_2012' on page 4 undefined on input line 38.
+Overfull \hbox (0.71999pt too wide) in paragraph at lines 24--26
+\OT1/txss/m/n/12 In this sec-tion, some ex-am-ples of us-ing text min-ing tech-
+niques in bi-ol-ogy and medicine
+ []
 
-
-LaTeX Warning: Citation 'lloret_2012' on page 4 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'yang_2018' on page 4 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'yang_2018' on page 4 undefined on input line 43.
-
-
-LaTeX Warning: Citation 'nltk' on page 4 undefined on input line 43.
-
+Package acronym Info: Label `acro:mirna' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 31.
+Package acronym Info: Label `acro:rna' newly defined as it shall be overridden
+although it is yet undefined on input line 31.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[4]
+[4
 
-LaTeX Warning: Citation 'lu_2016' on page 5 undefined on input line 46.
+]
+Package acronym Info: Label `acro:tf-idf' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:rst' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:hmm' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:bm' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:cnv' newly defined as it shall be overridden
+although it is yet undefined on input line 37.
+Package acronym Info: Label `acro:nltk' newly defined as it shall be overridden
 
+although it is yet undefined on input line 40.
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 40.
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 40.
+Package acronym Info: Label `acro:ner' newly defined as it shall be overridden
+although it is yet undefined on input line 40.
+Package acronym Info: Label `acro:re' newly defined as it shall be overridden
+although it is yet undefined on input line 40.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [5]
-chapter 4.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 48.
-
-LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/txss/b/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
-(Font)              scaled to size 16.41594pt on input line 49.
-
-LaTeX Warning: Citation 'zhao_2016' on page 6 undefined on input line 50.
-
-
-LaTeX Warning: Citation 'park_2009' on page 6 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'jurca_2016' on page 6 undefined on input line 55.
-
+Package acronym Info: Label `acro:arm' newly defined as it shall be overridden
+although it is yet undefined on input line 43.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[6
+[6]
+chapter 4.
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 46.
+Package acronym Info: Label `acro:ir' newly defined as it shall be overridden
+although it is yet undefined on input line 52.
+Package acronym Info: Label `acro:ie' newly defined as it shall be overridden
+although it is yet undefined on input line 52.
+Package acronym Info: Label `acro:nlp' newly defined as it shall be overridden
+although it is yet undefined on input line 52.
+Package acronym Info: Label `acro:kd' newly defined as it shall be overridden
+although it is yet undefined on input line 52.
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[7
 
 ]
+Package acronym Info: Label `acro:cart' newly defined as it shall be overridden
 
-LaTeX Warning: Citation 'djatna_2018' on page 7 undefined on input line 58.
-
-
-LaTeX Warning: Citation 'lu_2016' on page 7 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'hoffman_2010' on page 7 undefined on input line 62.
-
-
-LaTeX Warning: Citation 'twinandilla_2018' on page 7 undefined on input line 66
-.
-
-
-LaTeX Warning: Citation 'twinandilla_2018' on page 7 undefined on input line 68
-.
-
-
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[7]
-
-LaTeX Warning: Citation 'blei_2003' on page 8 undefined on input line 90.
-
+although it is yet undefined on input line 55.
+Package acronym Info: Label `acro:id3' newly defined as it shall be overridden
+although it is yet undefined on input line 55.
+Package acronym Info: Label `acro:dt' newly defined as it shall be overridden
+although it is yet undefined on input line 55.
+Package acronym Info: Label `acro:pca' newly defined as it shall be overridden
+although it is yet undefined on input line 55.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [8]
-
-LaTeX Warning: Citation 'blei_2003' on page 9 undefined on input line 94.
-
-
-LaTeX Warning: Citation 'wang_2008' on page 9 undefined on input line 101.
-
-
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [9]
-
-LaTeX Warning: Citation 'zhao_2016' on page 10 undefined on input line 112.
-
-
-LaTeX Warning: Citation 'hoffman_2010' on page 10 undefined on input line 114.
-
-
-LaTeX Warning: Citation 'twinandilla_2018' on page 10 undefined on input line 1
-19.
-
-
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [10]
+Package acronym Info: Label `acro:dna' newly defined as it shall be overridden
+although it is yet undefined on input line 109.
+Package acronym Info: Label `acro:mcmc' newly defined as it shall be overridden
 
-LaTeX Warning: Citation 'lu_2016' on page 11 undefined on input line 121.
-
-
-LaTeX Warning: Citation 'lee' on page 11 undefined on input line 124.
-
-
-LaTeX Warning: Citation 'gensim' on page 11 undefined on input line 127.
-
+although it is yet undefined on input line 113.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [11]
-chapter 5.
-
-LaTeX Warning: Citation 'jurca_2016' on page 12 undefined on input line 131.
-
-
-LaTeX Warning: Citation 'montano_2018' on page 12 undefined on input line 134.
-
-
-LaTeX Warning: Citation 'jagadev' on page 12 undefined on input line 136.
-
-
-LaTeX Warning: Citation 'tang' on page 12 undefined on input line 138.
-
+Package acronym Info: Label `acro:mclda' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 118.
+Package acronym Info: Label `acro:cgs' newly defined as it shall be overridden
+although it is yet undefined on input line 118.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[12
+[12]
+chapter 5.
+Package acronym Info: Label `acro:car' newly defined as it shall be overridden
+although it is yet undefined on input line 131.
+Package acronym Info: Label `acro:aml' newly defined as it shall be overridden
+although it is yet undefined on input line 133.
+Package acronym Info: Label `acro:cll' newly defined as it shall be overridden
+although it is yet undefined on input line 133.
+Package acronym Info: Label `acro:cml' newly defined as it shall be overridden
+although it is yet undefined on input line 133.
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[13
 
 ]
+Package acronym Info: Label `acro:tall' newly defined as it shall be overridden
 
-LaTeX Warning: Citation 'andersson' on page 13 undefined on input line 140.
-
-
-LaTeX Warning: Citation 'callcg_2009' on page 13 undefined on input line 147.
-
-
-LaTeX Warning: Citation 'callcg_2010' on page 13 undefined on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 150.
-
-
-LaTeX Warning: Citation 'zhao_2016' on page 13 undefined on input line 151.
-
-
-LaTeX Warning: Citation 'gasperskaja_2017' on page 13 undefined on input line 1
-52.
-
-
-Overfull \vbox (1.26591pt too high) has occurred while \output is active []
-
-
-[13]
-
-LaTeX Warning: Citation 'montano_2018' on page 14 undefined on input line 162.
-
-
-LaTeX Warning: Citation 'montano_2018' on page 14 undefined on input line 164.
-
+although it is yet undefined on input line 137.
+Package acronym Info: Label `acro:bcpall' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 137.
+Package acronym Info: Label `acro:cna' newly defined as it shall be overridden
+although it is yet undefined on input line 140.
+Package acronym Info: Label `acro:callcg' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 143.
+Package acronym Info: Label `acro:efs' newly defined as it shall be overridden
+although it is yet undefined on input line 145.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [14]
+Package acronym Info: Label `acro:msa' newly defined as it shall be overridden
+although it is yet undefined on input line 151.
+Package acronym Info: Label `acro:muscle' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 151.
+Package acronym Info: Label `acro:snp' newly defined as it shall be overridden
+although it is yet undefined on input line 154.
+Package acronym Info: Label `acro:mrna' newly defined as it shall be overridden
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 166.
+although it is yet undefined on input line 155.
+Package acronym Info: Label `acro:crna' newly defined as it shall be overridden
 
+although it is yet undefined on input line 155.
+Package acronym Info: Label `acro:pcr' newly defined as it shall be overridden
+although it is yet undefined on input line 155.
+Package acronym Info: Label `acro:sage' newly defined as it shall be overridden
 
-LaTeX Warning: Citation 'ncbi' on page 15 undefined on input line 170.
+although it is yet undefined on input line 156.
+Package acronym Info: Label `acro:qpcr' newly defined as it shall be overridden
 
+although it is yet undefined on input line 156.
+Package acronym Info: Label `acro:cdna' newly defined as it shall be overridden
+
+although it is yet undefined on input line 157.
+Package acronym Info: Label `acro:crispr-cas9' newly defined as it shall be ove
+rridden
+although it is yet undefined on input line 160.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
 [15]
-<Image/ncbi_all_result.png, id=467, 882.29625pt x 476.78125pt>
-File: Image/ncbi_all_result.png Graphic file (type png)
-<use Image/ncbi_all_result.png>
-Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 181.
-(pdftex.def)             Requested size: 426.79141pt x 230.63478pt.
-<Image/ncbi_gene_details.png, id=473, 870.75313pt x 471.7625pt>
-File: Image/ncbi_gene_details.png Graphic file (type png)
-<use Image/ncbi_gene_details.png>
-Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 189.
-(pdftex.def)             Requested size: 426.79141pt x 231.22322pt.
-
-
-LaTeX Warning: Citation 'ensembl' on page 16 undefined on input line 196.
-
+Package acronym Info: Label `acro:nih' newly defined as it shall be overridden
+although it is yet undefined on input line 168.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[16 <./Image/ncbi_all_result.png> <./Image/ncbi_gene_details.png>]
-<Image/ensembl_ikzf1.png, id=488, 882.29625pt x 475.27562pt>
+[16]
+<Image/ncbi_all_result.png, id=569, 882.29625pt x 476.78125pt>
+File: Image/ncbi_all_result.png Graphic file (type png)
+<use Image/ncbi_all_result.png>
+Package pdftex.def Info: Image/ncbi_all_result.png  used on input line 178.
+(pdftex.def)             Requested size: 426.79141pt x 230.63478pt.
+<Image/ncbi_gene_details.png, id=575, 870.75313pt x 471.7625pt>
+File: Image/ncbi_gene_details.png Graphic file (type png)
+<use Image/ncbi_gene_details.png>
+Package pdftex.def Info: Image/ncbi_gene_details.png  used on input line 186.
+(pdftex.def)             Requested size: 426.79141pt x 231.22322pt.
+Package acronym Info: Label `acro:rest' newly defined as it shall be overridden
+
+although it is yet undefined on input line 194.
+Package acronym Info: Label `acro:ftp' newly defined as it shall be overridden
+although it is yet undefined on input line 194.
+Package acronym Info: Label `acro:api' newly defined as it shall be overridden
+although it is yet undefined on input line 194.
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[17 <./Image/ncbi_all_result.png> <./Image/ncbi_gene_details.png>]
+<Image/ensembl_ikzf1.png, id=591, 882.29625pt x 475.27562pt>
 File: Image/ensembl_ikzf1.png Graphic file (type png)
 <use Image/ensembl_ikzf1.png>
-Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 204.
+Package pdftex.def Info: Image/ensembl_ikzf1.png  used on input line 201.
 (pdftex.def)             Requested size: 426.79141pt x 229.90646pt.
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[17 <./Image/ensembl_ikzf1.png>]
+[18 <./Image/ensembl_ikzf1.png>]
 chapter 6.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 209.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gls' on input line 209.
-
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[18
+[19
 
 ]
-<Image/gene_description.png, id=510, 1001.99344pt x 364.36125pt>
+<Image/gene_description.png, id=617, 1001.99344pt x 364.36125pt>
 File: Image/gene_description.png Graphic file (type png)
 <use Image/gene_description.png>
-Package pdftex.def Info: Image/gene_description.png  used on input line 227.
+Package pdftex.def Info: Image/gene_description.png  used on input line 223.
 (pdftex.def)             Requested size: 426.79715pt x 155.19896pt.
-
-
-LaTeX Warning: Citation 'ncbi' on page 19 undefined on input line 234.
-
-<Image/creating_topics_algorithm.png, id=515, 693.59125pt x 1205.50375pt>
+<Image/creating_topics_algorithm.png, id=623, 693.59125pt x 1205.50375pt>
 File: Image/creating_topics_algorithm.png Graphic file (type png)
 <use Image/creating_topics_algorithm.png>
 Package pdftex.def Info: Image/creating_topics_algorithm.png  used on input lin
-e 242.
+e 237.
 (pdftex.def)             Requested size: 346.49843pt x 602.23535pt.
+Package acronym Info: Label `acro:blast' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 243.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[19 <./Image/gene_description.png>]
+[20 <./Image/gene_description.png>]
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[20 <./Image/creating_topics_algorithm.png>]
-<Image/LDA_preprocess.png, id=539, 378.41376pt x 945.5325pt>
+[21 <./Image/creating_topics_algorithm.png>]
+<Image/LDA_preprocess.png, id=647, 378.41376pt x 945.5325pt>
 File: Image/LDA_preprocess.png Graphic file (type png)
 <use Image/LDA_preprocess.png>
-Package pdftex.def Info: Image/LDA_preprocess.png  used on input line 261.
+Package pdftex.def Info: Image/LDA_preprocess.png  used on input line 254.
 (pdftex.def)             Requested size: 241.03493pt x 602.26764pt.
-<Image/pyldavis_digram.png, id=540, 263.98625pt x 241.90375pt>
+<Image/pyldavis_digram.png, id=648, 263.98625pt x 241.90375pt>
 File: Image/pyldavis_digram.png Graphic file (type png)
 <use Image/pyldavis_digram.png>
-Package pdftex.def Info: Image/pyldavis_digram.png  used on input line 269.
+Package pdftex.def Info: Image/pyldavis_digram.png  used on input line 262.
 (pdftex.def)             Requested size: 426.81752pt x 391.11417pt.
-<Image/LDA_central_process.png, id=544, 327.2225pt x 1024.82875pt>
+<Image/LDA_central_process.png, id=652, 327.2225pt x 1024.82875pt>
 File: Image/LDA_central_process.png Graphic file (type png)
 <use Image/LDA_central_process.png>
-Package pdftex.def Info: Image/LDA_central_process.png  used on input line 281.
+Package pdftex.def Info: Image/LDA_central_process.png  used on input line 274.
 
 (pdftex.def)             Requested size: 192.29567pt x 602.25117pt.
-<Image/lda_gensim_result.png, id=545, 265.99374pt x 127.47626pt>
+<Image/lda_gensim_result.png, id=653, 265.99374pt x 127.47626pt>
 File: Image/lda_gensim_result.png Graphic file (type png)
 <use Image/lda_gensim_result.png>
-Package pdftex.def Info: Image/lda_gensim_result.png  used on input line 289.
+Package pdftex.def Info: Image/lda_gensim_result.png  used on input line 282.
 (pdftex.def)             Requested size: 426.82848pt x 204.55553pt.
 
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[21]
+[22]
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[22 <./Image/LDA_preprocess.png>]
+[23 <./Image/LDA_preprocess.png>]
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[23 <./Image/pyldavis_digram.png>]
+[24 <./Image/pyldavis_digram.png>]
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[24 <./Image/LDA_central_process.png>]
+[25 <./Image/LDA_central_process.png>]
 Overfull \vbox (21.74998pt too high) has occurred while \output is active []
 
 
-[25 <./Image/lda_gensim_result.png>]
+[26 <./Image/lda_gensim_result.png>]
 chapter 7.
-
-LaTeX Warning: Citation 'blast' on page 26 undefined on input line 304.
-
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[26
+[27
 
 ]
-Overfull \hbox (47.85883pt too wide) in paragraph at lines 321--322
+Overfull \hbox (47.85883pt too wide) in paragraph at lines 312--313
 \OT1/txss/m/n/12 could be cal-cu-lated us-ing cer-tain 'dis-tance met-rics', su
 ch as 'sklearn.neighbors.DistanceMetric'.
  []
 
-(Verzeichnis.tex
 
-LaTeX Warning: Empty bibliography on input line 4.
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[28]
+chapter 8.
+(Abkuerzung.tex
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[29
+
+]
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[30])
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[31]
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <12> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 316.
+
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 11.39996pt on input line 316.
+LaTeX Font Info:    Font shape `OT1/txss/m/sc' will be
+(Font)              scaled to size 11.39996pt on input line 316.
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[32
+
+]
+Overfull \hbox (21.4067pt too wide) in paragraph at lines 317--317
+\OT1/txss/m/sc/12 url\OT1/txss/m/n/12 : []$\OT1/txtt/m/n/12 http : / / www . sc
+iencedirect . com / science / article / pii / S1532046416000253$[]
+ []
 
 
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[27]) (Abkuerzung.tex
-\@gls@deffile=\write12
-\openout12 = `Main.glsdefs'.
+[33]
+Overfull \hbox (13.69919pt too wide) in paragraph at lines 317--317
+\OT1/txtt/m/n/12 www . ebi . ac . uk / Tools / sss / ncbiblast / nucleotide . h
+tml$[] \OT1/txss/m/n/12 (vis-ited on 06/06/2019). 
+ []
 
-)
+
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[28
+[34]
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has b
-een already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.325 \newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.325 \newpage
-              pdfTeX warning (ext4): destination with the same identifier (name
-{cite.}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.325 \newpage
-              ] (Anhang.tex
+[35]
+chapter 9.
+(Anhang.tex
 Overfull \hbox (34.02832pt too wide) in paragraph at lines 6--7
 \OT1/txss/m/n/12 dass die Ar-beit in gle-icher oder []ahn-licher Form noch kein
 er Pr[]ufungs-beh[]orde / Pr[]ufungsstelle
@@ -2902,208 +2700,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 Overfull \vbox (1.26591pt too high) has occurred while \output is active []
 
 
-[29]
-<lda_all_genomes_v04.pdf, id=615, 597.19106pt x 845.07718pt>
+[36
+
+]
+chapter 10.
+<lda_all_genomes_v04.pdf, id=818, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf>
-Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 332.
+Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 321.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf>
-Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 332.
+Package pdftex.def Info: lda_all_genomes_v04.pdf  used on input line 321.
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
-<lda_all_genomes_v04.pdf, id=618, page=1, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=821, page=1, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf, page 1>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 321
 .
 (pdftex.def)             Requested size: 597.1896pt x 845.07512pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf, page 1>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 321
+.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+
+Overfull \vbox (1.26591pt too high) has occurred while \output is active []
+
+
+[37
+
+]
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 1>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 321
 .
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf, page 1>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 321
 .
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
 <use lda_all_genomes_v04.pdf, page 1>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 1>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [30 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=646, page=2, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 2>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 2>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 2>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [31 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=651, page=3, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 3>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 3>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 3>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [32 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=656, page=4, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 4>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 4>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 4>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [33 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=661, page=5, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 5>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 5>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 5>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [34 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=667, page=6, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 6>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 6>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 6>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [35 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=677, page=7, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 7>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 7>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 7>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [36 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=682, page=8, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 8>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 8>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 8>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
- [37 <./lda_all_genomes_v04.pdf
-
-pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
-id other resource which is no dict (key 'ProcSets', type <array>); ignored.
->]
-<lda_all_genomes_v04.pdf, id=687, page=9, 597.19106pt x 845.07718pt>
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 9>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 9>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
-.
-(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
-File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 9>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page1 used on input line 321
 .
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [38 <./lda_all_genomes_v04.pdf
@@ -3111,810 +2751,823 @@ Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 332
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=692, page=10, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=853, page=2, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 10>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 10>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 10>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 2>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page2 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [39 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=697, page=11, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=858, page=3, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 11>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 11>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 11>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 3>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page3 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [40 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=703, page=12, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=864, page=4, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 12>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 12>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 12>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 4>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page4 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [41 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=708, page=13, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=869, page=5, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 13>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 13>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 13>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 5>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page5 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [42 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=713, page=14, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=874, page=6, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 14>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 14>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 14>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 6>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page6 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [43 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=718, page=15, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=884, page=7, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 15>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 15>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 15>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 7>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page7 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [44 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=723, page=16, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=889, page=8, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 16>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 16>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 16>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 8>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page8 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [45 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=728, page=17, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=894, page=9, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 17>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 17>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 17>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 9>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page9 used on input line 321
+.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [46 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=734, page=18, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=900, page=10, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 18>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 18>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 18>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 10>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page10 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [47 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=739, page=19, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=905, page=11, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 19>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 19>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 19>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 11>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page11 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [48 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=744, page=20, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=910, page=12, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 20>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 20>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 20>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 12>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page12 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [49 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=749, page=21, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=915, page=13, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 21>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 21>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 21>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 13>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page13 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [50 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=754, page=22, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=920, page=14, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 22>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 22>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 22>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 14>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page14 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [51 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=759, page=23, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=925, page=15, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 23>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 23>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 23>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 15>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page15 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [52 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=765, page=24, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=931, page=16, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 24>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 24>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 24>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 16>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page16 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [53 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=770, page=25, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=936, page=17, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 25>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 25>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 25>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 17>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page17 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [54 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=775, page=26, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=941, page=18, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 26>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 26>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 26>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 18>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page18 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [55 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=780, page=27, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=946, page=19, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 27>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 27>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 27>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 19>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page19 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [56 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=785, page=28, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=951, page=20, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 28>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 28>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 28>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 20>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page20 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [57 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=790, page=29, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=956, page=21, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 29>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 29>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 29>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 21>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page21 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [58 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=796, page=30, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=962, page=22, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 30>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 30>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 30>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 22>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page22 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [59 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=801, page=31, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=967, page=23, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 31>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 31>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 31>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 23>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page23 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [60 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=806, page=32, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=972, page=24, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 32>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 32>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 32>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 24>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page24 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [61 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=811, page=33, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=977, page=25, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 33>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 33>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 33>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 25>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page25 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [62 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=816, page=34, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=982, page=26, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 34>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 34>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 34>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 26>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page26 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [63 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=821, page=35, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=987, page=27, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 35>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 35>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 35>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 27>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page27 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [64 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=827, page=36, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=993, page=28, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 36>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 36>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 36>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 28>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page28 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [65 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=832, page=37, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=998, page=29, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 37>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 37>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 37>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 29>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page29 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [66 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-<lda_all_genomes_v04.pdf, id=837, page=38, 597.19106pt x 845.07718pt>
+<lda_all_genomes_v04.pdf, id=1003, page=30, 597.19106pt x 845.07718pt>
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 38>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 38>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
 File: lda_all_genomes_v04.pdf Graphic file (type pdf)
-<use lda_all_genomes_v04.pdf, page 38>
-Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 33
-2.
+<use lda_all_genomes_v04.pdf, page 30>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page30 used on input line 32
+1.
 (pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
  [67 <./lda_all_genomes_v04.pdf
 
 pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
 id other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
+<lda_all_genomes_v04.pdf, id=1008, page=31, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 31>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page31 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [68 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1013, page=32, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 32>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page32 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [69 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1018, page=33, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 33>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page33 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [70 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1024, page=34, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 34>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page34 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [71 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1029, page=35, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 35>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page35 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [72 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1034, page=36, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 36>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page36 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [73 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1039, page=37, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 37>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page37 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [74 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<lda_all_genomes_v04.pdf, id=1044, page=38, 597.19106pt x 845.07718pt>
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+File: lda_all_genomes_v04.pdf Graphic file (type pdf)
+<use lda_all_genomes_v04.pdf, page 38>
+Package pdftex.def Info: lda_all_genomes_v04.pdf , page38 used on input line 32
+1.
+(pdftex.def)             Requested size: 597.21693pt x 845.1138pt.
+ [75 <./lda_all_genomes_v04.pdf
+
+pdfTeX warning: pdflatex (file ./lda_all_genomes_v04.pdf): PDF inclusion: inval
+id other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Main
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'Main.run.xml'.
 \openout1 = `Main.run.xml'.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
  ) 
 Here is how much of TeX's memory you used:
- 53653 strings out of 492945
- 1026373 string characters out of 3126253
- 1630237 words of memory out of 3000000
- 56543 multiletter control sequences out of 15000+200000
- 580353 words of font info for 130 fonts, out of 3000000 for 9000
+ 47448 strings out of 492945
+ 908533 string characters out of 3126253
+ 1479850 words of memory out of 3000000
+ 50357 multiletter control sequences out of 15000+200000
+ 581641 words of font info for 132 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,18n,100p,9102b,1955s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{glo:blast} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:api} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:ftp} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:rest} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:nih} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:crispr-cas9} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:cdna} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:qpcr} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:sage} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:pcr} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:crna} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:mrna} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:snp} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:muscle} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:msa} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:efs} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:callcg} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:cna} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:bcpall} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:tall} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:cml} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:cll} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:aml} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:car} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:cgs} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:mclda} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:mcmc} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:dna} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:pca} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:dt} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:id3} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:cart} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:kd} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:nlp} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:ie} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:ir} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:arm} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:re} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:ner} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:nltk} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:cnv} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:bm} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:hmm} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:rst} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:tf-idf} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:rna} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:mirna} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:all} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:ncbi} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{glo:ngs} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:lda} has been referenced but does not exist, re
-placed by a fixed one
+ 74i,18n,89p,9102b,3461s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter.11} has been referenced but does not exis
+t, replaced by a fixed one
 
 {C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
 C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
-mi.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvet
-ic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Main.pdf (70 pages, 1291000 bytes).
+mi.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txf
+onts/rtxsssc.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/txfonts/txtt.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jacky/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jacky/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jacky/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Main.pdf (78 pages, 1352757 bytes).
 PDF statistics:
- 990 PDF objects out of 1000 (max. 8388607)
- 204 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1230 PDF objects out of 1440 (max. 8388607)
+ 290 named destinations out of 1000 (max. 500000)
+ 455 words of extra memory for PDF output out of 10000 (max. 10000000)
 

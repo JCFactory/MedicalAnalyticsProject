@@ -9,10 +9,13 @@
 %\usepackage[onehalfspacing]{setspace}
 \usepackage{geometry, textcomp}
 \newgeometry{right=2cm,left=4cm, top=2.5cm, bottom=2.3cm, footnotesep=0.5cm}
+%\usepackage[acronym]{glossaries}
 
-\usepackage[acronym]{glossaries}	% creates a glossary
-\glsenablehyper
-\makeglossaries
+\usepackage[printonlyused]{acronym}  % Abkürzungsverzeichnis [nur verwendete Abkürzugen]
+
+%\glsenablehyper
+
+%\makeglossaries
 
 \usepackage{savesym}
 \usepackage{amsmath,amssymb,amstext}
@@ -82,6 +85,6 @@
 \usepackage{pstricks}
 \usepackage{pstricks-add}
 
+\bibliography{Lit.bib}
 
-\addbibresource{Lit.bib}
 \usepackage[final]{pdfpages}

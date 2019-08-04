@@ -1,0 +1,1512 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{andersson}{incollection}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=83c28b75e29a659cb6692f223549ee83}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae436c457fc9834c1771f44d383a6195}{%
+           family={Moorman},
+           familyi={M\bibinitperiod},
+           given={Anthony\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5e04b3ae8d523ce30db620157f1284a7}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Christine\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ec611d03fc6d9dca499d5c038f53077f}{%
+           family={Mullighan},
+           familyi={M\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a61587a9ee02a8b0a5a0b9539b409a1b}{%
+           family={Tosi},
+           familyi={T\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b756e7f24816a2f3a69e619b83ff7800}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={Alistair\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Chichester, UK}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd}%
+      }
+      \strng{namehash}{5d602b8e7cfdb8ef32bb5b868abffeb8}
+      \strng{fullhash}{0a57eadb21b0e005f466bc3790cac114}
+      \strng{bibnamehash}{5d602b8e7cfdb8ef32bb5b868abffeb8}
+      \strng{authorbibnamehash}{5d602b8e7cfdb8ef32bb5b868abffeb8}
+      \strng{authornamehash}{5d602b8e7cfdb8ef32bb5b868abffeb8}
+      \strng{authorfullhash}{0a57eadb21b0e005f466bc3790cac114}
+      \strng{editorbibnamehash}{dc34e317c2f88bdf0b423cfab93a7bf1}
+      \strng{editornamehash}{dc34e317c2f88bdf0b423cfab93a7bf1}
+      \strng{editorfullhash}{dc34e317c2f88bdf0b423cfab93a7bf1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Genetic} {Basis} of {Haematological} {Cancers}}
+      \field{isbn}{978-1-118-52794-8}
+      \field{month}{3}
+      \field{title}{Acute lymphoblastic leukaemia}
+      \field{urlday}{31}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{223\bibrangedash 264}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1002/9781118527948.ch5
+      \endverb
+      \verb{file}
+      \verb Andersson et al. - 2016 - Acute lymphoblastic leukaemia.pdf:files/160/Andersson et al. - 2016 - Acute lymphoblastic leukaemia.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/9781118527948.ch5
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/9781118527948.ch5
+      \endverb
+    \endentry
+    \entry{ncbi}{misc}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=ef3a3b48b388565b80dcf2b732954569}{%
+           family={Biotechnology},
+           familyi={B\bibinitperiod},
+           given={National\bibnamedelima Center},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=072488cd4d1cab5b0b253556e9a927cc}{%
+           family={Pike},
+           familyi={P\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi National\bibnamedelimb Library\bibnamedelimb of\bibnamedelimb Medicine\bibnamedelimb 8600\bibnamedelima Rockville},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim 8\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6c02fd0cfc886e34a062f3ee81cd7c41}{%
+           family={MD},
+           familyi={M\bibinitperiod},
+           given={Bethesda},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=07adb8570e66b102b69304608381d0e7}{%
+           family={Usa},
+           familyi={U\bibinitperiod},
+           given={20894},
+           giveni={2\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{fullhash}{d4049440dfb2986d1eac8433abfdea60}
+      \strng{bibnamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authorbibnamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authornamehash}{16239cb35d35069bee52628a486bdc67}
+      \strng{authorfullhash}{d4049440dfb2986d1eac8433abfdea60}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National {Center} for {Biotechnology} {Information}}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:files/143/www.ncbi.nlm.nih.gov.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+    \endentry
+    \entry{blei_2003}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=49e889356ff39df159461bc2895c7e16}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a36116840c7ee55901618c95fd08a58}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{fullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{bibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorbibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authornamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorfullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{ISSN 1533-7928}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{Jan}
+      \field{title}{Latent {Dirichlet} {Allocation}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{993\bibrangedash 1022}
+      \range{pages}{30}
+      \verb{file}
+      \verb Full Text PDF:files/116/Blei et al. - 2003 - Latent Dirichlet Allocation.pdf:application/pdf;Snapshot:files/117/blei03a.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jmlr.org/papers/v3/blei03a.html
+      \endverb
+      \verb{url}
+      \verb http://www.jmlr.org/papers/v3/blei03a.html
+      \endverb
+    \endentry
+    \entry{djatna_2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3be2409d3bc577d08fd5be109f0b22b3}{%
+           family={Djatna},
+           familyi={D\bibinitperiod},
+           given={Taufik},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c1f1cad720342629556521160be50af}{%
+           family={Hardhienata},
+           familyi={H\bibinitperiod},
+           given={Medria\bibnamedelimb Kusuma\bibnamedelima Dewi},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b37531280ea3a26ebf20dfbf25edca6}{%
+           family={Masruriyah},
+           familyi={M\bibinitperiod},
+           given={Anis\bibnamedelimb Fitri\bibnamedelima Nur},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{fullhash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{bibnamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authorbibnamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authornamehash}{5bc3e301bda0547d816023394ef4be7e}
+      \strng{authorfullhash}{5bc3e301bda0547d816023394ef4be7e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2196-1115}
+      \field{journaltitle}{Journal of Big Data}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{An intuitionistic fuzzy diagnosis analytics for stroke disease}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{35}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40537-018-0142-7
+      \endverb
+      \verb{file}
+      \verb Djatna et al. - 2018 - An intuitionistic fuzzy diagnosis analytics for st.pdf:files/36/Djatna et al. - 2018 - An intuitionistic fuzzy diagnosis analytics for st.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0142-7
+      \endverb
+      \verb{url}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0142-7
+      \endverb
+    \endentry
+    \entry{ensembl}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Ensembl genome browser 96}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Ensembl genome browser 96:files/168/index.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ensembl.org/index.html
+      \endverb
+      \verb{url}
+      \verb https://www.ensembl.org/index.html
+      \endverb
+    \endentry
+    \entry{gasperskaja_2017}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=9cba6a2a09413a129c343dc04903e448}{%
+           family={Gasperskaja},
+           familyi={G\bibinitperiod},
+           given={Evelina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc0a19bcaf9652384198d68012ef7bbd}{%
+           family={Kučinskas},
+           familyi={K\bibinitperiod},
+           given={Vaidutis},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{fullhash}{2232fce351538684c1da5f0b3885463b}
+      \strng{bibnamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authorbibnamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authornamehash}{2232fce351538684c1da5f0b3885463b}
+      \strng{authorfullhash}{2232fce351538684c1da5f0b3885463b}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1392-0138}
+      \field{journaltitle}{Acta Medica Lituanica}
+      \field{number}{1}
+      \field{title}{The most common technologies and tools for functional genome analysis}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{24}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.6001/actamedica.v24i1.3457
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:files/141/Gasperskaja und Kučinskas - 2017 - The most common technologies and tools for functio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467957/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467957/
+      \endverb
+    \endentry
+    \entry{callcg_2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=74a978a116e03c27c5a5624ee2fd4707}{%
+           family={Group\bibnamedelima (CALLCG)},
+           familyi={G\bibinitperiod\bibinitdelim (\bibinitperiod},
+           given={Childhood\bibnamedelimb Acute\bibnamedelimb Lymphoblastic\bibnamedelimb Leukaemia\bibnamedelima Collaborative},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{74a978a116e03c27c5a5624ee2fd4707}
+      \strng{fullhash}{74a978a116e03c27c5a5624ee2fd4707}
+      \strng{bibnamehash}{74a978a116e03c27c5a5624ee2fd4707}
+      \strng{authorbibnamehash}{74a978a116e03c27c5a5624ee2fd4707}
+      \strng{authornamehash}{74a978a116e03c27c5a5624ee2fd4707}
+      \strng{authorfullhash}{74a978a116e03c27c5a5624ee2fd4707}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1365-2141}
+      \field{journaltitle}{British Journal of Haematology}
+      \field{number}{3}
+      \field{shorttitle}{Beneficial and harmful effects of anthracyclines in the treatment of childhood acute lymphoblastic leukaemia}
+      \field{title}{Beneficial and harmful effects of anthracyclines in the treatment of childhood acute lymphoblastic leukaemia: a systematic review and meta-analysis}
+      \field{urlday}{31}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{145}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{376\bibrangedash 388}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1365-2141.2009.07624.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:files/159/Group (CALLCG) - 2009 - Beneficial and harmful effects of anthracyclines i.pdf:application/pdf;Snapshot:files/158/j.1365-2141.2009.07624.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2141.2009.07624.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2141.2009.07624.x
+      \endverb
+      \keyw{meta-analysis,anthracycline,childhood ALL,leukaemia,randomized}
+    \endentry
+    \entry{hoffman_2010}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=1ae5610884b2c4a6066ea29d027a23df}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6be1fa8111c82d0958228204b1c3b70}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Francis\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=c2a9c45c49d2ccde0875ffbd30fb26af}{%
+           family={Lafferty},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=03fe732f745576c10e0c06a73741997b}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi K.\bibnamedelimi I.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=17d84f13777dc856d4bd59366a03c33c}{%
+           family={Shawe-Taylor},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d64a2b7de381af23255ca681b0d73a8b}{%
+           family={Zemel},
+           familyi={Z\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8ee7803367fd1973cadc48f464f97a8c}{%
+           family={Culotta},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{fullhash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{bibnamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authorbibnamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authornamehash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{authorfullhash}{56b911fe9a3d0f2835e867db1b63866c}
+      \strng{editorbibnamehash}{fa7e44e909b04f54e90bdfa4f99d2404}
+      \strng{editornamehash}{fa7e44e909b04f54e90bdfa4f99d2404}
+      \strng{editorfullhash}{be80ce50c6592bd126a18b3b440d5880}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in {Neural} {Information} {Processing} {Systems} 23}
+      \field{title}{Online {Learning} for {Latent} {Dirichlet} {Allocation}}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{856\bibrangedash 864}
+      \range{pages}{9}
+      \verb{file}
+      \verb NIPS Snapshot:files/101/3902-online-learning-for-latentdirichlet-allocation!.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf
+      \endverb
+      \verb{url}
+      \verb http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf
+      \endverb
+    \endentry
+    \entry{jagadev}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=66e7061bafc36875b2af4382d711c7af}{%
+           family={Jagadev},
+           familyi={J\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da31052938c5310cd1625af01ea2927a}{%
+           family={Virani},
+           familyi={V\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32b119d2bc25616911b17485335ad3ca}
+      \strng{fullhash}{32b119d2bc25616911b17485335ad3ca}
+      \strng{bibnamehash}{32b119d2bc25616911b17485335ad3ca}
+      \strng{authorbibnamehash}{32b119d2bc25616911b17485335ad3ca}
+      \strng{authornamehash}{32b119d2bc25616911b17485335ad3ca}
+      \strng{authorfullhash}{32b119d2bc25616911b17485335ad3ca}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 {International} {Conference} on {Trends} in {Electronics} and {Informatics} ({ICEI})}
+      \field{month}{5}
+      \field{title}{Detection of leukemia and its types using image processing and machine learning}
+      \field{year}{2017}
+      \field{pages}{522\bibrangedash 526}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICOEI.2017.8300983
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:files/153/8300983.html:text/html;IEEE Xplore Full Text PDF:files/152/Jagadev und Virani - 2017 - Detection of leukemia and its types using image pr.pdf:application/pdf
+      \endverb
+      \keyw{cancer,cellular biophysics,Clustering algorithms,blood,Feature extraction,Acute lymphoblastic leukemia,Acute myeloid leukemia,biomedical optical imaging,Blood,blood cancer,blood smear image processing,bone,bone marrow,Chronic myeloid leukemia,Classification algorithms,Conferences,feature extraction,HSV color based segmentation algorithm,HSV colour based segmentation algorithm,image classification,Image color analysis,image colour analysis,image segmentation,Image segmentation,K means clustering algorithm,learning (artificial intelligence),Leukemic lymphocytes image segmentation,Machine Learning classifier,Marker controlled watershed algorithm,medical image processing,support vector machines,SVM Classifier}
+    \endentry
+    \entry{jurca_2016}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=11700b6bf0be811c66dda212e7a6441f}{%
+           family={Jurca},
+           familyi={J\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b6953fb64d6ac4976d91df5dad0617e}{%
+           family={Addam},
+           familyi={A\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5f58887cecd1f8a46a4357c46f884de4}{%
+           family={Aksac},
+           familyi={A\bibinitperiod},
+           given={Alper},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5eeddb3ce304dbccf85bda944f61e9c8}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Shang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5138f10b0c5dfc1ecbd1fa21e36ae318}{%
+           family={Özyer},
+           familyi={Ö\bibinitperiod},
+           given={Tansel},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ca17f757359e595dd44262d065131cc}{%
+           family={Demetrick},
+           familyi={D\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=27f1e685b28e4afd07e85c16573578f8}{%
+           family={Alhajj},
+           familyi={A\bibinitperiod},
+           given={Reda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{fullhash}{d92bc8ea8cff02530ec5c69699571edc}
+      \strng{bibnamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authorbibnamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authornamehash}{d9bb8f908baa0c20f98c53a97ede5289}
+      \strng{authorfullhash}{d92bc8ea8cff02530ec5c69699571edc}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1756-0500}
+      \field{journaltitle}{BMC Research Notes}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Integrating text mining, data mining, and network analysis for identifying genetic breast cancer trends}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1186/s13104-016-2023-5
+      \endverb
+      \verb{file}
+      \verb Jurca et al. - 2016 - Integrating text mining, data mining, and network .pdf:files/22/Jurca et al. - 2016 - Integrating text mining, data mining, and network .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-016-2023-5
+      \endverb
+      \verb{url}
+      \verb http://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-016-2023-5
+      \endverb
+    \endentry
+    \entry{lee}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c6d1b6ad9d8d3c9de024f9c74ad3e767}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyunju},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8585751b718474f09c307f7bd5babca5}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Sek\bibnamedelima Won},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=3d85caa963ffda60c7aeec4c230bbab2}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{6ed382b9e89e1b341d646f784b9c3695}
+      \strng{fullhash}{6ed382b9e89e1b341d646f784b9c3695}
+      \strng{bibnamehash}{6ed382b9e89e1b341d646f784b9c3695}
+      \strng{authorbibnamehash}{6ed382b9e89e1b341d646f784b9c3695}
+      \strng{authornamehash}{6ed382b9e89e1b341d646f784b9c3695}
+      \strng{authorfullhash}{6ed382b9e89e1b341d646f784b9c3695}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1367-4811}
+      \field{journaltitle}{Bioinformatics (Oxford, England)}
+      \field{month}{4}
+      \field{number}{7}
+      \field{title}{Integrative analysis reveals the direct and indirect interactions between {DNA} copy number aberrations and gene expression changes}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{889\bibrangedash 896}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btn034
+      \endverb
+      \verb{file}
+      \verb Akzeptierte Version:files/175/Lee et al. - 2008 - Integrative analysis reveals the direct and indire.pdf:application/pdf
+      \endverb
+      \keyw{Computer Simulation,DNA Mutational Analysis,DNA,Neoplasm,Gene Dosage,Gene Expression Profiling,Gene Expression Regulation,Neoplastic,Humans,Models,Genetic,Neoplasm Proteins,Neoplasms,Systems Integration}
+    \endentry
+    \entry{lloret_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=418fce18bd6663f79ac4cbb1a2ff219c}{%
+           family={Lloret},
+           familyi={L\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=274a8dd019339ca527665960b5d2e411}{%
+           family={Palomar},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{fullhash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{bibnamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authorbibnamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authornamehash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \strng{authorfullhash}{90896b9a93a9d1f9de01b3ed3f5dced5}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-7462}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Text summarisation in progress: a literature review}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1007/s10462-011-9216-z
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10462-011-9216-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10462-011-9216-z
+      \endverb
+    \endentry
+    \entry{lu_2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e438c9ec3d923b867c73d072ecb6152}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hsin-Min},
+           giveni={H\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=542e9c3668d05980aca3efe03f8d7cc5}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Chih-Ping},
+           giveni={C\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18c8a7db043054a1b6fec23be19c5351}{%
+           family={Hsiao},
+           familyi={H\bibinitperiod},
+           given={Fei-Yuan},
+           giveni={F\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{fullhash}{9155a961d6b957362bfff317e06f263e}
+      \strng{bibnamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authorbibnamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authornamehash}{9155a961d6b957362bfff317e06f263e}
+      \strng{authorfullhash}{9155a961d6b957362bfff317e06f263e}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-0464}
+      \field{journaltitle}{Journal of Biomedical Informatics}
+      \field{month}{4}
+      \field{title}{Modeling healthcare data using multiple-channel latent {Dirichlet} allocation}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{60}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{210\bibrangedash 223}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jbi.2016.02.003
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:files/114/Lu et al. - 2016 - Modeling healthcare data using multiple-channel la.pdf:application/pdf;ScienceDirect Snapshot:files/113/S1532046416000253.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1532046416000253
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1532046416000253
+      \endverb
+      \keyw{Diagnosis prediction,Diagnosis–medication associations,Health informatics,Healthcare data mining,Medication prediction,Multiple-channel latent Dirichlet allocation}
+    \endentry
+    \entry{montano_2018}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=ed780fefad653979464c35cb942d2653}{%
+           family={Montaño},
+           familyi={M\bibinitperiod},
+           given={Adrián},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e4d8b6536ae895f81d9c4cd6d226be8}{%
+           family={Forero-Castro},
+           familyi={F\bibinithyphendelim C\bibinitperiod},
+           given={Maribel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9682f0b95f55b258e0a781de0e1ec87b}{%
+           family={Hernández-Rivas},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Jesús-María},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=515e704fad23b06849218ad27d86177a}{%
+           family={García-Tuñón},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a7d2285719df15261e2be025181d189}{%
+           family={Benito},
+           familyi={B\bibinitperiod},
+           given={Rocío},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{fullhash}{bc9433f7a9812474dc6c03ec47dad070}
+      \strng{bibnamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authorbibnamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authornamehash}{deb9be071101550a9d5327f6038b6fe9}
+      \strng{authorfullhash}{bc9433f7a9812474dc6c03ec47dad070}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Genome editing technologies offers new opportunities for tackling diseases such as acute lymphoblastic leukemia (ALL) that have been beyond the reach of previous therapies.}
+      \field{issn}{1472-6750}
+      \field{journaltitle}{BMC Biotechnology}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shorttitle}{Targeted genome editing in acute lymphoblastic leukemia}
+      \field{title}{Targeted genome editing in acute lymphoblastic leukemia: a review}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{45}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12896-018-0455-9
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:files/98/Montaño et al. - 2018 - Targeted genome editing in acute lymphoblastic leu.pdf:application/pdf;Snapshot:files/99/s12896-018-0455-9.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12896-018-0455-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12896-018-0455-9
+      \endverb
+    \endentry
+    \entry{nltk}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural {Language} {Toolkit} — {NLTK} 3.4.1 documentation}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Natural Language Toolkit — NLTK 3.4.1 documentation:files/138/www.nltk.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nltk.org/
+      \endverb
+      \verb{url}
+      \verb https://www.nltk.org/
+      \endverb
+    \endentry
+    \entry{blast}{misc}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{{NCBI} {BLAST} {<} {Sequence} {Similarity} {Searching} {<} {EMBL}-{EBI}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb NCBI BLAST < Sequence Similarity Searching < EMBL-EBI:files/171/nucleotide.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ebi.ac.uk/Tools/sss/ncbiblast/nucleotide.html
+      \endverb
+      \verb{url}
+      \verb https://www.ebi.ac.uk/Tools/sss/ncbiblast/nucleotide.html
+      \endverb
+    \endentry
+    \entry{park_2009}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=86084ac8caf5f18b13cd932bd6aa8dff}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Laurence\bibnamedelimb A.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=b6fb14c7c121144249fdc97049b51169}{%
+           family={Ramamohanarao},
+           familyi={R\bibinitperiod},
+           given={Kotagiri},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=97f723cbded90372d0c37e035b53bd9e}{%
+           family={Buntine},
+           familyi={B\bibinitperiod},
+           given={Wray},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3bd5bf87c9e390a1d8f33dd98ef52b98}{%
+           family={Grobelnik},
+           familyi={G\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e31d3ba50be295f54b22a7fc6b55f32}{%
+           family={Mladenić},
+           familyi={M\bibinitperiod},
+           given={Dunja},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8feae4ec394a5f6905c74b1a7abff875}{%
+           family={Shawe-Taylor},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{fullhash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{bibnamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authorbibnamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authornamehash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{authorfullhash}{d74eb3405bfe28bf7b15b5168faf6cc2}
+      \strng{editorbibnamehash}{f024438baa783f0f0efdae3680a221df}
+      \strng{editornamehash}{f024438baa783f0f0efdae3680a221df}
+      \strng{editorfullhash}{abe8cb321e1d889585f940417cb7ecd6}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Machine {Learning} and {Knowledge} {Discovery} in {Databases}}
+      \field{isbn}{978-3-642-04174-7}
+      \field{series}{Lecture {Notes} in {Computer} {Science}}
+      \field{title}{The {Sensitivity} of {Latent} {Dirichlet} {Allocation} for {Information} {Retrieval}}
+      \field{year}{2009}
+      \field{pages}{176\bibrangedash 188}
+      \range{pages}{13}
+      \verb{file}
+      \verb Springer Full Text PDF:files/96/Park und Ramamohanarao - 2009 - The Sensitivity of Latent Dirichlet Allocation for.pdf:application/pdf
+      \endverb
+      \keyw{latent Dirichlet allocation,probabilistic latent semantic analysis,query expansion,thesaurus}
+    \endentry
+    \entry{gensim}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b18678c3d1080b2d17429891ff481948}{%
+           family={{Ř}eh{ů}{ř}ek},
+           familyi={Ř\bibinitperiod},
+           given={Radim},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6279e9bacedcff3b6605bcd9faaaf41c}{%
+           family={Sojka},
+           familyi={S\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Valletta, Malta}%
+      }
+      \list{publisher}{1}{%
+        {ELRA}%
+      }
+      \strng{namehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{fullhash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{bibnamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authorbibnamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authornamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authorfullhash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \field{sortinit}{Ř}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks}}
+      \field{month}{5}
+      \field{note}{\url{http://is.muni.cz/publication/884893/en}}
+      \field{title}{{Software Framework for Topic Modelling with Large Corpora}}
+      \field{year}{2010}
+      \field{pages}{45\bibrangedash 50}
+      \range{pages}{6}
+    \endentry
+    \entry{callcg_2010}{article}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-2141}
+      \field{journaltitle}{British Journal of Haematology}
+      \field{number}{5}
+      \field{title}{Systematic review of the addition of vincristine plus steroid pulses in maintenance treatment for childhood acute lymphoblastic leukaemia – an individual patient data meta-analysis involving 5659 children}
+      \field{urlday}{31}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{149}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{722\bibrangedash 733}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.1365-2141.2010.08148.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:files/156/2010 - Systematic review of the addition of vincristine p.pdf:application/pdf;Snapshot:files/155/j.1365-2141.2010.08148.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2141.2010.08148.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2141.2010.08148.x
+      \endverb
+      \keyw{acute leukaemia,all,childhood leukaemia,leukaemia trials,meta-analysis}
+    \endentry
+    \entry{tang}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=059d68273d9db0bd3d40e8e646202240}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=039f70565cc95ccd6851ad393fcf2844}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \strng{fullhash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \strng{bibnamehash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \strng{authorbibnamehash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \strng{authornamehash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \strng{authorfullhash}{b9c69e3143f4066a53144892fe1ae5c2}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 {IEEE} {First} {International} {Conference} on {Healthcare} {Informatics}, {Imaging} and {Systems} {Biology}}
+      \field{month}{7}
+      \field{title}{Subtyping of {Leukemia} with {Gene} {Expression} {Analysis} {Using} {Compressive} {Sensing} {Method}}
+      \field{year}{2011}
+      \field{pages}{76\bibrangedash 80}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/HISB.2011.60
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:files/150/6061457.html:text/html;IEEE Xplore Full Text PDF:files/149/Tang et al. - 2011 - Subtyping of Leukemia with Gene Expression Analysi.pdf:application/pdf
+      \endverb
+      \keyw{acute myeloid leukemia,cancer,Cancer,Gene expression,genetics,Accuracy,acute lymphoblastic leukemia,blood,Bones,cancer detection,cancer diagnosis,cancer treatment,Classification,classification accuracy,Compressed sensing,Compressive Sensing,compressive sensing method,data analysis,Detectors,Feature extraction,Gene Expression,gene expression analysis,Leukemia,leukemia genetic markups,leukemia subtyping,medical computing,patient diagnosis,pattern classification,signal reconstruction}
+    \endentry
+    \entry{twinandilla_2018}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=775ced445f58d934abc4d6bd9ffcf9bb}{%
+           family={Twinandilla},
+           familyi={T\bibinitperiod},
+           given={Shiva},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=64f0ebb158bc8a369dc0c4b35b658b95}{%
+           family={Adhy},
+           familyi={A\bibinitperiod},
+           given={Satriyo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=274ec0e8ba5caf2559099f7efb7efe5f}{%
+           family={Surarso},
+           familyi={S\bibinitperiod},
+           given={Bayu},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=af1082ae6cc67e00fffb8ddd85dcd07f}{%
+           family={Kusumaningrum},
+           familyi={K\bibinitperiod},
+           given={Retno},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{fullhash}{87eeed92b9de9b4c69750ec996ca255a}
+      \strng{bibnamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authorbibnamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authornamehash}{618be7e1216f40fa90ae1a1cd9f65e94}
+      \strng{authorfullhash}{87eeed92b9de9b4c69750ec996ca255a}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{The 3rd {International} {Conference} on {Computer} {Science} and {Computational} {Intelligence} ({ICCSCI} 2018) : {Empowering} {Smart} {Technology} in {Digital} {Era} for a {Better} {Life}}
+      \field{title}{Multi-{Document} {Summarization} {Using} {K}-{Means} and {Latent} {Dirichlet} {Allocation} ({LDA}) – {Significance} {Sentences}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{663\bibrangedash 670}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2018.08.220
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:files/110/Twinandilla et al. - 2018 - Multi-Document Summarization Using K-Means and Lat.pdf:application/pdf;ScienceDirect Snapshot:files/109/S1877050918315138.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1877050918315138
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1877050918315138
+      \endverb
+      \keyw{K-Means,Latent Dirichlet Allocation,Multi-Document Summarization,Online News,ROUGE-1,Significance Sentences,Yellow Journalism}
+    \endentry
+    \entry{wang_2008}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=e88500bd6ca50746707a22554761b61a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=25662894963cd252a7cecdd053456dad}{%
+           family={Grimson},
+           familyi={G\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=544ae8100f35e3afea8c1d8178268645}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0ffc3f404f0baef79d60dfb5034ff37a}{%
+           family={Koller},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0c73d830a66b0ad6defa1ca64e93b608}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=248cd9051ff7ab38f634f928961993e6}{%
+           family={Roweis},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{fullhash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{bibnamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authorbibnamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authornamehash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{authorfullhash}{ee534f78ac8beb1d779b25960b9a32a6}
+      \strng{editorbibnamehash}{5e34a34e9e4af6316851ebd6bfeab3b4}
+      \strng{editornamehash}{5e34a34e9e4af6316851ebd6bfeab3b4}
+      \strng{editorfullhash}{017244b65e8723a0f1c31e9ae2b35c2c}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in {Neural} {Information} {Processing} {Systems} 20}
+      \field{title}{Spatial {Latent} {Dirichlet} {Allocation}}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{1577\bibrangedash 1584}
+      \range{pages}{8}
+      \verb{file}
+      \verb NIPS Full Text PDF:files/103/Wang und Grimson - 2008 - Spatial Latent Dirichlet Allocation.pdf:application/pdf;NIPS Snapshot:files/104/3278-spatial-latent-dirichlet-allocation.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
+      \endverb
+      \verb{url}
+      \verb http://papers.nips.cc/paper/3278-spatial-latent-dirichlet-allocation.pdf
+      \endverb
+    \endentry
+    \entry{xu_2013}{article}{}
+      \name{author}{12}{}{%
+        {{uniquename=0,uniquepart=base,hash=27881cf4f0fb4ed11222985c8ac6c5da}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yahong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c4ed5d7aba26f8e3022034cb128ebc63}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Shunwen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2bb35bf59aaca26e59bbdb0d0192f3b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82ecbae219cd3e89336a57aaa4226294}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=320f71263e21adfdacf80be5e651586c}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Zhigang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=899cf7e23586d60be71451538fdad412}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Qihua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=924394fd0d9f89fee540a70c2f670441}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoping},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eed4591cc87fd0f424637f308dd29cdf}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Minghui},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ba51490fdfee4e053d199f28e82dad4f}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f9d052e32540c1d8008e05e55c129e63}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7ab947d5412a3e2fb932e67fcdb67505}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{fullhash}{d47c6078a5d880a6876ed8e1ae03cd32}
+      \strng{bibnamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authorbibnamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authornamehash}{c380cd88157017df7965edfa981eeb75}
+      \strng{authorfullhash}{d47c6078a5d880a6876ed8e1ae03cd32}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2047-783X}
+      \field{journaltitle}{European Journal of Medical Research}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{{RETRACTED} {ARTICLE}: {Integrated} gene network analysis and text mining revealing {PIK}3R1 regulated by {miR}-127 in human bladder cancer}
+      \field{volume}{18}
+      \field{year}{2013}
+      \field{pages}{29}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/2047-783X-18-29
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/2047-783X-18-29
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/2047-783X-18-29
+      \endverb
+    \endentry
+    \entry{yang_2018}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=388210b5341a1256162dbdd3fed49ec6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a9a52a3a988b9721f21b78c1ad99e560}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Zhuo},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe8b578a9152270342d3fad212b31bb6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chengkun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44ab898a95bd6d4e8803389ae23b2650}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6c0d0e6d84c5dc5b9451de034bad06d}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lingqian},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=995aa5b4f682c2824764d670d6f068d0}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{fullhash}{8560aaca10b8ae65b2c0061e16f90e27}
+      \strng{bibnamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authorbibnamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authornamehash}{e837f368648fa60c4f4854ae33148b71}
+      \strng{authorfullhash}{8560aaca10b8ae65b2c0061e16f90e27}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{12}
+      \field{number}{S19}
+      \field{title}{Constructing a database for the relations between {CNV} and human genetic diseases via systematic text mining}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{19}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{528}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12859-018-2526-2
+      \endverb
+      \verb{file}
+      \verb Yang et al. - 2018 - Constructing a database for the relations between .pdf:files/39/Yang et al. - 2018 - Constructing a database for the relations between .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2526-2
+      \endverb
+      \verb{url}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2526-2
+      \endverb
+    \endentry
+    \entry{zhao_2016}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=33cdf7934d6b53d1582891422c9c283a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Weizhong},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dd2e90b4b79136c2c03cc40b26908c2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=93a6b9064c4ba4ae360171f4dba83592}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c78503aaa49a656724e2cb1160afaf62}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f922be4dedcfd34ce26fa1152c6e061a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhichao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=035a7520204dc2ab480a6835f5a68b0f}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Huixiao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=50b19a795924bc4d7edf515869228fdb}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Weida},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b0426e1b927ce3063ffb8c1afb11885d}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{fullhash}{0e66dc5df5515dae5b6c7eebc669ee10}
+      \strng{bibnamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authorbibnamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authornamehash}{cbffa8d42a462e09cd63a95f096b0580}
+      \strng{authorfullhash}{0e66dc5df5515dae5b6c7eebc669ee10}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{A novel procedure on next generation sequencing data analysis using text mining algorithm}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{213}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12859-016-1075-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12859-016-1075-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12859-016-1075-9
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
